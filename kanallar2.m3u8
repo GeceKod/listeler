@@ -4,12 +4,14 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerf2ef14dc37.click
 #EXTINF:-1 tvg-name="Al Wahda - Al Sadd" group-title="Maç Yayınları",Al Wahda - Al Sadd
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Galatasaray - St.Gilloise" group-title="Maç Yayınları",Galatasaray - St.Gilloise
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktrt1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajax - Benfica" group-title="Maç Yayınları",Ajax - Benfica
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor1/playlist.m3u8
-#EXTINF:-1 tvg-name="B.Dortmund - Villarreal" group-title="Maç Yayınları",B.Dortmund - Villarreal
-https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodo Glimt - Juventus" group-title="Maç Yayınları",Bodo Glimt - Juventus
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="B.Dortmund - Villarreal" group-title="Maç Yayınları",B.Dortmund - Villarreal
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Newcastle" group-title="Maç Yayınları",Marsilya - Newcastle
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor6/playlist.m3u8
 #EXTINF:-1 tvg-name="Napoli - Karabağ" group-title="Maç Yayınları",Napoli - Karabağ
@@ -18,8 +20,12 @@ https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor4/playlist.m3u8
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe Beko - Virtus Bologna" group-title="Maç Yayınları",Fenerbahçe Beko - Virtus Bologna
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Wahda - Al Sadd" group-title="Maç Yayınları",Al Wahda - Al Sadd
-https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Panathinaikos - Partizan" group-title="Maç Yayınları",Panathinaikos - Partizan
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax - Benfica" group-title="Maç Yayınları",Ajax - Benfica
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chelsea - Barcelona" group-title="Maç Yayınları",Chelsea - Barcelona
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktabiispor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
@@ -30,12 +36,12 @@ https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsports4/playlist.m3u
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Haber" group-title="BeinSports",Bein Sports Haber
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsportshaber/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Max 1" group-title="BeinSports",Bein Sports Max 1
-https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Maç Yayınları",Sky Sports F1
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuksf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Diğer Spor",Smart Spor 2
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuksmartspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
@@ -52,8 +58,6 @@ https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktrtspor/playlist.m3u8
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktrtspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz" group-title="Maç Yayınları",TRT Avaz
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktrtavaz/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal Kanallar",TRT 1
-https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuktrt1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="Diğer Spor",NBA TV
 https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcuknbatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1" group-title="Diğer Spor",Eurosport 1

@@ -1,27 +1,25 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://main.uxsyplayer604663b633.click/
-#EXT-X-ORIGIN:https://main.uxsyplayer604663b633.click
+#EXT-X-REFERER:https://main.uxsyplayer7b7d56fc37.click/
+#EXT-X-ORIGIN:https://main.uxsyplayer7b7d56fc37.click
 #EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray (Yalçın Çetin) HD1" group-title="Maç Yayınları",Fenerbahçe - Galatasaray (Yalçın Çetin) HD1
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray (Ali Ferahbot)" group-title="Maç Yayınları",Fenerbahçe - Galatasaray (Ali Ferahbot)
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukobs2/playlist.m3u8
-#EXTINF:-1 tvg-name="Adana Demirspor - Hatayspor" group-title="Maç Yayınları",Adana Demirspor - Hatayspor
-https://dga1op10s1u3leo.10add07f896289.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Samsunspor - Alanyaspor" group-title="Maç Yayınları",Samsunspor - Alanyaspor
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray" group-title="Maç Yayınları",Fenerbahçe - Galatasaray
-https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Adana Demirspor - Hatayspor" group-title="Maç Yayınları",Adana Demirspor - Hatayspor
+https://dga1op10s1u3leo.10add07f896289.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Bologna - Cremonese" group-title="Maç Yayınları",Bologna - Cremonese
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Rayo Vallecano - Valencia" group-title="Maç Yayınları",Rayo Vallecano - Valencia
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Barracas Central - Gimnasia La Plata" group-title="Maç Yayınları",Barracas Central - Gimnasia La Plata
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray (Yalçın Çetin) HD1" group-title="Maç Yayınları",Fenerbahçe - Galatasaray (Yalçın Çetin) HD1
-https://dga1op10s1u3leo.10add07f896289.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Barracas Central - Gimnasia La Plata" group-title="Maç Yayınları",Barracas Central - Gimnasia La Plata
-https://dga1op10s1u3leo.10add07f896289.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Samsunspor - Alanyaspor" group-title="Maç Yayınları",Samsunspor - Alanyaspor
+https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
+https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 4" group-title="BeinSports",Bein Sports 4
@@ -34,8 +32,6 @@ https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsportshaber/playlist
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukbeinsportsmax2/playlist.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://dga1op10s1u3leo.10add07f896289.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Maç Yayınları",Sky Sports F1
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuksf1/playlist.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Diğer Spor",Smart Spor 2
@@ -44,6 +40,8 @@ https://dga1op10s1u3leo.10add07f896289.click/live/selcuksmartspor2/playlist.m3u8
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
+https://dga1op10s1u3leo.10add07f896289.click/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuktivibuspor4/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor" group-title="Maç Yayınları",tabii Spor
@@ -72,3 +70,5 @@ https://dga1op10s1u3leo.10add07f896289.click/live/selcuktrt1/playlist.m3u8
 https://dga1op10s1u3leo.10add07f896289.click/live/selcuknbatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1" group-title="Diğer Spor",Eurosport 1
 https://dga1op10s1u3leo.10add07f896289.click/live/selcukeurosport1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" group-title="Diğer Spor",Eurosport 2
+https://dga1op10s1u3leo.10add07f896289.click/live/selcukeurosport2/playlist.m3u8

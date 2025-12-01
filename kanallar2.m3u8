@@ -16,8 +16,6 @@ https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray (Ali Ferahbot)" group-title="Maç Yayınları",Fenerbahçe - Galatasaray (Ali Ferahbot)
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukobs2/playlist.m3u8
-#EXTINF:-1 tvg-name="Rayo Vallecano - Valencia" group-title="Maç Yayınları",Rayo Vallecano - Valencia
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
@@ -34,6 +32,8 @@ https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportshaber/playlist
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax2/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Maç Yayınları",Sky Sports F1

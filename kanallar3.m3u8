@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://main.uxsyplayer604663b633.click/
-#EXT-X-ORIGIN:https://main.uxsyplayer604663b633.click
+#EXT-X-REFERER:https://main.uxsyplayer7b7d56fc37.click/
+#EXT-X-ORIGIN:https://main.uxsyplayer7b7d56fc37.click
 
 #EXTINF:-1 tvg-name="Fenerbahçe - Galatasaray - 20:00" group-title="Maç Yayınları",Fenerbahçe - Galatasaray - 20:00
 https://dga1op10s1u3leo.10add07f896289.click/live/bein-sports-1/playlist.m3u8
@@ -13,6 +13,8 @@ https://dga1op10s1u3leo.10add07f896289.click/live/s-sport-2/playlist.m3u8
 https://dga1op10s1u3leo.10add07f896289.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.10add07f896289.click/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
+https://dga1op10s1u3leo.10add07f896289.click/live/bein-sports-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
 https://dga1op10s1u3leo.10add07f896289.click/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 4" group-title="BeinSports",Bein Sports 4
@@ -31,8 +33,6 @@ https://dga1op10s1u3leo.10add07f896289.click/live/tivibu-spor-2/playlist.m3u8
 https://dga1op10s1u3leo.10add07f896289.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
 https://dga1op10s1u3leo.10add07f896289.click/live/tivibu-spor-4/playlist.m3u8
-#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
-https://dga1op10s1u3leo.10add07f896289.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal Kanallar",TRT 1
 https://dga1op10s1u3leo.10add07f896289.click/live/trt-spor/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal Kanallar",TV8

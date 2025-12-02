@@ -2,18 +2,18 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer077db473cf.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer077db473cf.click
-#EXTINF:-1 tvg-name="Fulham - Manchester City" group-title="Maç Yayınları",Fulham - Manchester City
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bournemouth - Everton" group-title="Maç Yayınları",Bournemouth - Everton
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Juventus - Udinese" group-title="Maç Yayınları",Juventus - Udinese
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham - Manchester City" group-title="Maç Yayınları",Fulham - Manchester City
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Atletico Madrid" group-title="Maç Yayınları",Barcelona - Atletico Madrid
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Juventus - Udinese" group-title="Maç Yayınları",Juventus - Udinese
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Tottenham" group-title="Maç Yayınları",Newcastle - Tottenham
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Newcastle - Tottenham" group-title="Maç Yayınları",Newcastle - Tottenham
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Barcelona - Atletico Madrid" group-title="Maç Yayınları",Barcelona - Atletico Madrid
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 5" group-title="BeinSports",Bein Sports 5
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Haber" group-title="BeinSports",Bein Sports Haber
@@ -22,6 +22,8 @@ https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportshaber/playlist
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax2/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Maç Yayınları",Sky Sports F1

@@ -3,10 +3,10 @@
 #EXT-X-REFERER:https://main.uxsyplayer077db473cf.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer077db473cf.click
 
-#EXTINF:-1 tvg-name="Fulham - Manchester City - 22:30" group-title="Maç Yayınları",Fulham - Manchester City - 22:30
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bournemouth - Everton - 22:30" group-title="Maç Yayınları",Bournemouth - Everton - 22:30
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham - Manchester City - 22:30" group-title="Maç Yayınları",Fulham - Manchester City - 22:30
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Atletico Madrid - 23:00" group-title="Maç Yayınları",Barcelona - Atletico Madrid - 23:00
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Tottenham - 23:15" group-title="Maç Yayınları",Newcastle - Tottenham - 23:15
@@ -15,6 +15,8 @@ https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-2/playlist.m3u8
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 4" group-title="BeinSports",Bein Sports 4
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/bein-sports-4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 5" group-title="BeinSports",Bein Sports 5

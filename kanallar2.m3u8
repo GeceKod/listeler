@@ -2,23 +2,35 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer077db473cf.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer077db473cf.click
-#EXTINF:-1 tvg-name="Muşspor - Konyaspor" group-title="Maç Yayınları",Muşspor - Konyaspor
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Keçiörengücü - Kayserispor" group-title="Maç Yayınları",Keçiörengücü - Kayserispor
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Ç.Rizespor - Pendikspor" group-title="Maç Yayınları",Ç.Rizespor - Pendikspor
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Sakaryaspor - Gençlerbirliği" group-title="Maç Yayınları",Sakaryaspor - Gençlerbirliği
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Fulham - Manchester City" group-title="Maç Yayınları",Fulham - Manchester City
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bournemouth - Everton" group-title="Maç Yayınları",Bournemouth - Everton
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham - Manchester City" group-title="Maç Yayınları",Fulham - Manchester City
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Juventus - Udinese" group-title="Maç Yayınları",Juventus - Udinese
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Atletico Madrid" group-title="Maç Yayınları",Barcelona - Atletico Madrid
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Juventus - Udinese" group-title="Maç Yayınları",Juventus - Udinese
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Tottenham" group-title="Maç Yayınları",Newcastle - Tottenham
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Juventus - Udinese" group-title="Maç Yayınları",Juventus - Udinese
+#EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Spor" group-title="Ulusal Kanallar",TRT Spor
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Spor 2" group-title="Ulusal Kanallar",TRT Spor 2
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" group-title="Maç Yayınları",TRT Avaz
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtavaz/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal Kanallar",TRT 1
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrt1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" group-title="Diğer Spor",NBA TV
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuknbatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="Diğer Spor",Eurosport 1
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukeurosport1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" group-title="Diğer Spor",Eurosport 2
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukeurosport2/playlist.m3u8

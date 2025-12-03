@@ -2,32 +2,38 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer077db473cf.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer077db473cf.click
-#EXTINF:-1 tvg-name="Karacabey Bld. - Kocaelispor" group-title="Maç Yayınları",Karacabey Bld. - Kocaelispor
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Eyüpspor - Çankaya FK" group-title="Maç Yayınları",Eyüpspor - Çankaya FK
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Esenler Erokspor - Fatih Karagümrük" group-title="Maç Yayınları",Esenler Erokspor - Fatih Karagümrük
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Genoa" group-title="Maç Yayınları",Atalanta - Genoa
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Beyoğlu Yeni Çarşı - Göztepe" group-title="Maç Yayınları",Beyoğlu Yeni Çarşı - Göztepe
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Napoli - Cagliari" group-title="Maç Yayınları",Napoli - Cagliari
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Trabzonspor - Vanspor" group-title="Maç Yayınları",Trabzonspor - Vanspor
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Athletic Bilbao - Real Madrid" group-title="Maç Yayınları",Athletic Bilbao - Real Madrid
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Wolverhampton - Nottingham Forest" group-title="Maç Yayınları",Wolverhampton - Nottingham Forest
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Brentford" group-title="Maç Yayınları",Arsenal - Brentford
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Burnley - Crystal Palace" group-title="Maç Yayınları",Burnley - Crystal Palace
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brighton - Aston Villa" group-title="Maç Yayınları",Brighton - Aston Villa
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Liverpool - Sunderland" group-title="Maç Yayınları",Liverpool - Sunderland
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Leeds United - Chelsea" group-title="Maç Yayınları",Leeds United - Chelsea
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Athletic Bilbao - Real Madrid" group-title="Maç Yayınları",Athletic Bilbao - Real Madrid
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 5" group-title="BeinSports",Bein Sports 5
-https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-name="Esenler Erokspor - Fatih Karagümrük" group-title="Maç Yayınları",Esenler Erokspor - Fatih Karagümrük
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Beyoğlu Yeni Çarşı - Göztepe" group-title="Maç Yayınları",Beyoğlu Yeni Çarşı - Göztepe
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Haber" group-title="BeinSports",Bein Sports Haber
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
+https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
 https://dga1op10s1u3leo.b2101e1ff539c5.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Maç Yayınları",Sky Sports F1

@@ -24,12 +24,16 @@ https://g8l.04bf112a615942b44.sbs/yayinbm2.m3u8
 https://g8l.04bf112a615942b44.sbs/yayinss.m3u8
 #EXTINF:-1 tvg-name="Saran Sports 2" group-title="S Sports",Saran Sports 2
 https://g8l.04bf112a615942b44.sbs/yayinss2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Sports 1" group-title="Tivibu",Tivibu Sports 1
+https://g8l.04bf112a615942b44.sbs/yayint1.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 2" group-title="Tivibu",Tivibu Sports 2
 https://g8l.04bf112a615942b44.sbs/yayint2.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 3" group-title="Tivibu",Tivibu Sports 3
 https://g8l.04bf112a615942b44.sbs/yayint3.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 4" group-title="Tivibu",Tivibu Sports 4
 https://g8l.04bf112a615942b44.sbs/yayint4.m3u8
+#EXTINF:-1 tvg-name="Smart Sports" group-title="Smart Sports",Smart Sports
+https://g8l.04bf112a615942b44.sbs/yayinsmarts.m3u8
 #EXTINF:-1 tvg-name="Smart Sports 2" group-title="Smart Sports",Smart Sports 2
 https://g8l.04bf112a615942b44.sbs/yayinsms2.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="NBA",NBA TV
@@ -56,6 +60,12 @@ https://g8l.04bf112a615942b44.sbs/yayinex5.m3u8
 https://g8l.04bf112a615942b44.sbs/yayinex6.m3u8
 #EXTINF:-1 tvg-name="Tâbii 7" group-title="Tabii",Tâbii 7
 https://g8l.04bf112a615942b44.sbs/yayinex7.m3u8
+#EXTINF:-1 tvg-name="Tâbii 8" group-title="Tabii",Tâbii 8
+https://g8l.04bf112a615942b44.sbs/yayinex8.m3u8
+#EXTINF:-1 tvg-name="TRT 1" group-title="TRT",TRT 1
+https://g8l.04bf112a615942b44.sbs/yayintrt1.m3u8
+#EXTINF:-1 tvg-name="TRT Spor" group-title="TRT",TRT Spor
+https://g8l.04bf112a615942b44.sbs/yayintrtspor.m3u8
 #EXTINF:-1 tvg-name="TRT Spor 2" group-title="TRT",TRT Spor 2
 https://g8l.04bf112a615942b44.sbs/yayintrtspor2.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" group-title="Euro Sport",Euro Sport 1

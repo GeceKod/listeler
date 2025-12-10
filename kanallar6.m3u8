@@ -194,6 +194,8 @@ https://vavoo.to/play/789572619/index.m3u8
 https://vavoo.to/play/327889861/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY (1)" group-title="Germany",DISCOVERY (1)
 https://vavoo.to/play/3051100732/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE (7)" group-title="Germany",SKY SPORT PREMIER LEAGUE (7)
+https://vavoo.to/play/1922768904/index.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 (6)" group-title="France ➾ Sports",CANAL+ SPORT 3 (6)
 https://vavoo.to/play/722977248/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: TRT 1 HD (1)" group-title="Turkey",4K TR: TRT 1 HD (1)
@@ -264,6 +266,8 @@ https://vavoo.to/play/269260313/index.m3u8
 https://vavoo.to/play/2898762230/index.m3u8
 #EXTINF:-1 tvg-name="ARTE FHD (7)" group-title="France",ARTE FHD (7)
 https://vavoo.to/play/621108426/index.m3u8
+#EXTINF:-1 tvg-name="W9 HD (7)" group-title="France",W9 HD (7)
+https://vavoo.to/play/3385549986/index.m3u8
 #EXTINF:-1 tvg-name="RTL UP (7)" group-title="Germany",RTL UP (7)
 https://vavoo.to/play/1198260913/index.m3u8
 #EXTINF:-1 tvg-name="PRVA TV (7)" group-title="Balkans",PRVA TV (7)
@@ -336,8 +340,6 @@ https://vavoo.to/play/1800539046/index.m3u8
 https://vavoo.to/play/3637294135/index.m3u8
 #EXTINF:-1 tvg-name="WELT/ N24 HD (1)" group-title="Germany",WELT/ N24 HD (1)
 https://vavoo.to/play/3118937743/index.m3u8
-#EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE (7)" group-title="Germany",SKY SPORT PREMIER LEAGUE (7)
-https://vavoo.to/play/1922768904/index.m3u8
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE (7)" group-title="Germany",SPIEGEL GESCHICHTE (7)
 https://vavoo.to/play/1240703321/index.m3u8
 #EXTINF:-1 tvg-name="SKY BOX FANTASY (6)" group-title="Germany",SKY BOX FANTASY (6)
@@ -522,8 +524,6 @@ https://vavoo.to/play/2756225323/index.m3u8
 https://vavoo.to/play/2190787212/index.m3u8
 #EXTINF:-1 tvg-name="TRING ACTION (7)" group-title="Albania",TRING ACTION (7)
 https://vavoo.to/play/3554686365/index.m3u8
-#EXTINF:-1 tvg-name="W9 HD (7)" group-title="France",W9 HD (7)
-https://vavoo.to/play/3385549986/index.m3u8
 #EXTINF:-1 tvg-name="NAT GEO (7)" group-title="Turkey",NAT GEO (7)
 https://vavoo.to/play/1960546091/index.m3u8
 #EXTINF:-1 tvg-name="FRANCE 2 (7)" group-title="France",FRANCE 2 (7)
@@ -3238,8 +3238,6 @@ https://vavoo.to/play/28324561/index.m3u8
 https://vavoo.to/play/731796873/index.m3u8
 #EXTINF:-1 tvg-name="DIGI 4K TV (7)" group-title="Romania",DIGI 4K TV (7)
 https://vavoo.to/play/2467663593/index.m3u8
-#EXTINF:-1 tvg-name="4K TR: DISCOVERY CHANNEL HD (1)" group-title="Turkey",4K TR: DISCOVERY CHANNEL HD (1)
-https://vavoo.to/play/4017734592/index.m3u8
 #EXTINF:-1 tvg-name="TEVE 1 (6)" group-title="Albania ➾ LifeStyle",TEVE 1 (6)
 https://vavoo.to/play/2084096841/index.m3u8
 #EXTINF:-1 tvg-name="TRING FANTASY (1)" group-title="Albania",TRING FANTASY (1)
@@ -9560,6 +9558,8 @@ https://vavoo.to/play/813543356/index.m3u8
 https://vavoo.to/play/3972210648/index.m3u8
 #EXTINF:-1 tvg-name="RMC SPORT 2 ACCESS HD (1)" group-title="France",RMC SPORT 2 ACCESS HD (1)
 https://vavoo.to/play/3141694283/index.m3u8
+#EXTINF:-1 tvg-name="4K TR: DISCOVERY CHANNEL HD (1)" group-title="Turkey",4K TR: DISCOVERY CHANNEL HD (1)
+https://vavoo.to/play/4017734592/index.m3u8
 #EXTINF:-1 tvg-name="VIAPLAY EVENT 1 (6)" group-title="Netherlands",VIAPLAY EVENT 1 (6)
 https://vavoo.to/play/2922568715/index.m3u8
 #EXTINF:-1 tvg-name="ERA TV (6)" group-title="Albania",ERA TV (6)

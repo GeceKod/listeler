@@ -278,6 +278,10 @@ https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech301519541.m3u8
 #EXTINF:-1 tvg-name="Kings - Nuggets (06:00)" group-title="Maç Yayınları",Kings - Nuggets (06:00)
 https://andro.2385437.xyz/checklist/androstreamlivech301519541.m3u8
+#EXTINF:-1 tvg-name="Kotzen A - Perez Esnaola F J (23:20)" group-title="Maç Yayınları",Kotzen A - Perez Esnaola F J (23:20)
+https://andro.2385437.xyz/checklist/androstreamlivechstream205.m3u8
+#EXTINF:-1 tvg-name="Kotzen A - Perez Esnaola F J (23:20)" group-title="Maç Yayınları",Kotzen A - Perez Esnaola F J (23:20)
+https://andro.2385437.xyz/checklist/androstreamlivechstream205.m3u8
 #EXTINF:-1 tvg-name="KuPS Kuopio - Lausanne Sports (23:00)" group-title="Maç Yayınları",KuPS Kuopio - Lausanne Sports (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivechstream142.m3u8
 #EXTINF:-1 tvg-name="KuPS Kuopio - Lausanne Sports (23:00)" group-title="Maç Yayınları",KuPS Kuopio - Lausanne Sports (23:00)
@@ -426,10 +430,6 @@ https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Sovy-pro (w) - Foksi-pro (w) (21:55)" group-title="Maç Yayınları",Sovy-pro (w) - Foksi-pro (w) (21:55)
-https://andro.2385437.xyz/checklist/androstreamlivechstream61.m3u8
-#EXTINF:-1 tvg-name="Sovy-pro (w) - Foksi-pro (w) (21:55)" group-title="Maç Yayınları",Sovy-pro (w) - Foksi-pro (w) (21:55)
-https://andro.2385437.xyz/checklist/androstreamlivechstream61.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
@@ -564,3 +564,5 @@ https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivechstream23.m3u8
 #EXTINF:-1 tvg-name="ÍA Akranes - Stjarnan (22:15)" group-title="Maç Yayınları",ÍA Akranes - Stjarnan (22:15)
 https://andro.2385437.xyz/checklist/androstreamlivechstream23.m3u8
+#EXTINF:-1 tvg-name="İstanbul - Full Events (23:30)" group-title="Maç Yayınları",İstanbul - Full Events (23:30)
+https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8

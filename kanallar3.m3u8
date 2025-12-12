@@ -1,61 +1,57 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://main.uxsyplayerdbf599f9cc.click/
-#EXT-X-ORIGIN:https://main.uxsyplayerdbf599f9cc.click
+#EXT-X-REFERER:https://main.uxsyplayerd7d59f7d6c.click/
+#EXT-X-ORIGIN:https://main.uxsyplayerd7d59f7d6c.click
 
-#EXTINF:-1 tvg-name="Galatasaray - Samsunspor - 20:00" group-title="Maç Yayınları",Galatasaray - Samsunspor - 20:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fortuna Düsseldorf - Schalke 04 - 20:30" group-title="Maç Yayınları",Fortuna Düsseldorf - Schalke 04 - 20:30
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Preussen Münster - Hannover 96 - 20:30" group-title="Maç Yayınları",Preussen Münster - Hannover 96 - 20:30
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Brest - Monaco - 21:00" group-title="Maç Yayınları",Brest - Monaco - 21:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Mainz - Monchengladbach - 22:30" group-title="Maç Yayınları",Mainz - Monchengladbach - 22:30
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lille - Marsilya - 23:00" group-title="Maç Yayınları",Lille - Marsilya - 23:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Oviedo - Mallorca - 23:00" group-title="Maç Yayınları",Real Oviedo - Mallorca - 23:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Benfica - Sporting Lisbon - 23:15" group-title="Maç Yayınları",Benfica - Sporting Lisbon - 23:15
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Trabzonspor - Tofaş - 19:00" group-title="Maç Yayınları",Trabzonspor - Tofaş - 19:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-5/playlist.m3u8
-#EXTINF:-1 tvg-name="Kizilyildiz - Barcelona - 22:00" group-title="Maç Yayınları",Kizilyildiz - Barcelona - 22:00
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/s-sport-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Panathinaikos - Valencia Basket - 22:15" group-title="Maç Yayınları",Panathinaikos - Valencia Basket - 22:15
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Kasımpaşa - Gençlerbirliği - 20:00" group-title="Maç Yayınları",Kasımpaşa - Gençlerbirliği - 20:00
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dynamo Dresden - Braunschweig - 20:30" group-title="Maç Yayınları",Dynamo Dresden - Braunschweig - 20:30
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Greuther Fürth - Hertha Berlin - 20:30" group-title="Maç Yayınları",Greuther Fürth - Hertha Berlin - 20:30
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Union Berlin - Leipzig - 22:30" group-title="Maç Yayınları",Union Berlin - Leipzig - 22:30
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angers - Nantes - 22:45" group-title="Maç Yayınları",Angers - Nantes - 22:45
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-4/playlist.m3u8
+#EXTINF:-1 tvg-name="Lecce - Pisa - 22:45" group-title="Maç Yayınları",Lecce - Pisa - 22:45
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Sociedad - Girona - 23:00" group-title="Maç Yayınları",Real Sociedad - Girona - 23:00
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Monaco - Fenerbahçe Beko - 21:30" group-title="Maç Yayınları",Monaco - Fenerbahçe Beko - 21:30
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Partizan - Kizilyildiz - 22:30" group-title="Maç Yayınları",Partizan - Kizilyildiz - 22:30
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/s-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-1/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-2/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-3/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 4" group-title="BeinSports",Bein Sports 4
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-4/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 5" group-title="BeinSports",Bein Sports 5
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-5/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 1" group-title="BeinSports",Bein Sports Max 1
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-max-1/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-max-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/bein-sports-max-2/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/bein-sports-max-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-1/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-2/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-3/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tivibu-spor-4/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tivibu-spor-4/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/s-sport/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/s-sport-2/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/s-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal Kanallar",TRT 1
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/trt-spor/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/trt-spor/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal Kanallar",TV8
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tv-8/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tv-8/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 8 Buçuk" group-title="7/24 Kanallar",TV 8 Buçuk
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/tv85b/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/tv85b/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal Kanallar",ATV
-https://dga1op10s1u3leo.df702f8b30f2ac.click/live/selcukatv/playlist.m3u8
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/selcukatv/playlist.m3u8

@@ -16,6 +16,10 @@ https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="Amedspor - Iğdirspor (19:00)" group-title="Maç Yayınları",Amedspor - Iğdirspor (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Araguaína - Tocantinópolis EC (00:00)" group-title="Maç Yayınları",Araguaína - Tocantinópolis EC (00:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18008656.m3u8
+#EXTINF:-1 tvg-name="Araguaína - Tocantinópolis EC (00:00)" group-title="Maç Yayınları",Araguaína - Tocantinópolis EC (00:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18008656.m3u8
 #EXTINF:-1 tvg-name="Artem Guryanov - Vladislav Guryanov (01:35)" group-title="Maç Yayınları",Artem Guryanov - Vladislav Guryanov (01:35)
 https://andro.2385437.xyz/checklist/androstreamlivech18008929.m3u8
 #EXTINF:-1 tvg-name="Artem Guryanov - Vladislav Guryanov (01:35)" group-title="Maç Yayınları",Artem Guryanov - Vladislav Guryanov (01:35)
@@ -152,10 +156,6 @@ https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Febres - UD Leiria (23:59)" group-title="Maç Yayınları",Febres - UD Leiria (23:59)
-https://andro.2385437.xyz/checklist/androstreamlivech18008681.m3u8
-#EXTINF:-1 tvg-name="Febres - UD Leiria (23:59)" group-title="Maç Yayınları",Febres - UD Leiria (23:59)
-https://andro.2385437.xyz/checklist/androstreamlivech18008681.m3u8
 #EXTINF:-1 tvg-name="Fildişi Sahili - Kamerun (23:00)" group-title="Maç Yayınları",Fildişi Sahili - Kamerun (23:00)
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-name="Freiburg (Amatörler) - Hansa (Amatörler) (01:30)" group-title="Maç Yayınları",Freiburg (Amatörler) - Hansa (Amatörler) (01:30)
@@ -222,16 +222,16 @@ https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-name="Sounders + - Bulls + (01:40)" group-title="Maç Yayınları",Sounders + - Bulls + (01:40)
+https://andro.2385437.xyz/checklist/androstreamlivech18008966.m3u8
+#EXTINF:-1 tvg-name="Sounders + - Bulls + (01:40)" group-title="Maç Yayınları",Sounders + - Bulls + (01:40)
+https://andro.2385437.xyz/checklist/androstreamlivech18008966.m3u8
 #EXTINF:-1 tvg-name="Sporting Lisbon - Rio Ave (23:30)" group-title="Maç Yayınları",Sporting Lisbon - Rio Ave (23:30)
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
-#EXTINF:-1 tvg-name="Stiles Brockett - Aditya Govila (00:15)" group-title="Maç Yayınları",Stiles Brockett - Aditya Govila (00:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18008703.m3u8
-#EXTINF:-1 tvg-name="Stiles Brockett - Aditya Govila (00:15)" group-title="Maç Yayınları",Stiles Brockett - Aditya Govila (00:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18008703.m3u8
 #EXTINF:-1 tvg-name="Sunderland - Leeds United (17:00)" group-title="Maç Yayınları",Sunderland - Leeds United (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="Surgut - Kurgan (01:05)" group-title="Maç Yayınları",Surgut - Kurgan (01:05)
@@ -320,10 +320,26 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
+#EXTINF:-1 tvg-name="UNIFACISA - Cruzeiro (01:30)" group-title="Maç Yayınları",UNIFACISA - Cruzeiro (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008958.m3u8
+#EXTINF:-1 tvg-name="UNIFACISA - Cruzeiro (01:30)" group-title="Maç Yayınları",UNIFACISA - Cruzeiro (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008958.m3u8
 #EXTINF:-1 tvg-name="Union (Amatörler) - Mainz (Amatörler) (01:30)" group-title="Maç Yayınları",Union (Amatörler) - Mainz (Amatörler) (01:30)
 https://andro.2385437.xyz/checklist/androstreamlivech18008941.m3u8
 #EXTINF:-1 tvg-name="Union (Amatörler) - Mainz (Amatörler) (01:30)" group-title="Maç Yayınları",Union (Amatörler) - Mainz (Amatörler) (01:30)
 https://andro.2385437.xyz/checklist/androstreamlivech18008941.m3u8
+#EXTINF:-1 tvg-name="Ural Snipers - Ural Athletic (01:40)" group-title="Maç Yayınları",Ural Snipers - Ural Athletic (01:40)
+https://andro.2385437.xyz/checklist/androstreamlivech18008961.m3u8
+#EXTINF:-1 tvg-name="Ural Snipers - Ural Athletic (01:40)" group-title="Maç Yayınları",Ural Snipers - Ural Athletic (01:40)
+https://andro.2385437.xyz/checklist/androstreamlivech18008961.m3u8
+#EXTINF:-1 tvg-name="Vasco Da Gama - Flamengo Basketball (01:30)" group-title="Maç Yayınları",Vasco Da Gama - Flamengo Basketball (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008957.m3u8
+#EXTINF:-1 tvg-name="Vasco Da Gama - Flamengo Basketball (01:30)" group-title="Maç Yayınları",Vasco Da Gama - Flamengo Basketball (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008957.m3u8
+#EXTINF:-1 tvg-name="Vincent Yang - Jack Dimenna (01:30)" group-title="Maç Yayınları",Vincent Yang - Jack Dimenna (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008968.m3u8
+#EXTINF:-1 tvg-name="Vincent Yang - Jack Dimenna (01:30)" group-title="Maç Yayınları",Vincent Yang - Jack Dimenna (01:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18008968.m3u8
 #EXTINF:-1 tvg-name="Vladimir Vasilyev - Viktor Mitin (00:44)" group-title="Maç Yayınları",Vladimir Vasilyev - Viktor Mitin (00:44)
 https://andro.2385437.xyz/checklist/androstreamlivech18008799.m3u8
 #EXTINF:-1 tvg-name="Vladimir Vasilyev - Viktor Mitin (00:44)" group-title="Maç Yayınları",Vladimir Vasilyev - Viktor Mitin (00:44)

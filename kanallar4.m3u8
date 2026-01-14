@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-REFERER:https://taraftarium24.xyz/
+#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal",Tv8
+https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal",Tv8,5
+https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Diğer",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="ASPMA Araucaria - Montes Claros" group-title="Diğer",ASPMA Araucaria - Montes Claros
@@ -104,6 +108,8 @@ https://andro.2385437.xyz/checklist/androstreamlivech18130678.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Diğer",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
+#EXTINF:-1 tvg-name="Iguatu - CEFAT Tirol" group-title="Diğer",Iguatu - CEFAT Tirol
+https://andro.2385437.xyz/checklist/androstreamlivech113.m3u8
 #EXTINF:-1 tvg-name="Internacional Santa Maria - Sao Luiz Ijui" group-title="Diğer",Internacional Santa Maria - Sao Luiz Ijui
 https://andro.2385437.xyz/checklist/androstreamlivech323.m3u8
 #EXTINF:-1 tvg-name="Ituano - Atletico Votuporanguense" group-title="Diğer",Ituano - Atletico Votuporanguense
@@ -130,8 +136,6 @@ https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech579.m3u8
 #EXTINF:-1 tvg-name="Novo Hamburgo - Juventude RS" group-title="Diğer",Novo Hamburgo - Juventude RS
 https://andro.2385437.xyz/checklist/androstreamlivech317.m3u8
-#EXTINF:-1 tvg-name="Pantery-pro (w) - Foksi-pro (w)" group-title="Diğer",Pantery-pro (w) - Foksi-pro (w)
-https://andro.2385437.xyz/checklist/androstreamlivech315.m3u8
 #EXTINF:-1 tvg-name="Philadelphia 76ers - Cleveland Cavaliers" group-title="Diğer",Philadelphia 76ers - Cleveland Cavaliers
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Polonya - ABD" group-title="Diğer",Polonya - ABD
@@ -190,10 +194,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Trt Spor" group-title="TRT",Trt Spor
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal",Tv8
-https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
-#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal",Tv8,5
-https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="Türkiye - Slovakya" group-title="Diğer",Türkiye - Slovakya
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Union Santa Fe - Alianza Lima" group-title="Diğer",Union Santa Fe - Alianza Lima

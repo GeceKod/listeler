@@ -2,144 +2,30 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5.0 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://taraftarium24.xyz/
 #EXT-X-ORIGIN:https://taraftarium24.xyz
-#EXTINF:-1 tvg-name="Chelsea - Arsenal" group-title="Ulusal/Diğer",Chelsea - Arsenal
+#EXTINF:-1 tvg-name="Chelsea - Arsenal" group-title="Diğer",Chelsea - Arsenal
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-name="Alaves - Rayo Vallecano" group-title="Ulusal/Diğer",Alaves - Rayo Vallecano
+#EXTINF:-1 tvg-name="Alaves - Rayo Vallecano" group-title="Diğer",Alaves - Rayo Vallecano
 https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-name="Albacete - Real Madrid" group-title="Ulusal/Diğer",Albacete - Real Madrid
+#EXTINF:-1 tvg-name="Albacete - Real Madrid" group-title="Diğer",Albacete - Real Madrid
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Real Betis - Elche" group-title="Ulusal/Diğer",Real Betis - Elche
+#EXTINF:-1 tvg-name="Real Betis - Elche" group-title="Diğer",Real Betis - Elche
 https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 tvg-name="Nijerya - Fas" group-title="Ulusal/Diğer",Nijerya - Fas
-https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="AZ Alkmaar - Ajax" group-title="Ulusal/Diğer",AZ Alkmaar - Ajax
+#EXTINF:-1 tvg-name="AZ Alkmaar - Ajax" group-title="Diğer",AZ Alkmaar - Ajax
 https://andro.2385437.xyz/checklist/androstreamlivesifir.m3u8
-#EXTINF:-1 tvg-name="Philadelphia 76ers - Cleveland Cavaliers" group-title="Ulusal/Diğer",Philadelphia 76ers - Cleveland Cavaliers
+#EXTINF:-1 tvg-name="Nijerya - Fas" group-title="Diğer",Nijerya - Fas
+https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-name="Philadelphia 76ers - Cleveland Cavaliers" group-title="Diğer",Philadelphia 76ers - Cleveland Cavaliers
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Erzurumspor - Ç.Rizespor" group-title="Ulusal/Diğer",Erzurumspor - Ç.Rizespor
+#EXTINF:-1 tvg-name="Erzurumspor - Ç.Rizespor" group-title="Diğer",Erzurumspor - Ç.Rizespor
 https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
-#EXTINF:-1 tvg-name="Türkiye - Slovakya" group-title="Ulusal/Diğer",Türkiye - Slovakya
+#EXTINF:-1 tvg-name="Türkiye - Slovakya" group-title="Diğer",Türkiye - Slovakya
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Verona - Bologna" group-title="Ulusal/Diğer",Verona - Bologna
+#EXTINF:-1 tvg-name="Verona - Bologna" group-title="Diğer",Verona - Bologna
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Beşiktaş - Keçiörengücü" group-title="Ulusal/Diğer",Beşiktaş - Keçiörengücü
+#EXTINF:-1 tvg-name="Beşiktaş - Keçiörengücü" group-title="Diğer",Beşiktaş - Keçiörengücü
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="Augsburg - Union Berlin" group-title="Ulusal/Diğer",Augsburg - Union Berlin
+#EXTINF:-1 tvg-name="Augsburg - Union Berlin" group-title="Diğer",Augsburg - Union Berlin
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Union de Santa Fe - Alianza Lima" group-title="Ulusal/Diğer",Union de Santa Fe - Alianza Lima
-https://andro.2385437.xyz/checklist/androstreamlivech18130495.m3u8
-#EXTINF:-1 tvg-name="Union Santa Fe - Alianza Lima" group-title="Ulusal/Diğer",Union Santa Fe - Alianza Lima
-https://andro.2385437.xyz/checklist/androstreamlivech230.m3u8
-#EXTINF:-1 tvg-name="Betim - Uberlandia" group-title="Ulusal/Diğer",Betim - Uberlandia
-https://andro.2385437.xyz/checklist/androstreamlivech228.m3u8
-#EXTINF:-1 tvg-name="Ituano - Atletico Votuporanguense" group-title="Ulusal/Diğer",Ituano - Atletico Votuporanguense
-https://andro.2385437.xyz/checklist/androstreamlivech232.m3u8
-#EXTINF:-1 tvg-name="Goiatuba - Jataiense" group-title="Ulusal/Diğer",Goiatuba - Jataiense
-https://andro.2385437.xyz/checklist/androstreamlivech254.m3u8
-#EXTINF:-1 tvg-name="Camboriu - Barra" group-title="Ulusal/Diğer",Camboriu - Barra
-https://andro.2385437.xyz/checklist/androstreamlivech255.m3u8
-#EXTINF:-1 tvg-name="Chapecoense U20 - Gremio U20" group-title="Ulusal/Diğer",Chapecoense U20 - Gremio U20
-https://andro.2385437.xyz/checklist/androstreamlivech565.m3u8
-#EXTINF:-1 tvg-name="Falkirk - Celtic" group-title="Ulusal/Diğer",Falkirk - Celtic
-https://andro.2385437.xyz/checklist/androstreamlivech18130009.m3u8
-#EXTINF:-1 tvg-name="Chelsea - Arsenal" group-title="Ulusal/Diğer",Chelsea - Arsenal
-https://andro.2385437.xyz/checklist/androstreamlivech18130101.m3u8
-#EXTINF:-1 tvg-name="Albacete Balompie - Real Madrid" group-title="Ulusal/Diğer",Albacete Balompie - Real Madrid
-https://andro.2385437.xyz/checklist/androstreamlivech18130142.m3u8
-#EXTINF:-1 tvg-name="Deportivo Alaves - Rayo Vallecano" group-title="Ulusal/Diğer",Deportivo Alaves - Rayo Vallecano
-https://andro.2385437.xyz/checklist/androstreamlivech18130143.m3u8
-#EXTINF:-1 tvg-name="AZ Alkmaar - Ajax" group-title="Ulusal/Diğer",AZ Alkmaar - Ajax
-https://andro.2385437.xyz/checklist/androstreamlivech18130164.m3u8
-#EXTINF:-1 tvg-name="Dunbeholden - Molynes United F.C." group-title="Ulusal/Diğer",Dunbeholden - Molynes United F.C.
-https://andro.2385437.xyz/checklist/androstreamlivech18130224.m3u8
-#EXTINF:-1 tvg-name="Lincoln Red Imps - St Joseph's" group-title="Ulusal/Diğer",Lincoln Red Imps - St Joseph's
-https://andro.2385437.xyz/checklist/androstreamlivech18130243.m3u8
-#EXTINF:-1 tvg-name="Albacete - Real Madrid" group-title="Ulusal/Diğer",Albacete - Real Madrid
-https://andro.2385437.xyz/checklist/androstreamlivech173.m3u8
-#EXTINF:-1 tvg-name="Volta Redonda - Boavista Saquarema" group-title="Ulusal/Diğer",Volta Redonda - Boavista Saquarema
-https://andro.2385437.xyz/checklist/androstreamlivech256.m3u8
-#EXTINF:-1 tvg-name="Morocco - Nigeria" group-title="Ulusal/Diğer",Morocco - Nigeria
-https://andro.2385437.xyz/checklist/androstreamlivech569.m3u8
-#EXTINF:-1 tvg-name="Paris (w) - Nantes (w)" group-title="Ulusal/Diğer",Paris (w) - Nantes (w)
-https://andro.2385437.xyz/checklist/androstreamlivech257.m3u8
-#EXTINF:-1 tvg-name="Galicia - Juazeirense" group-title="Ulusal/Diğer",Galicia - Juazeirense
-https://andro.2385437.xyz/checklist/androstreamlivech258.m3u8
-#EXTINF:-1 tvg-name="Decisao - Nautico Capibaribe" group-title="Ulusal/Diğer",Decisao - Nautico Capibaribe
-https://andro.2385437.xyz/checklist/androstreamlivech259.m3u8
-#EXTINF:-1 tvg-name="Porto - Benfica" group-title="Ulusal/Diğer",Porto - Benfica
-https://andro.2385437.xyz/checklist/androstreamlivech18130349.m3u8
-#EXTINF:-1 tvg-name="Porto - Benfica" group-title="Ulusal/Diğer",Porto - Benfica
-https://andro.2385437.xyz/checklist/androstreamlivech58.m3u8
-#EXTINF:-1 tvg-name="Peru (TBL) - İtalya (TBL)" group-title="Ulusal/Diğer",Peru (TBL) - İtalya (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech18130411.m3u8
-#EXTINF:-1 tvg-name="Nizhny Novgorod - Krasnoyarsk" group-title="Ulusal/Diğer",Nizhny Novgorod - Krasnoyarsk
-https://andro.2385437.xyz/checklist/androstreamlivech18130501.m3u8
-#EXTINF:-1 tvg-name="Skyforce - Stars" group-title="Ulusal/Diğer",Skyforce - Stars
-https://andro.2385437.xyz/checklist/androstreamlivech18130457.m3u8
-#EXTINF:-1 tvg-name="Sesi Franca - CD Univer de Concepcion" group-title="Ulusal/Diğer",Sesi Franca - CD Univer de Concepcion
-https://andro.2385437.xyz/checklist/androstreamlivech327.m3u8
-#EXTINF:-1 tvg-name="CAB Madeira - FC Porto" group-title="Ulusal/Diğer",CAB Madeira - FC Porto
-https://andro.2385437.xyz/checklist/androstreamlivech341.m3u8
-#EXTINF:-1 tvg-name="Malaysia (TBL) - Meksika (TBL)" group-title="Ulusal/Diğer",Malaysia (TBL) - Meksika (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech18130410.m3u8
-#EXTINF:-1 tvg-name="Rain or Shine Warriors - Tasmania Rangers" group-title="Ulusal/Diğer",Rain or Shine Warriors - Tasmania Rangers
-https://andro.2385437.xyz/checklist/androstreamlivech18130527.m3u8
-#EXTINF:-1 tvg-name="Farma Conde Sao Jose - Praia Clube" group-title="Ulusal/Diğer",Farma Conde Sao Jose - Praia Clube
-https://andro.2385437.xyz/checklist/androstreamlivech312.m3u8
-#EXTINF:-1 tvg-name="Rusya - ABD" group-title="Ulusal/Diğer",Rusya - ABD
-https://andro.2385437.xyz/checklist/androstreamlivech18130530.m3u8
-#EXTINF:-1 tvg-name="Çin - Letonya" group-title="Ulusal/Diğer",Çin - Letonya
-https://andro.2385437.xyz/checklist/androstreamlivech18130547.m3u8
-#EXTINF:-1 tvg-name="Afturelding - Hamar" group-title="Ulusal/Diğer",Afturelding - Hamar
-https://andro.2385437.xyz/checklist/androstreamlivech18130149.m3u8
-#EXTINF:-1 tvg-name="Costa Volpino (Women) - Narconon Melendum (Women)" group-title="Ulusal/Diğer",Costa Volpino (Women) - Narconon Melendum (Women)
-https://andro.2385437.xyz/checklist/androstreamlivech18130080.m3u8
-#EXTINF:-1 tvg-name="Rusya (Bayanlar) - Japonya (Bayanlar)" group-title="Ulusal/Diğer",Rusya (Bayanlar) - Japonya (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18130366.m3u8
-#EXTINF:-1 tvg-name="Katar Sports - Al-Muharraq" group-title="Ulusal/Diğer",Katar Sports - Al-Muharraq
-https://andro.2385437.xyz/checklist/androstreamlivech18130419.m3u8
-#EXTINF:-1 tvg-name="Pantery-pro (w) - Foksi-pro (w)" group-title="Ulusal/Diğer",Pantery-pro (w) - Foksi-pro (w)
-https://andro.2385437.xyz/checklist/androstreamlivech315.m3u8
-#EXTINF:-1 tvg-name="Aryan Shah - Luca Pow" group-title="Ulusal/Diğer",Aryan Shah - Luca Pow
-https://andro.2385437.xyz/checklist/androstreamlivech18130511.m3u8
-#EXTINF:-1 tvg-name="Shah A - Pow L" group-title="Ulusal/Diğer",Shah A - Pow L
-https://andro.2385437.xyz/checklist/androstreamlivech567.m3u8
-#EXTINF:-1 tvg-name="Corwin F - George B T" group-title="Ulusal/Diğer",Corwin F - George B T
-https://andro.2385437.xyz/checklist/androstreamlivech562.m3u8
-#EXTINF:-1 tvg-name="Noroozian A - Bharadwaj S" group-title="Ulusal/Diğer",Noroozian A - Bharadwaj S
-https://andro.2385437.xyz/checklist/androstreamlivech579.m3u8
-#EXTINF:-1 tvg-name="Rutter M - Gershfeld S" group-title="Ulusal/Diğer",Rutter M - Gershfeld S
-https://andro.2385437.xyz/checklist/androstreamlivech564.m3u8
-#EXTINF:-1 tvg-name="Vales V - Stavrakas A" group-title="Ulusal/Diğer",Vales V - Stavrakas A
-https://andro.2385437.xyz/checklist/androstreamlivech570.m3u8
-#EXTINF:-1 tvg-name="Shick B - Giulleme J" group-title="Ulusal/Diğer",Shick B - Giulleme J
-https://andro.2385437.xyz/checklist/androstreamlivech309.m3u8
-#EXTINF:-1 tvg-name="Forbes M - Suresh D" group-title="Ulusal/Diğer",Forbes M - Suresh D
-https://andro.2385437.xyz/checklist/androstreamlivech321.m3u8
-#EXTINF:-1 tvg-name="Tristan McCormick - Daniil Kakhniuk" group-title="Ulusal/Diğer",Tristan McCormick - Daniil Kakhniuk
-https://andro.2385437.xyz/checklist/androstreamlivech18129882.m3u8
-#EXTINF:-1 tvg-name="Alan Magadan - Charlie Robertson" group-title="Ulusal/Diğer",Alan Magadan - Charlie Robertson
-https://andro.2385437.xyz/checklist/androstreamlivech18129879.m3u8
-#EXTINF:-1 tvg-name="Reece Falck - Matthew Thomson" group-title="Ulusal/Diğer",Reece Falck - Matthew Thomson
-https://andro.2385437.xyz/checklist/androstreamlivech18129909.m3u8
-#EXTINF:-1 tvg-name="Djakouris C - Ymer R" group-title="Ulusal/Diğer",Djakouris C - Ymer R
-https://andro.2385437.xyz/checklist/androstreamlivech560.m3u8
-#EXTINF:-1 tvg-name="McCormick T - Kakhniuk D" group-title="Ulusal/Diğer",McCormick T - Kakhniuk D
-https://andro.2385437.xyz/checklist/androstreamlivech549.m3u8
-#EXTINF:-1 tvg-name="Karl Poling - Ezekiel Clark" group-title="Ulusal/Diğer",Karl Poling - Ezekiel Clark
-https://andro.2385437.xyz/checklist/androstreamlivech18130197.m3u8
-#EXTINF:-1 tvg-name="Dutra Da Silva/Huertas Del Pino Cordova - Pagani/Zeitune" group-title="Ulusal/Diğer",Dutra Da Silva/Huertas Del Pino Cordova - Pagani/Zeitune
-https://andro.2385437.xyz/checklist/androstreamlivech18130402.m3u8
-#EXTINF:-1 tvg-name="Aboian/Farjat - Alves/Boscardin Dias" group-title="Ulusal/Diğer",Aboian/Farjat - Alves/Boscardin Dias
-https://andro.2385437.xyz/checklist/androstreamlivech18130393.m3u8
-#EXTINF:-1 tvg-name="Aguilar/Zeballos - Arias/Justo" group-title="Ulusal/Diğer",Aguilar/Zeballos - Arias/Justo
-https://andro.2385437.xyz/checklist/androstreamlivech18130422.m3u8
-#EXTINF:-1 tvg-name="Dutra da Silva D / Huertas del Pino A - Pagani D / Zeitune M" group-title="Ulusal/Diğer",Dutra da Silva D / Huertas del Pino A - Pagani D / Zeitune M
-https://andro.2385437.xyz/checklist/androstreamlivech311.m3u8
-#EXTINF:-1 tvg-name="Kristina Kovalevych - Vladislava Silitskaya" group-title="Ulusal/Diğer",Kristina Kovalevych - Vladislava Silitskaya
-https://andro.2385437.xyz/checklist/androstreamlivech18130458.m3u8
-#EXTINF:-1 tvg-name="Aguilar J C / Zeballos F - Arias B / Justo G I" group-title="Ulusal/Diğer",Aguilar J C / Zeballos F - Arias B / Justo G I
-https://andro.2385437.xyz/checklist/androstreamlivech320.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
 https://andro.2385437.xyz/checklist/receptestt.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
@@ -166,53 +52,53 @@ https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Spor",Smart Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Ulusal/Diğer",Euro Sport 1
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",Euro Sport 1
 https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Ulusal/Diğer",Euro Sport 2
+#EXTINF:-1 tvg-name="Euro Sport 2" group-title="EuroSport",Euro Sport 2
 https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Ulusal/Diğer",iDMAN Tv
+#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer",iDMAN Tv
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="TRT",Trt 1
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Trt Spor" group-title="TRT",Trt Spor
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="A2" group-title="Ulusal/Diğer",A2
+#EXTINF:-1 tvg-name="A2" group-title="Diğer",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="Tjk Tv" group-title="Ulusal/Diğer",Tjk Tv
+#EXTINF:-1 tvg-name="Tjk Tv" group-title="Diğer",Tjk Tv
 https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
-#EXTINF:-1 tvg-name="Ht Spor" group-title="Ulusal/Diğer",Ht Spor
+#EXTINF:-1 tvg-name="Ht Spor" group-title="Diğer",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="Nba Tv" group-title="NBA",Nba Tv
 https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal/Diğer",Tv8
+#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
 https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
-#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal/Diğer",Tv8,5
+#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor" group-title="Ulusal/Diğer",Tabi Spor
+#EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer",Tabi Spor
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Ulusal/Diğer",Tabi Spor 1
+#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Diğer",Tabi Spor 1
 https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Ulusal/Diğer",Tabi Spor 2
+#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Diğer",Tabi Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Ulusal/Diğer",Tabi Spor 3
+#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Diğer",Tabi Spor 3
 https://andro.2385437.xyz/checklist/androstreamlivetb3.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Ulusal/Diğer",Tabi Spor 4
+#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Diğer",Tabi Spor 4
 https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Ulusal/Diğer",Tabi Spor 5
+#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Diğer",Tabi Spor 5
 https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Ulusal/Diğer",Tabi Spor 6
+#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Diğer",Tabi Spor 6
 https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Ulusal/Diğer",Tabi Spor 7
+#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Diğer",Tabi Spor 7
 https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Ulusal/Diğer",Tabi Spor 8
+#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer",Tabi Spor 8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" group-title="Ulusal/Diğer",Fb Tv
+#EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Cbc Sport" group-title="Ulusal/Diğer",Cbc Sport
+#EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 tvg-name="Gs Tv" group-title="Ulusal/Diğer",Gs Tv
+#EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
-#EXTINF:-1 tvg-name="Sports Tv" group-title="Ulusal/Diğer",Sports Tv
+#EXTINF:-1 tvg-name="Sports Tv" group-title="Diğer",Sports Tv
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
 https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8

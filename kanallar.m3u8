@@ -2,6 +2,10 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://trgoals1499.xyz/
 #EXT-X-ORIGIN:https://trgoals1499.xyz
+#EXTINF:-1 tvg-name="beIN Sports 1 ☪️" group-title="BeinSports",beIN Sports 1 ☪️
+https://6tq.d72577a9dd0ec11.sbs/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 ⭐" group-title="BeinSports",beIN Sports 1 ⭐
+https://6tq.d72577a9dd0ec11.sbs/yayininat.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 ♾️" group-title="BeinSports",beIN Sports 1 ♾️
 https://6tq.d72577a9dd0ec11.sbs/yayin1.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2" group-title="BeinSports",beIN Sports 2
@@ -32,6 +36,8 @@ https://6tq.d72577a9dd0ec11.sbs/yayinsmarts.m3u8
 https://6tq.d72577a9dd0ec11.sbs/yayinsms2.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="NBA",NBA TV
 https://6tq.d72577a9dd0ec11.sbs/yayinnbatv.m3u8
+#EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
+https://6tq.d72577a9dd0ec11.sbs/yayinatv.m3u8
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal",TV8
 https://6tq.d72577a9dd0ec11.sbs/yayintv8.m3u8
 #EXTINF:-1 tvg-name="TV8.5" group-title="Ulusal",TV8.5
@@ -40,3 +46,7 @@ https://6tq.d72577a9dd0ec11.sbs/yayintv85.m3u8
 https://6tq.d72577a9dd0ec11.sbs/yayinas.m3u8
 #EXTINF:-1 tvg-name="Tâbii 1" group-title="Tabii",Tâbii 1
 https://6tq.d72577a9dd0ec11.sbs/yayinex1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Euro Sport",Euro Sport 1
+https://6tq.d72577a9dd0ec11.sbs/yayineu1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Euro Sport",Euro Sport 2
+https://6tq.d72577a9dd0ec11.sbs/yayineu2.m3u8

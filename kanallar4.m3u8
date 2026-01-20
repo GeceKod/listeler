@@ -106,12 +106,12 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Ulusal ve Diğer Kanallar",iDMAN Tv
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-name="ABD (Bayanlar) - Sırbistan (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[03:35] ABD (Bayanlar) - Sırbistan (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18169604.m3u8
 #EXTINF:-1 tvg-name="AZ Alkmaar - Excelsior" group-title="Canlı Maçlar - Hollanda Eredivisie",[20:45] AZ Alkmaar - Excelsior
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="Al Ahli - Al Khaleej" group-title="Canlı Maçlar - Suudi Arabistan Pro Lig",[20:30] Al Ahli - Al Khaleej
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Asbest - Essentuki" group-title="Canlı Maçlar - IPBL. Pro Division",[06:05] Asbest - Essentuki
+https://andro.2385437.xyz/checklist/androstreamlivech18170046.m3u8
 #EXTINF:-1 tvg-name="Asvel Villeurbanne - Zalgiris Kaunas" group-title="Canlı Maçlar - Euroleague",[22:00] Asvel Villeurbanne - Zalgiris Kaunas
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Athletic Bilbao" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Atalanta - Athletic Bilbao
@@ -128,20 +128,18 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-name="Bodo Glimt - Manchester City" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[20:45] Bodo Glimt - Manchester City
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Brezilya - Slovenya" group-title="Canlı Maçlar - VCA. Master Volleyball League",[03:25] Brezilya - Slovenya
-https://andro.2385437.xyz/checklist/androstreamlivech18169571.m3u8
+#EXTINF:-1 tvg-name="Brezilya - Arjantin" group-title="Canlı Maçlar - CBV 23. Duo Masters",[03:20] Brezilya - Arjantin
+https://andro.2385437.xyz/checklist/androstreamlivech18170138.m3u8
+#EXTINF:-1 tvg-name="Cheboksary (Bayanlar) - Yaroslavl (Bayanlar)" group-title="Canlı Maçlar - IPBL. Pro Division. Bayanlar",[05:55] Cheboksary (Bayanlar) - Yaroslavl (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18170056.m3u8
 #EXTINF:-1 tvg-name="Chelsea - Pafos" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Chelsea - Pafos
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Chinatown VC - Thunder Ducks" group-title="Canlı Maçlar - UPVL. Grup A",[06:20] Chinatown VC - Thunder Ducks
+https://andro.2385437.xyz/checklist/androstreamlivech18170134.m3u8
 #EXTINF:-1 tvg-name="Damac - Al Nassr" group-title="Canlı Maçlar - Suudi Arabistan Pro Lig",[20:30] Damac - Al Nassr
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Denver Nuggets - LA Lakers" group-title="Canlı Maçlar - NBA",[06:00] Denver Nuggets - LA Lakers
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Detroit Pistons - Boston Celtics" group-title="Canlı Maçlar - NBA",[04:00] Detroit Pistons - Boston Celtics
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Edgar Saakov - Stanislav Lukyanenko" group-title="Canlı Maçlar - ATT. Minsk",[03:47] Edgar Saakov - Stanislav Lukyanenko
-https://andro.2385437.xyz/checklist/androstreamlivech18169643.m3u8
-#EXTINF:-1 tvg-name="FC Arnett Gardens - Waterhouse" group-title="Canlı Maçlar - Jamaika Şampiyonası. Premier Ligi",[03:15] FC Arnett Gardens - Waterhouse
-https://andro.2385437.xyz/checklist/androstreamlivech18169566.m3u8
 #EXTINF:-1 tvg-name="Galatasaray - Atletico Madrid" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[20:45] Galatasaray - Atletico Madrid
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Galatasaray Daikin - Vakifbank" group-title="Canlı Maçlar - TVF Sultanlar Ligi",[17:00] Galatasaray Daikin - Vakifbank
@@ -154,18 +152,14 @@ https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Hapoel Tel Aviv - Anadolu Efes" group-title="Canlı Maçlar - Euroleague",[20:30] Hapoel Tel Aviv - Anadolu Efes
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Houston Christian Huskies - Northwestern State Demons" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] Houston Christian Huskies - Northwestern State Demons
-https://andro.2385437.xyz/checklist/androstreamlivech18169714.m3u8
 #EXTINF:-1 tvg-name="Houston Rockets - SA Spurs" group-title="Canlı Maçlar - NBA",[04:00] Houston Rockets - SA Spurs
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Indiana Hoosiers - Miami" group-title="Canlı Maçlar - NCAA Amerikan Futbolu",[03:30] Indiana Hoosiers - Miami
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Inter - Arsenal" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Inter - Arsenal
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Jackson State Tigers - Texas Southern Tigers" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] Jackson State Tigers - Texas Southern Tigers
-https://andro.2385437.xyz/checklist/androstreamlivech18169735.m3u8
-#EXTINF:-1 tvg-name="Japonya (Bayanlar) - Rusya (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[04:00] Japonya (Bayanlar) - Rusya (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18169672.m3u8
+#EXTINF:-1 tvg-name="Japonya (Bayanlar) - Sırbistan (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[06:10] Japonya (Bayanlar) - Sırbistan (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18170126.m3u8
+#EXTINF:-1 tvg-name="Japonya - Slovenya" group-title="Canlı Maçlar - VCA. Master Volleyball League",[06:20] Japonya - Slovenya
+https://andro.2385437.xyz/checklist/androstreamlivech18170151.m3u8
 #EXTINF:-1 tvg-name="Juventus - Benfica" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Juventus - Benfica
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Kairat Almaty - Club Brugge" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[18:30] Kairat Almaty - Club Brugge
@@ -174,30 +168,16 @@ https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Kopenhag - Napoli" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Kopenhag - Napoli
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Krasnoyarsk - Rostov-on-Don" group-title="Canlı Maçlar - IPBL. Pro Division",[05:05] Krasnoyarsk - Rostov-on-Don
-https://andro.2385437.xyz/checklist/androstreamlivech18169864.m3u8
-#EXTINF:-1 tvg-name="Kuzey Colorado Bears - Montana State Bobcats" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] Kuzey Colorado Bears - Montana State Bobcats
-https://andro.2385437.xyz/checklist/androstreamlivech18169712.m3u8
-#EXTINF:-1 tvg-name="Küba - Avustralya" group-title="Canlı Maçlar - CBV 23. Duo Masters",[01:40] Küba - Avustralya
-https://andro.2385437.xyz/checklist/androstreamlivech18169795.m3u8
-#EXTINF:-1 tvg-name="Lehigh Mountain Hawks - Loyola Maryland" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[03:00] Lehigh Mountain Hawks - Loyola Maryland
-https://andro.2385437.xyz/checklist/androstreamlivech18169519.m3u8
-#EXTINF:-1 tvg-name="Limon U22 - San Jose U22" group-title="Canlı Maçlar - National Games of Costa Rica U22",[04:30] Limon U22 - San Jose U22
-https://andro.2385437.xyz/checklist/androstreamlivech18169821.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Liverpool" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Marsilya - Liverpool
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Mississippi Valley State Delta Devils - Florida AM Rattlers" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] Mississippi Valley State Delta Devils - Florida AM Rattlers
-https://andro.2385437.xyz/checklist/androstreamlivech18169723.m3u8
 #EXTINF:-1 tvg-name="Monaco - Kizilyildiz" group-title="Canlı Maçlar - Euroleague",[20:45] Monaco - Kizilyildiz
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Mozambik - Ukrayna" group-title="Canlı Maçlar - CBV 23. Duo Masters",[00:50] Mozambik - Ukrayna
-https://andro.2385437.xyz/checklist/androstreamlivech18169644.m3u8
-#EXTINF:-1 tvg-name="New Orleans Privateers - Lamar Cardinals" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] New Orleans Privateers - Lamar Cardinals
-https://andro.2385437.xyz/checklist/androstreamlivech18169713.m3u8
+#EXTINF:-1 tvg-name="Montana State Bobcats (Bayanlar) - Kuzey Colorado Bears (Bayanlar)" group-title="Canlı Maçlar - WNCAA",[05:00] Montana State Bobcats (Bayanlar) - Kuzey Colorado Bears (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18169933.m3u8
+#EXTINF:-1 tvg-name="Nelson Athletics (Bayanlar) - Olimpic Prime (Bayanlar)" group-title="Canlı Maçlar - UPVL. Grup B. Bayanlar",[06:30] Nelson Athletics (Bayanlar) - Olimpic Prime (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18170109.m3u8
 #EXTINF:-1 tvg-name="Newcastle - PSV" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Newcastle - PSV
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Northern Arizona Lumberjacks - Montana Grizzlies" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[04:00] Northern Arizona Lumberjacks - Montana Grizzlies
-https://andro.2385437.xyz/checklist/androstreamlivech18169711.m3u8
 #EXTINF:-1 tvg-name="Olympiakos - Bayer Leverkusen" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Olympiakos - Bayer Leverkusen
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Olympiakos - Maccabi Fox" group-title="Canlı Maçlar - Euroleague",[20:15] Olympiakos - Maccabi Fox
@@ -210,31 +190,27 @@ https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Olimpia Milano" group-title="Canlı Maçlar - Euroleague",[22:45] Real Madrid - Olimpia Milano
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Rhinos - Skyforce" group-title="Canlı Maçlar - IPBL. Prime Division",[05:15] Rhinos - Skyforce
-https://andro.2385437.xyz/checklist/androstreamlivech18169859.m3u8
-#EXTINF:-1 tvg-name="Sergey Denisov - Timur Timoshkin" group-title="Canlı Maçlar - ATT. Togliatti",[03:33] Sergey Denisov - Timur Timoshkin
-https://andro.2385437.xyz/checklist/androstreamlivech18169607.m3u8
 #EXTINF:-1 tvg-name="Slavia Prag - Barcelona" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Slavia Prag - Barcelona
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Sporting Lisbon - PSG" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Sporting Lisbon - PSG
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Stephen F. Austin Lumberjacks - Nicholls State Colonels" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[03:15] Stephen F. Austin Lumberjacks - Nicholls State Colonels
-https://andro.2385437.xyz/checklist/androstreamlivech18169615.m3u8
+#EXTINF:-1 tvg-name="Stepan Kosogov - Nikolay Kriventsov" group-title="Canlı Maçlar - ATT. Togliatti",[06:10] Stepan Kosogov - Nikolay Kriventsov
+https://andro.2385437.xyz/checklist/androstreamlivech18170115.m3u8
+#EXTINF:-1 tvg-name="Sırbistan - Polonya" group-title="Canlı Maçlar - SpikeVolleyball. International Cup",[06:15] Sırbistan - Polonya
+https://andro.2385437.xyz/checklist/androstreamlivech18170081.m3u8
 #EXTINF:-1 tvg-name="THY - Aras Kargo" group-title="Canlı Maçlar - TVF Sultanlar Ligi",[14:00] THY - Aras Kargo
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Texas Rio Grand Valley Vaqueros - Güney-Doğu Louisiana Lions" group-title="Canlı Maçlar - Ulusal Öğrenci Spor Birliği (NСАА)",[03:30] Texas Rio Grand Valley Vaqueros - Güney-Doğu Louisiana Lions
-https://andro.2385437.xyz/checklist/androstreamlivech18169627.m3u8
 #EXTINF:-1 tvg-name="Tofaş - Alba Berlin" group-title="Canlı Maçlar - FIBA Şampiyonlar Ligi",[20:00] Tofaş - Alba Berlin
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Tottenham - B.Dortmund" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Tottenham - B.Dortmund
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="UMECIT - Club Deportivo Árabe Unido" group-title="Canlı Maçlar - Panama Şampiyonası",[04:30] UMECIT - Club Deportivo Árabe Unido
-https://andro.2385437.xyz/checklist/androstreamlivech18169775.m3u8
+#EXTINF:-1 tvg-name="Türkiye (Bayanlar) - Rusya (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[06:25] Türkiye (Bayanlar) - Rusya (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18170165.m3u8
 #EXTINF:-1 tvg-name="Valencia Basket - Paris" group-title="Canlı Maçlar - Euroleague",[22:30] Valencia Basket - Paris
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Villarreal - Ajax" group-title="Canlı Maçlar - UEFA Şampiyonlar Ligi",[23:00] Villarreal - Ajax
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Virtus Bologna - Fenerbahçe Beko" group-title="Canlı Maçlar - Euroleague",[22:30] Virtus Bologna - Fenerbahçe Beko
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="İtalya - Slovenya" group-title="Canlı Maçlar - VCA. Master Volleyball League",[04:45] İtalya - Slovenya
-https://andro.2385437.xyz/checklist/androstreamlivech18169813.m3u8
+#EXTINF:-1 tvg-name="Volgograd - Nizhny Novgorod" group-title="Canlı Maçlar - IPBL. Pro Division",[06:00] Volgograd - Nizhny Novgorod
+https://andro.2385437.xyz/checklist/androstreamlivech18170079.m3u8

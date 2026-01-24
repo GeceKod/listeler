@@ -2,10 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 #EXT-X-ORIGIN:https://tvjustin.com
-#EXTINF:-1 tvg-name="1. FSV Mainz 05 - VfL Wolfsburg (17:30)" group-title="Maç Yayınları",1. FSV Mainz 05 - VfL Wolfsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203899.m3u8
-#EXTINF:-1 tvg-name="1. FSV Mainz 05 - VfL Wolfsburg (17:30)" group-title="Maç Yayınları",1. FSV Mainz 05 - VfL Wolfsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203899.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
 https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
@@ -24,14 +20,14 @@ https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408967.m3u8
 #EXTINF:-1 tvg-name="AAS Mamede - Clube Kairos (18:00)" group-title="Maç Yayınları",AAS Mamede - Clube Kairos (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408967.m3u8
-#EXTINF:-1 tvg-name="ACV Assen - Sparta Rotterdam (res.) (16:37)" group-title="Maç Yayınları",ACV Assen - Sparta Rotterdam (res.) (16:37)
-https://andro.2385437.xyz/checklist/androstreamlivech36407307.m3u8
-#EXTINF:-1 tvg-name="ACV Assen - Sparta Rotterdam (res.) (16:37)" group-title="Maç Yayınları",ACV Assen - Sparta Rotterdam (res.) (16:37)
-https://andro.2385437.xyz/checklist/androstreamlivech36407307.m3u8
 #EXTINF:-1 tvg-name="AE Psychikou - GS Sofadon (18:00)" group-title="Maç Yayınları",AE Psychikou - GS Sofadon (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409025.m3u8
 #EXTINF:-1 tvg-name="AE Psychikou - GS Sofadon (18:00)" group-title="Maç Yayınları",AE Psychikou - GS Sofadon (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409025.m3u8
+#EXTINF:-1 tvg-name="AEK Larnaca (w) - Lemesos Volleyball (w) (18:00)" group-title="Maç Yayınları",AEK Larnaca (w) - Lemesos Volleyball (w) (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409243.m3u8
+#EXTINF:-1 tvg-name="AEK Larnaca (w) - Lemesos Volleyball (w) (18:00)" group-title="Maç Yayınları",AEK Larnaca (w) - Lemesos Volleyball (w) (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409243.m3u8
 #EXTINF:-1 tvg-name="AIK Basket (w) - Brahe Basket (w) (17:00)" group-title="Maç Yayınları",AIK Basket (w) - Brahe Basket (w) (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407683.m3u8
 #EXTINF:-1 tvg-name="AIK Basket (w) - Brahe Basket (w) (17:00)" group-title="Maç Yayınları",AIK Basket (w) - Brahe Basket (w) (17:00)
@@ -62,6 +58,10 @@ https://andro.2385437.xyz/checklist/androstreamlivebikanal.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408495.m3u8
 #EXTINF:-1 tvg-name="Airdrieonians FC - Ross County (18:00)" group-title="Maç Yayınları",Airdrieonians FC - Ross County (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408495.m3u8
+#EXTINF:-1 tvg-name="Ajax - FC Volendam (18:30)" group-title="Maç Yayınları",Ajax - FC Volendam (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409085.m3u8
+#EXTINF:-1 tvg-name="Ajax - FC Volendam (18:30)" group-title="Maç Yayınları",Ajax - FC Volendam (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409085.m3u8
 #EXTINF:-1 tvg-name="Ajax - Volendam (18:30)" group-title="Maç Yayınları",Ajax - Volendam (18:30)
 https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 tvg-name="Ajax - Volendam | 3 | (18:30)" group-title="Maç Yayınları",Ajax - Volendam | 3 | (18:30)
@@ -72,32 +72,36 @@ https://andro.2385437.xyz/checklist/androstreamlivech18204376.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408885.m3u8
 #EXTINF:-1 tvg-name="Akaa Volley - AC Oulu Volley (18:00)" group-title="Maç Yayınları",Akaa Volley - AC Oulu Volley (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408885.m3u8
-#EXTINF:-1 tvg-name="Akademia Kazan - Dinskaya-RCSP (17:00)" group-title="Maç Yayınları",Akademia Kazan - Dinskaya-RCSP (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203840.m3u8
-#EXTINF:-1 tvg-name="Akademia Kazan - Dinskaya-RCSP (17:00)" group-title="Maç Yayınları",Akademia Kazan - Dinskaya-RCSP (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203840.m3u8
-#EXTINF:-1 tvg-name="Al Ahed - Al Riyadi Al Abassiya (17:00)" group-title="Maç Yayınları",Al Ahed - Al Riyadi Al Abassiya (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203890.m3u8
-#EXTINF:-1 tvg-name="Al Ahed - Al Riyadi Al Abassiya (17:00)" group-title="Maç Yayınları",Al Ahed - Al Riyadi Al Abassiya (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203890.m3u8
+#EXTINF:-1 tvg-name="Akhisar Belediye - ITU Spor Kulubu (18:30)" group-title="Maç Yayınları",Akhisar Belediye - ITU Spor Kulubu (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409247.m3u8
+#EXTINF:-1 tvg-name="Akhisar Belediye - ITU Spor Kulubu (18:30)" group-title="Maç Yayınları",Akhisar Belediye - ITU Spor Kulubu (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409247.m3u8
 #EXTINF:-1 tvg-name="Al Ahed - Riyadi Abbasiya (17:00)" group-title="Maç Yayınları",Al Ahed - Riyadi Abbasiya (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408113.m3u8
 #EXTINF:-1 tvg-name="Al Ahed - Riyadi Abbasiya (17:00)" group-title="Maç Yayınları",Al Ahed - Riyadi Abbasiya (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408113.m3u8
+#EXTINF:-1 tvg-name="Al Kholood - Ettifaq Dammam (18:20)" group-title="Maç Yayınları",Al Kholood - Ettifaq Dammam (18:20)
+https://andro.2385437.xyz/checklist/androstreamlivech18204396.m3u8
+#EXTINF:-1 tvg-name="Al Kholood - Ettifaq Dammam (18:20)" group-title="Maç Yayınları",Al Kholood - Ettifaq Dammam (18:20)
+https://andro.2385437.xyz/checklist/androstreamlivech18204396.m3u8
+#EXTINF:-1 tvg-name="Al Kholood Club - Al Ettifaq Dammam (18:20)" group-title="Maç Yayınları",Al Kholood Club - Al Ettifaq Dammam (18:20)
+https://andro.2385437.xyz/checklist/androstreamlivech36409125.m3u8
+#EXTINF:-1 tvg-name="Al Kholood Club - Al Ettifaq Dammam (18:20)" group-title="Maç Yayınları",Al Kholood Club - Al Ettifaq Dammam (18:20)
+https://andro.2385437.xyz/checklist/androstreamlivech36409125.m3u8
 #EXTINF:-1 tvg-name="Al Kuwait SC - Al-Arabi SC (17:45)" group-title="Maç Yayınları",Al Kuwait SC - Al-Arabi SC (17:45)
 https://andro.2385437.xyz/checklist/androstreamlivech36408359.m3u8
 #EXTINF:-1 tvg-name="Al Kuwait SC - Al-Arabi SC (17:45)" group-title="Maç Yayınları",Al Kuwait SC - Al-Arabi SC (17:45)
 https://andro.2385437.xyz/checklist/androstreamlivech36408359.m3u8
+#EXTINF:-1 tvg-name="Al Ramtha - Shabab Al Ordon Al Quadisiya (17:00)" group-title="Maç Yayınları",Al Ramtha - Shabab Al Ordon Al Quadisiya (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18203689.m3u8
+#EXTINF:-1 tvg-name="Al Ramtha - Shabab Al Ordon Al Quadisiya (17:00)" group-title="Maç Yayınları",Al Ramtha - Shabab Al Ordon Al Quadisiya (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18203689.m3u8
 #EXTINF:-1 tvg-name="Al Riyadh - Al Hilal (20:30)" group-title="Maç Yayınları",Al Riyadh - Al Hilal (20:30)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Al Wakrah - Qatar SC (18:00)" group-title="Maç Yayınları",Al Wakrah - Qatar SC (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409033.m3u8
 #EXTINF:-1 tvg-name="Al Wakrah - Qatar SC (18:00)" group-title="Maç Yayınları",Al Wakrah - Qatar SC (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409033.m3u8
-#EXTINF:-1 tvg-name="Al-Khaburah - Sur Club (16:10)" group-title="Maç Yayınları",Al-Khaburah - Sur Club (16:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18203352.m3u8
-#EXTINF:-1 tvg-name="Al-Khaburah - Sur Club (16:10)" group-title="Maç Yayınları",Al-Khaburah - Sur Club (16:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18203352.m3u8
 #EXTINF:-1 tvg-name="Al-Ramtha SC - Shabab Al Ordon (17:00)" group-title="Maç Yayınları",Al-Ramtha SC - Shabab Al Ordon (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407711.m3u8
 #EXTINF:-1 tvg-name="Al-Ramtha SC - Shabab Al Ordon (17:00)" group-title="Maç Yayınları",Al-Ramtha SC - Shabab Al Ordon (17:00)
@@ -142,14 +146,14 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="BATE-BGUFK - Stolitca Minsk (17:00)" group-title="Maç Yayınları",BATE-BGUFK - Stolitca Minsk (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203785.m3u8
-#EXTINF:-1 tvg-name="BATE-BGUFK - Stolitca Minsk (17:00)" group-title="Maç Yayınları",BATE-BGUFK - Stolitca Minsk (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203785.m3u8
 #EXTINF:-1 tvg-name="BC Nokia (w) - Tampereen Pyrinto (w) (18:00)" group-title="Maç Yayınları",BC Nokia (w) - Tampereen Pyrinto (w) (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408569.m3u8
 #EXTINF:-1 tvg-name="BC Nokia (w) - Tampereen Pyrinto (w) (18:00)" group-title="Maç Yayınları",BC Nokia (w) - Tampereen Pyrinto (w) (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408569.m3u8
+#EXTINF:-1 tvg-name="BC UNICS - Pari Nizhny Novgorod (18:00)" group-title="Maç Yayınları",BC UNICS - Pari Nizhny Novgorod (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18204166.m3u8
+#EXTINF:-1 tvg-name="BC UNICS - Pari Nizhny Novgorod (18:00)" group-title="Maç Yayınları",BC UNICS - Pari Nizhny Novgorod (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18204166.m3u8
 #EXTINF:-1 tvg-name="BCB Bolzano (w) - Virtus Ragusa (w) (17:00)" group-title="Maç Yayınları",BCB Bolzano (w) - Virtus Ragusa (w) (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407905.m3u8
 #EXTINF:-1 tvg-name="BCB Bolzano (w) - Virtus Ragusa (w) (17:00)" group-title="Maç Yayınları",BCB Bolzano (w) - Virtus Ragusa (w) (17:00)
@@ -172,10 +176,6 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Baskonia - Joventut Badalona (19:00)" group-title="Maç Yayınları",Baskonia - Joventut Badalona (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Bayer 04 Leverkusen - Werder Bremen (17:30)" group-title="Maç Yayınları",Bayer 04 Leverkusen - Werder Bremen (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203900.m3u8
-#EXTINF:-1 tvg-name="Bayer 04 Leverkusen - Werder Bremen (17:30)" group-title="Maç Yayınları",Bayer 04 Leverkusen - Werder Bremen (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203900.m3u8
 #EXTINF:-1 tvg-name="Bayer Leverkusen - Werder Bremen (17:30)" group-title="Maç Yayınları",Bayer Leverkusen - Werder Bremen (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-name="Bayer Leverkusen - Werder Bremen (17:30)" group-title="Maç Yayınları",Bayer Leverkusen - Werder Bremen (17:30)
@@ -186,10 +186,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408133.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408125.m3u8
 #EXTINF:-1 tvg-name="Bayern Munchen - Augsburg (17:30)" group-title="Maç Yayınları",Bayern Munchen - Augsburg (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech36408125.m3u8
-#EXTINF:-1 tvg-name="Bayern Munich - Augsburg (17:30)" group-title="Maç Yayınları",Bayern Munich - Augsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203896.m3u8
-#EXTINF:-1 tvg-name="Bayern Munich - Augsburg (17:30)" group-title="Maç Yayınları",Bayern Munich - Augsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203896.m3u8
 #EXTINF:-1 tvg-name="Bayern Münih - Augsburg (17:30)" group-title="Maç Yayınları",Bayern Münih - Augsburg (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
@@ -256,10 +252,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408551.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408435.m3u8
 #EXTINF:-1 tvg-name="Bolton - Leyton Orient (18:00)" group-title="Maç Yayınları",Bolton - Leyton Orient (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408435.m3u8
-#EXTINF:-1 tvg-name="Bolzano (Bayanlar) - Passalacqua Ragusa (Bayanlar) (17:00)" group-title="Maç Yayınları",Bolzano (Bayanlar) - Passalacqua Ragusa (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203786.m3u8
-#EXTINF:-1 tvg-name="Bolzano (Bayanlar) - Passalacqua Ragusa (Bayanlar) (17:00)" group-title="Maç Yayınları",Bolzano (Bayanlar) - Passalacqua Ragusa (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203786.m3u8
+#EXTINF:-1 tvg-name="Boston United FC - Southend Utd (18:00)" group-title="Maç Yayınları",Boston United FC - Southend Utd (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409161.m3u8
+#EXTINF:-1 tvg-name="Boston United FC - Southend Utd (18:00)" group-title="Maç Yayınları",Boston United FC - Southend Utd (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409161.m3u8
 #EXTINF:-1 tvg-name="Botaş - Fenerbahçe Opet (13:00)" group-title="Maç Yayınları",Botaş - Fenerbahçe Opet (13:00)
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="Bournemouth - Liverpool (20:30)" group-title="Maç Yayınları",Bournemouth - Liverpool (20:30)
@@ -298,18 +294,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36407909.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36407909.m3u8
 #EXTINF:-1 tvg-name="Bursaspor - Mersin İY (17:00)" group-title="Maç Yayınları",Bursaspor - Mersin İY (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivebikanal.m3u8
-#EXTINF:-1 tvg-name="C.U.S. Cagliari (Bayanlar) - Halley Thunder Matelica (Bayanlar) (17:00)" group-title="Maç Yayınları",C.U.S. Cagliari (Bayanlar) - Halley Thunder Matelica (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203819.m3u8
-#EXTINF:-1 tvg-name="C.U.S. Cagliari (Bayanlar) - Halley Thunder Matelica (Bayanlar) (17:00)" group-title="Maç Yayınları",C.U.S. Cagliari (Bayanlar) - Halley Thunder Matelica (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203819.m3u8
-#EXTINF:-1 tvg-name="CS Agronomia Bucuresti (w) - ASC Sepsi SIC Sfantu Gheorghe (w) (17:00)" group-title="Maç Yayınları",CS Agronomia Bucuresti (w) - ASC Sepsi SIC Sfantu Gheorghe (w) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407757.m3u8
-#EXTINF:-1 tvg-name="CS Agronomia Bucuresti (w) - ASC Sepsi SIC Sfantu Gheorghe (w) (17:00)" group-title="Maç Yayınları",CS Agronomia Bucuresti (w) - ASC Sepsi SIC Sfantu Gheorghe (w) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407757.m3u8
-#EXTINF:-1 tvg-name="CSM Agronomia Bükreş - Steaua Bucuresti (17:00)" group-title="Maç Yayınları",CSM Agronomia Bükreş - Steaua Bucuresti (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203954.m3u8
-#EXTINF:-1 tvg-name="CSM Agronomia Bükreş - Steaua Bucuresti (17:00)" group-title="Maç Yayınları",CSM Agronomia Bükreş - Steaua Bucuresti (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203954.m3u8
 #EXTINF:-1 tvg-name="CSO Voluntari (w) - Corona Brasov (w) (18:00)" group-title="Maç Yayınları",CSO Voluntari (w) - Corona Brasov (w) (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408969.m3u8
 #EXTINF:-1 tvg-name="CSO Voluntari (w) - Corona Brasov (w) (18:00)" group-title="Maç Yayınları",CSO Voluntari (w) - Corona Brasov (w) (18:00)
@@ -380,12 +364,12 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408237.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408433.m3u8
 #EXTINF:-1 tvg-name="Doncaster Rovers - Wigan (18:00)" group-title="Maç Yayınları",Doncaster Rovers - Wigan (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408433.m3u8
+#EXTINF:-1 tvg-name="Dynamo Krasnodar (Bayanlar) - VC Omichka (Bayanlar) (16:55)" group-title="Maç Yayınları",Dynamo Krasnodar (Bayanlar) - VC Omichka (Bayanlar) (16:55)
+https://andro.2385437.xyz/checklist/androstreamlivech18203663.m3u8
+#EXTINF:-1 tvg-name="Dynamo Krasnodar (Bayanlar) - VC Omichka (Bayanlar) (16:55)" group-title="Maç Yayınları",Dynamo Krasnodar (Bayanlar) - VC Omichka (Bayanlar) (16:55)
+https://andro.2385437.xyz/checklist/androstreamlivech18203663.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - Hoffenheim (17:30)" group-title="Maç Yayınları",Eintracht Frankfurt - Hoffenheim (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-name="Eintracht Frankfurt - TSG 1899 Hoffenheim (17:30)" group-title="Maç Yayınları",Eintracht Frankfurt - TSG 1899 Hoffenheim (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203898.m3u8
-#EXTINF:-1 tvg-name="Eintracht Frankfurt - TSG 1899 Hoffenheim (17:30)" group-title="Maç Yayınları",Eintracht Frankfurt - TSG 1899 Hoffenheim (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203898.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - TSG Hoffenheim (17:30)" group-title="Maç Yayınları",Eintracht Frankfurt - TSG Hoffenheim (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech36408129.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - TSG Hoffenheim (17:30)" group-title="Maç Yayınları",Eintracht Frankfurt - TSG Hoffenheim (17:30)
@@ -466,6 +450,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408503.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18204085.m3u8
 #EXTINF:-1 tvg-name="Falkirk - Hibernian (18:00)" group-title="Maç Yayınları",Falkirk - Hibernian (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408503.m3u8
+#EXTINF:-1 tvg-name="Farum-Holte (w) - Ikast KFUM (w) (18:30)" group-title="Maç Yayınları",Farum-Holte (w) - Ikast KFUM (w) (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409169.m3u8
+#EXTINF:-1 tvg-name="Farum-Holte (w) - Ikast KFUM (w) (18:30)" group-title="Maç Yayınları",Farum-Holte (w) - Ikast KFUM (w) (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409169.m3u8
 #EXTINF:-1 tvg-name="Fatih Karagümrük - Galatasaray (20:00)" group-title="Maç Yayınları",Fatih Karagümrük - Galatasaray (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
@@ -486,10 +474,6 @@ https://andro.2385437.xyz/checklist/androstreamlivesifir.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-name="Fiorentina - Cagliari (20:00)" group-title="Maç Yayınları",Fiorentina - Cagliari (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Fransa Avenir 2024 - Grand Nancy (17:00)" group-title="Maç Yayınları",Fransa Avenir 2024 - Grand Nancy (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203880.m3u8
-#EXTINF:-1 tvg-name="Fransa Avenir 2024 - Grand Nancy (17:00)" group-title="Maç Yayınları",Fransa Avenir 2024 - Grand Nancy (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203880.m3u8
 #EXTINF:-1 tvg-name="Freiburg - Köln (19:30)" group-title="Maç Yayınları",Freiburg - Köln (19:30)
 https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-name="Frosinone - Reggiana (17:00)" group-title="Maç Yayınları",Frosinone - Reggiana (17:00)
@@ -566,9 +550,9 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408709.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36407745.m3u8
 #EXTINF:-1 tvg-name="Ijsselmeervogels - Almere City (res.) (17:00)" group-title="Maç Yayınları",Ijsselmeervogels - Almere City (res.) (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407745.m3u8
-#EXTINF:-1 tvg-name="Imoco Conegliano (Women) - Igor Novara (Women) (17:30)" group-title="Maç Yayınları",Imoco Conegliano (Women) - Igor Novara (Women) (17:30)
+#EXTINF:-1 tvg-name="Imoco Conegliano (Bayanlar) - Igor Novara (Bayanlar) (17:30)" group-title="Maç Yayınları",Imoco Conegliano (Bayanlar) - Igor Novara (Bayanlar) (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech18204110.m3u8
-#EXTINF:-1 tvg-name="Imoco Conegliano (Women) - Igor Novara (Women) (17:30)" group-title="Maç Yayınları",Imoco Conegliano (Women) - Igor Novara (Women) (17:30)
+#EXTINF:-1 tvg-name="Imoco Conegliano (Bayanlar) - Igor Novara (Bayanlar) (17:30)" group-title="Maç Yayınları",Imoco Conegliano (Bayanlar) - Igor Novara (Bayanlar) (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech18204110.m3u8
 #EXTINF:-1 tvg-name="Imoco Volley Conegliano (w) - Novara Volley (w) (17:30)" group-title="Maç Yayınları",Imoco Volley Conegliano (w) - Novara Volley (w) (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech36408553.m3u8
@@ -602,6 +586,10 @@ https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408647.m3u8
 #EXTINF:-1 tvg-name="KK Parnu - TalTech (18:00)" group-title="Maç Yayınları",KK Parnu - TalTech (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408647.m3u8
+#EXTINF:-1 tvg-name="KS Vllaznia Shkoder - Partizani Tirana (18:30)" group-title="Maç Yayınları",KS Vllaznia Shkoder - Partizani Tirana (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409301.m3u8
+#EXTINF:-1 tvg-name="KS Vllaznia Shkoder - Partizani Tirana (18:30)" group-title="Maç Yayınları",KS Vllaznia Shkoder - Partizani Tirana (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409301.m3u8
 #EXTINF:-1 tvg-name="Karatay Belediyespor - Etimesgut Bld (18:00)" group-title="Maç Yayınları",Karatay Belediyespor - Etimesgut Bld (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408921.m3u8
 #EXTINF:-1 tvg-name="Karatay Belediyespor - Etimesgut Bld (18:00)" group-title="Maç Yayınları",Karatay Belediyespor - Etimesgut Bld (18:00)
@@ -610,6 +598,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408921.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408613.m3u8
 #EXTINF:-1 tvg-name="Karhu Kauhajoen - Helsinki Seagulls (18:00)" group-title="Maç Yayınları",Karhu Kauhajoen - Helsinki Seagulls (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408613.m3u8
+#EXTINF:-1 tvg-name="Keila Basket - BC Kalev/Cramo (18:30)" group-title="Maç Yayınları",Keila Basket - BC Kalev/Cramo (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409183.m3u8
+#EXTINF:-1 tvg-name="Keila Basket - BC Kalev/Cramo (18:30)" group-title="Maç Yayınları",Keila Basket - BC Kalev/Cramo (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409183.m3u8
 #EXTINF:-1 tvg-name="Kisvarda - MTK Budapest (17:00)" group-title="Maç Yayınları",Kisvarda - MTK Budapest (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407755.m3u8
 #EXTINF:-1 tvg-name="Kisvarda - MTK Budapest (17:00)" group-title="Maç Yayınları",Kisvarda - MTK Budapest (17:00)
@@ -674,12 +666,12 @@ https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408345.m3u8
 #EXTINF:-1 tvg-name="MLK Volleys Koln - Grizzlys Giesen II (17:30)" group-title="Maç Yayınları",MLK Volleys Koln - Grizzlys Giesen II (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech36408345.m3u8
+#EXTINF:-1 tvg-name="MSV Duisburg - Jahn Regensburg (18:30)" group-title="Maç Yayınları",MSV Duisburg - Jahn Regensburg (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409081.m3u8
+#EXTINF:-1 tvg-name="MSV Duisburg - Jahn Regensburg (18:30)" group-title="Maç Yayınları",MSV Duisburg - Jahn Regensburg (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409081.m3u8
 #EXTINF:-1 tvg-name="Magdeburg - Dynamo Dresden (22:30)" group-title="Maç Yayınları",Magdeburg - Dynamo Dresden (22:30)
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Magnitka Magnitogorsk - Barnaul Üniversitesi (17:00)" group-title="Maç Yayınları",Magnitka Magnitogorsk - Barnaul Üniversitesi (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203820.m3u8
-#EXTINF:-1 tvg-name="Magnitka Magnitogorsk - Barnaul Üniversitesi (17:00)" group-title="Maç Yayınları",Magnitka Magnitogorsk - Barnaul Üniversitesi (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203820.m3u8
 #EXTINF:-1 tvg-name="Mainz - Wolfsburg (17:30)" group-title="Maç Yayınları",Mainz - Wolfsburg (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Mainz 05 - Wolfsburg (17:30)" group-title="Maç Yayınları",Mainz 05 - Wolfsburg (17:30)
@@ -704,14 +696,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36407613.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36407613.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Lens (23:05)" group-title="Maç Yayınları",Marsilya - Lens (23:05)
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Mazeikiai - Alytaus Alytus (17:00)" group-title="Maç Yayınları",Mazeikiai - Alytaus Alytus (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203800.m3u8
-#EXTINF:-1 tvg-name="Mazeikiai - Alytaus Alytus (17:00)" group-title="Maç Yayınları",Mazeikiai - Alytaus Alytus (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407933.m3u8
-#EXTINF:-1 tvg-name="Mazeikiai - Alytaus Alytus (17:00)" group-title="Maç Yayınları",Mazeikiai - Alytaus Alytus (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203800.m3u8
-#EXTINF:-1 tvg-name="Mazeikiai - Alytaus Alytus (17:00)" group-title="Maç Yayınları",Mazeikiai - Alytaus Alytus (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407933.m3u8
 #EXTINF:-1 tvg-name="Medvescak (w) - ZOK Vukovar (w) (17:00)" group-title="Maç Yayınları",Medvescak (w) - ZOK Vukovar (w) (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408161.m3u8
 #EXTINF:-1 tvg-name="Medvescak (w) - ZOK Vukovar (w) (17:00)" group-title="Maç Yayınları",Medvescak (w) - ZOK Vukovar (w) (17:00)
@@ -740,10 +724,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408497.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18204082.m3u8
 #EXTINF:-1 tvg-name="Motherwell - Kilmarnock (18:00)" group-title="Maç Yayınları",Motherwell - Kilmarnock (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408497.m3u8
-#EXTINF:-1 tvg-name="Munster SBT II (Bayanlar) - Osnabruck (Bayanlar) (17:00)" group-title="Maç Yayınları",Munster SBT II (Bayanlar) - Osnabruck (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203883.m3u8
-#EXTINF:-1 tvg-name="Munster SBT II (Bayanlar) - Osnabruck (Bayanlar) (17:00)" group-title="Maç Yayınları",Munster SBT II (Bayanlar) - Osnabruck (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203883.m3u8
 #EXTINF:-1 tvg-name="N.Krylov - M.Bukauskas (08:00)" group-title="Maç Yayınları",N.Krylov - M.Bukauskas (08:00)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="N.Silva - R.Namajunas (06:00)" group-title="Maç Yayınları",N.Silva - R.Namajunas (06:00)
@@ -764,10 +744,6 @@ https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408351.m3u8
 #EXTINF:-1 tvg-name="Neptunas - Panevezys Lietkabelis (17:50)" group-title="Maç Yayınları",Neptunas - Panevezys Lietkabelis (17:50)
 https://andro.2385437.xyz/checklist/androstreamlivech36408351.m3u8
-#EXTINF:-1 tvg-name="Neptunas-Akvaservis - Jurbarkas (17:00)" group-title="Maç Yayınları",Neptunas-Akvaservis - Jurbarkas (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203690.m3u8
-#EXTINF:-1 tvg-name="Neptunas-Akvaservis - Jurbarkas (17:00)" group-title="Maç Yayınları",Neptunas-Akvaservis - Jurbarkas (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203690.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Aston Villa (17:00)" group-title="Maç Yayınları",Newcastle - Aston Villa (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="Niki Volou - Vikos BC (18:00)" group-title="Maç Yayınları",Niki Volou - Vikos BC (18:00)
@@ -794,10 +770,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408839.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408909.m3u8
 #EXTINF:-1 tvg-name="Ormanspor Ankara - Goztepe (18:15)" group-title="Maç Yayınları",Ormanspor Ankara - Goztepe (18:15)
 https://andro.2385437.xyz/checklist/androstreamlivech36408909.m3u8
-#EXTINF:-1 tvg-name="PBC CSKA Moskova - Zenit Saint-Petersburg (16:00)" group-title="Maç Yayınları",PBC CSKA Moskova - Zenit Saint-Petersburg (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203267.m3u8
-#EXTINF:-1 tvg-name="PBC CSKA Moskova - Zenit Saint-Petersburg (16:00)" group-title="Maç Yayınları",PBC CSKA Moskova - Zenit Saint-Petersburg (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203267.m3u8
 #EXTINF:-1 tvg-name="PSV - NAC Breda (22:00)" group-title="Maç Yayınları",PSV - NAC Breda (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-name="Paderborn - Preussen Münster (15:30)" group-title="Maç Yayınları",Paderborn - Preussen Münster (15:30)
@@ -818,18 +790,10 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="Philadelphia 76ers - New York Knicks (23:00)" group-title="Maç Yayınları",Philadelphia 76ers - New York Knicks (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Pole Avenir 2024 (Bayanlar) - Saint Die Des Vosges (Bayanlar) (15:55)" group-title="Maç Yayınları",Pole Avenir 2024 (Bayanlar) - Saint Die Des Vosges (Bayanlar) (15:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18203300.m3u8
-#EXTINF:-1 tvg-name="Pole Avenir 2024 (Bayanlar) - Saint Die Des Vosges (Bayanlar) (15:55)" group-title="Maç Yayınları",Pole Avenir 2024 (Bayanlar) - Saint Die Des Vosges (Bayanlar) (15:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18203300.m3u8
 #EXTINF:-1 tvg-name="Polonia Warsaw - Basket Poznan (17:00)" group-title="Maç Yayınları",Polonia Warsaw - Basket Poznan (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407979.m3u8
 #EXTINF:-1 tvg-name="Polonia Warsaw - Basket Poznan (17:00)" group-title="Maç Yayınları",Polonia Warsaw - Basket Poznan (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407979.m3u8
-#EXTINF:-1 tvg-name="Polonia Warszawa - KKS Poznan (17:00)" group-title="Maç Yayınları",Polonia Warszawa - KKS Poznan (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203823.m3u8
-#EXTINF:-1 tvg-name="Polonia Warszawa - KKS Poznan (17:00)" group-title="Maç Yayınları",Polonia Warszawa - KKS Poznan (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203823.m3u8
 #EXTINF:-1 tvg-name="Port Vale - Exeter City (18:00)" group-title="Maç Yayınları",Port Vale - Exeter City (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408427.m3u8
 #EXTINF:-1 tvg-name="Port Vale - Exeter City (18:00)" group-title="Maç Yayınları",Port Vale - Exeter City (18:00)
@@ -898,6 +862,10 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="Rennes - Lorient (19:00)" group-title="Maç Yayınları",Rennes - Lorient (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-name="Rochdale - Truro City (18:00)" group-title="Maç Yayınları",Rochdale - Truro City (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409159.m3u8
+#EXTINF:-1 tvg-name="Rochdale - Truro City (18:00)" group-title="Maç Yayınları",Rochdale - Truro City (18:00)
+https://andro.2385437.xyz/checklist/androstreamlivech36409159.m3u8
 #EXTINF:-1 tvg-name="Roma - Milan (22:45)" group-title="Maç Yayınları",Roma - Milan (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="Rosario Central - Belgrano (04:00)" group-title="Maç Yayınları",Rosario Central - Belgrano (04:00)
@@ -926,10 +894,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36409105.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="SC Telstar - AZ Alkmaar (14:15)" group-title="Maç Yayınları",SC Telstar - AZ Alkmaar (14:15)
 https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-name="SKK Kotwica Kołobrzeg - Decka Pelplin (17:00)" group-title="Maç Yayınları",SKK Kotwica Kołobrzeg - Decka Pelplin (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203822.m3u8
-#EXTINF:-1 tvg-name="SKK Kotwica Kołobrzeg - Decka Pelplin (17:00)" group-title="Maç Yayınları",SKK Kotwica Kołobrzeg - Decka Pelplin (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203822.m3u8
 #EXTINF:-1 tvg-name="SS Murata - La Fiorita (17:00)" group-title="Maç Yayınları",SS Murata - La Fiorita (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407917.m3u8
 #EXTINF:-1 tvg-name="SS Murata - La Fiorita (17:00)" group-title="Maç Yayınları",SS Murata - La Fiorita (17:00)
@@ -952,10 +916,6 @@ https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36407733.m3u8
 #EXTINF:-1 tvg-name="Samsunspor - Kocaelispor (17:00)" group-title="Maç Yayınları",Samsunspor - Kocaelispor (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407733.m3u8
-#EXTINF:-1 tvg-name="San Lorenzo de Almagro - La Union Formosa (17:00)" group-title="Maç Yayınları",San Lorenzo de Almagro - La Union Formosa (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203903.m3u8
-#EXTINF:-1 tvg-name="San Lorenzo de Almagro - La Union Formosa (17:00)" group-title="Maç Yayınları",San Lorenzo de Almagro - La Union Formosa (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203903.m3u8
 #EXTINF:-1 tvg-name="San Lorenzo de Almagro - La Union de Formosa (17:00)" group-title="Maç Yayınları",San Lorenzo de Almagro - La Union de Formosa (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408139.m3u8
 #EXTINF:-1 tvg-name="San Lorenzo de Almagro - La Union de Formosa (17:00)" group-title="Maç Yayınları",San Lorenzo de Almagro - La Union de Formosa (17:00)
@@ -994,18 +954,10 @@ https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408523.m3u8
 #EXTINF:-1 tvg-name="Sociedade Uniao 1. Dezembro - Lusitano GC Evora (18:00)" group-title="Maç Yayınları",Sociedade Uniao 1. Dezembro - Lusitano GC Evora (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408523.m3u8
-#EXTINF:-1 tvg-name="Sodermalm - Solna (16:30)" group-title="Maç Yayınları",Sodermalm - Solna (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech36407509.m3u8
-#EXTINF:-1 tvg-name="Sodermalm - Solna (16:30)" group-title="Maç Yayınları",Sodermalm - Solna (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech36407509.m3u8
 #EXTINF:-1 tvg-name="Sokol Hradec Kralove (w) - SBS Ostrava (w) (18:00)" group-title="Maç Yayınları",Sokol Hradec Kralove (w) - SBS Ostrava (w) (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409043.m3u8
 #EXTINF:-1 tvg-name="Sokol Hradec Kralove (w) - SBS Ostrava (w) (18:00)" group-title="Maç Yayınları",Sokol Hradec Kralove (w) - SBS Ostrava (w) (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409043.m3u8
-#EXTINF:-1 tvg-name="Sparta & K Vidnoje (Bayanlar) - BC Energia Ivanovo (Bayanlar) (16:00)" group-title="Maç Yayınları",Sparta & K Vidnoje (Bayanlar) - BC Energia Ivanovo (Bayanlar) (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203342.m3u8
-#EXTINF:-1 tvg-name="Sparta & K Vidnoje (Bayanlar) - BC Energia Ivanovo (Bayanlar) (16:00)" group-title="Maç Yayınları",Sparta & K Vidnoje (Bayanlar) - BC Energia Ivanovo (Bayanlar) (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203342.m3u8
 #EXTINF:-1 tvg-name="Sporting CP - Vitoria SC Guimaraes (18:00)" group-title="Maç Yayınları",Sporting CP - Vitoria SC Guimaraes (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36409053.m3u8
 #EXTINF:-1 tvg-name="Sporting CP - Vitoria SC Guimaraes (18:00)" group-title="Maç Yayınları",Sporting CP - Vitoria SC Guimaraes (18:00)
@@ -1062,12 +1014,8 @@ https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-name="Telsiai - Rytas II (17:00)" group-title="Maç Yayınları",Telsiai - Rytas II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203804.m3u8
 #EXTINF:-1 tvg-name="Telsiai - Rytas II (17:00)" group-title="Maç Yayınları",Telsiai - Rytas II (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407941.m3u8
-#EXTINF:-1 tvg-name="Telsiai - Rytas II (17:00)" group-title="Maç Yayınları",Telsiai - Rytas II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18203804.m3u8
 #EXTINF:-1 tvg-name="Telsiai - Rytas II (17:00)" group-title="Maç Yayınları",Telsiai - Rytas II (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407941.m3u8
 #EXTINF:-1 tvg-name="Thiago Seyboth Wild - Alex Barrena (18:22)" group-title="Maç Yayınları",Thiago Seyboth Wild - Alex Barrena (18:22)
@@ -1106,10 +1054,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408831.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408831.m3u8
 #EXTINF:-1 tvg-name="Trabzonspor - Esenler Erokspor (15:30)" group-title="Maç Yayınları",Trabzonspor - Esenler Erokspor (15:30)
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="Tromse II - NTNUI II (15:15)" group-title="Maç Yayınları",Tromse II - NTNUI II (15:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18203190.m3u8
-#EXTINF:-1 tvg-name="Tromse II - NTNUI II (15:15)" group-title="Maç Yayınları",Tromse II - NTNUI II (15:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18203190.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
@@ -1152,10 +1096,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408573.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18204120.m3u8
 #EXTINF:-1 tvg-name="Universitatea Cluj - Unirea Slobozia (18:00)" group-title="Maç Yayınları",Universitatea Cluj - Unirea Slobozia (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408573.m3u8
-#EXTINF:-1 tvg-name="VBF RIG Falköping (Bayanlar) - Orebro (Bayanlar) (16:30)" group-title="Maç Yayınları",VBF RIG Falköping (Bayanlar) - Orebro (Bayanlar) (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203569.m3u8
-#EXTINF:-1 tvg-name="VBF RIG Falköping (Bayanlar) - Orebro (Bayanlar) (16:30)" group-title="Maç Yayınları",VBF RIG Falköping (Bayanlar) - Orebro (Bayanlar) (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18203569.m3u8
 #EXTINF:-1 tvg-name="VK CEZ Karlovarsko - SK Volejbal Usti nad Labem (18:00)" group-title="Maç Yayınları",VK CEZ Karlovarsko - SK Volejbal Usti nad Labem (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408713.m3u8
 #EXTINF:-1 tvg-name="VK CEZ Karlovarsko - SK Volejbal Usti nad Labem (18:00)" group-title="Maç Yayınları",VK CEZ Karlovarsko - SK Volejbal Usti nad Labem (18:00)
@@ -1180,16 +1120,16 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408575.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408581.m3u8
 #EXTINF:-1 tvg-name="Vizela U-23 - Maritimo U-23 (18:00)" group-title="Maç Yayınları",Vizela U-23 - Maritimo U-23 (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408581.m3u8
+#EXTINF:-1 tvg-name="Voley Ciutat Cide Palma (w) - DSV CV Sant Cugat II (w) (18:30)" group-title="Maç Yayınları",Voley Ciutat Cide Palma (w) - DSV CV Sant Cugat II (w) (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409319.m3u8
+#EXTINF:-1 tvg-name="Voley Ciutat Cide Palma (w) - DSV CV Sant Cugat II (w) (18:30)" group-title="Maç Yayınları",Voley Ciutat Cide Palma (w) - DSV CV Sant Cugat II (w) (18:30)
+https://andro.2385437.xyz/checklist/androstreamlivech36409319.m3u8
 #EXTINF:-1 tvg-name="W.Acosta - D.Lewis (09:30)" group-title="Maç Yayınları",W.Acosta - D.Lewis (09:30)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Walsall - Accrington Stanley (18:00)" group-title="Maç Yayınları",Walsall - Accrington Stanley (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408455.m3u8
 #EXTINF:-1 tvg-name="Walsall - Accrington Stanley (18:00)" group-title="Maç Yayınları",Walsall - Accrington Stanley (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408455.m3u8
-#EXTINF:-1 tvg-name="Wetterbygden Stars - Ockelbo BBK (17:00)" group-title="Maç Yayınları",Wetterbygden Stars - Ockelbo BBK (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407681.m3u8
-#EXTINF:-1 tvg-name="Wetterbygden Stars - Ockelbo BBK (17:00)" group-title="Maç Yayınları",Wetterbygden Stars - Ockelbo BBK (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407681.m3u8
 #EXTINF:-1 tvg-name="Wycombe Wanderers FC - Peterborough (18:00)" group-title="Maç Yayınları",Wycombe Wanderers FC - Peterborough (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36408615.m3u8
 #EXTINF:-1 tvg-name="Wycombe Wanderers FC - Peterborough (18:00)" group-title="Maç Yayınları",Wycombe Wanderers FC - Peterborough (18:00)
@@ -1208,10 +1148,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech36408941.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech36408321.m3u8
 #EXTINF:-1 tvg-name="ZKK Split (w) - ZKK Zagreb (w) (17:30)" group-title="Maç Yayınları",ZKK Split (w) - ZKK Zagreb (w) (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivech36408321.m3u8
-#EXTINF:-1 tvg-name="ZKK Zadar Plus (w) - ZKK Zadar (w) (17:00)" group-title="Maç Yayınları",ZKK Zadar Plus (w) - ZKK Zadar (w) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407709.m3u8
-#EXTINF:-1 tvg-name="ZKK Zadar Plus (w) - ZKK Zadar (w) (17:00)" group-title="Maç Yayınları",ZKK Zadar Plus (w) - ZKK Zadar (w) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech36407709.m3u8
 #EXTINF:-1 tvg-name="Zalgiris II - Palangos Olimpas (17:00)" group-title="Maç Yayınları",Zalgiris II - Palangos Olimpas (17:00)
 https://andro.2385437.xyz/checklist/androstreamlivech36407949.m3u8
 #EXTINF:-1 tvg-name="Zalgiris II - Palangos Olimpas (17:00)" group-title="Maç Yayınları",Zalgiris II - Palangos Olimpas (17:00)

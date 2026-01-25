@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://main.uxsyplayer8e485e3adaf8.click/
-#EXT-X-ORIGIN:https://main.uxsyplayer8e485e3adaf8.click
+#EXT-X-REFERER:https://main.uxsyplayer8566224aa5.click/
+#EXT-X-ORIGIN:https://main.uxsyplayer8566224aa5.click
 
-#EXTINF:-1 tvg-name="Monchengladbach - Stuttgart - 17:30" group-title="Maç Yayınları",Monchengladbach - Stuttgart - 17:30
-https://dga1op10s1u3leo.ee086cf9635f72.click/live/tivibu-spor-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Real Oviedo - 18:15" group-title="Maç Yayınları",Barcelona - Real Oviedo - 18:15
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="Feyenoord - Heracles - 18:45" group-title="Maç Yayınları",Feyenoord - Heracles - 18:45
@@ -31,8 +29,6 @@ https://dga1op10s1u3leo.ee086cf9635f72.click/live/s-sport-2/playlist.m3u8
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/bein-sports-4/playlist.m3u8
 #EXTINF:-1 tvg-name="Alaves - Real Betis - 23:00" group-title="Maç Yayınları",Alaves - Real Betis - 23:00
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/s-sport/playlist.m3u8
-#EXTINF:-1 tvg-name="Petkimspor - Fenerbahçe Beko - 18:00" group-title="Maç Yayınları",Petkimspor - Fenerbahçe Beko - 18:00
-https://dga1op10s1u3leo.ee086cf9635f72.click/live/bein-sports-5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

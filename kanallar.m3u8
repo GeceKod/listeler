@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://trgoals1519.xyz/
-#EXT-X-ORIGIN:https://trgoals1519.xyz
+#EXT-X-REFERER:https://trgoals1520.xyz/
+#EXT-X-ORIGIN:https://trgoals1520.xyz
 #EXTINF:-1 tvg-name="beIN Sports 1 ☪️" group-title="BeinSports",beIN Sports 1 ☪️
 https://9vy.d72577a9dd0ec19.sbs/yayinzirve.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 ⭐" group-title="BeinSports",beIN Sports 1 ⭐
@@ -24,16 +24,6 @@ https://9vy.d72577a9dd0ec19.sbs/yayinbm2.m3u8
 https://9vy.d72577a9dd0ec19.sbs/yayinss.m3u8
 #EXTINF:-1 tvg-name="Saran Sports 2" group-title="S Sports",Saran Sports 2
 https://9vy.d72577a9dd0ec19.sbs/yayinss2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Sports 1" group-title="Tivibu",Tivibu Sports 1
-https://9vy.d72577a9dd0ec19.sbs/yayint1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Sports 2" group-title="Tivibu",Tivibu Sports 2
-https://9vy.d72577a9dd0ec19.sbs/yayint2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Sports 3" group-title="Tivibu",Tivibu Sports 3
-https://9vy.d72577a9dd0ec19.sbs/yayint3.m3u8
-#EXTINF:-1 tvg-name="Smart Sports" group-title="Smart Sports",Smart Sports
-https://9vy.d72577a9dd0ec19.sbs/yayinsmarts.m3u8
-#EXTINF:-1 tvg-name="Smart Sports 2" group-title="Smart Sports",Smart Sports 2
-https://9vy.d72577a9dd0ec19.sbs/yayinsms2.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="NBA",NBA TV
 https://9vy.d72577a9dd0ec19.sbs/yayinnbatv.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV

@@ -1,7 +1,7 @@
 [
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "DiziSmart Premium",
         "name": "DiziSmart Premium",
         "p": 1,
@@ -12,7 +12,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "FX",
         "name": "FX",
         "p": 2,
@@ -23,7 +23,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "DiziSmart Max",
         "name": "DiziSmart Max",
         "p": 3,
@@ -34,7 +34,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV",
         "name": "Sinema TV",
         "p": 4,
@@ -45,7 +45,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV 2",
         "name": "Sinema TV 2",
         "p": 5,
@@ -56,7 +56,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Aksiyon",
         "name": "Sinema TV Aksiyon",
         "p": 6,
@@ -67,7 +67,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Aksiyon 2",
         "name": "Sinema TV Aksiyon 2",
         "p": 7,
@@ -78,7 +78,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Aile",
         "name": "Sinema TV Aile",
         "p": 8,
@@ -89,7 +89,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Aile 2",
         "name": "Sinema TV Aile 2",
         "p": 9,
@@ -100,7 +100,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Comedy",
         "name": "Sinema TV Comedy",
         "p": 10,
@@ -111,7 +111,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV Comedy 2",
         "name": "Sinema TV Comedy 2",
         "p": 11,
@@ -122,7 +122,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV 1001",
         "name": "Sinema TV 1001",
         "p": 12,
@@ -133,7 +133,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Sinema TV 1002",
         "name": "Sinema TV 1002",
         "p": 13,
@@ -144,7 +144,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "FilmScreen",
         "name": "FilmScreen",
         "p": 14,
@@ -155,7 +155,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "MovieSmart Classic",
         "name": "MovieSmart Classic",
         "p": 15,
@@ -166,7 +166,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "MovieSmart Türk",
         "name": "MovieSmart Türk",
         "p": 16,
@@ -254,7 +254,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Haber Çoklu Ekran",
         "name": "Haber Çoklu Ekran",
         "p": 24,
@@ -265,7 +265,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "CNN Türk",
         "name": "CNN Türk",
         "p": 25,
@@ -276,7 +276,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "NTV",
         "name": "NTV",
         "p": 26,
@@ -287,7 +287,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TRT Haber",
         "name": "TRT Haber",
         "p": 27,
@@ -298,7 +298,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Haber Türk",
         "name": "Haber Türk",
         "p": 28,
@@ -309,7 +309,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "24",
         "name": "24",
         "p": 29,
@@ -320,7 +320,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "A Haber",
         "name": "A Haber",
         "p": 30,
@@ -331,7 +331,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yaşam",
         "id": "TLC",
         "name": "TLC",
         "p": 31,
@@ -342,7 +342,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TV 100",
         "name": "TV 100",
         "p": 32,
@@ -364,7 +364,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Ekol TV",
         "name": "Ekol TV",
         "p": 34,
@@ -386,7 +386,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TV Net",
         "name": "TV Net",
         "p": 36,
@@ -397,7 +397,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Haber Global",
         "name": "Haber Global",
         "p": 37,
@@ -419,7 +419,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Bloomberg HT",
         "name": "Bloomberg HT",
         "p": 39,
@@ -430,7 +430,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TGRT Haber",
         "name": "TGRT Haber",
         "p": 40,
@@ -441,7 +441,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "DMAX",
         "name": "DMAX",
         "p": 41,
@@ -452,7 +452,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Ülke TV",
         "name": "Ülke TV",
         "p": 42,
@@ -463,7 +463,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "CNN International",
         "name": "CNN International",
         "p": 43,
@@ -474,7 +474,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "BBC World News",
         "name": "BBC World News",
         "p": 44,
@@ -485,7 +485,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "A Para",
         "name": "A Para",
         "p": 45,
@@ -496,7 +496,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "GZT TV",
         "name": "GZT TV",
         "p": 46,
@@ -507,7 +507,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "BBC Earth",
         "name": "BBC Earth",
         "p": 47,
@@ -518,7 +518,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "Viasat History",
         "name": "Viasat History",
         "p": 48,
@@ -529,7 +529,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "DocuScreen",
         "name": "DocuScreen",
         "p": 49,
@@ -540,7 +540,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "Love Nature",
         "name": "Love Nature",
         "p": 50,
@@ -551,7 +551,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "Discovery Channel",
         "name": "Discovery Channel",
         "p": 51,
@@ -562,7 +562,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "Discovery ID",
         "name": "Discovery ID",
         "p": 52,
@@ -573,7 +573,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "National Geographic",
         "name": "National Geographic",
         "p": 53,
@@ -584,7 +584,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "National Geographic WILD",
         "name": "National Geographic WILD",
         "p": 54,
@@ -595,7 +595,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "Tarih Tv",
         "name": "Tarih Tv",
         "p": 55,
@@ -606,7 +606,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "TRT Belgesel",
         "name": "TRT Belgesel",
         "p": 56,
@@ -617,7 +617,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yaşam",
         "id": "Fashion TV",
         "name": "Fashion TV",
         "p": 57,
@@ -628,7 +628,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Spor Çoklu Ekran",
         "name": "Spor Çoklu Ekran",
         "p": 58,
@@ -639,7 +639,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "CosmoSports",
         "name": "CosmoSports",
         "p": 59,
@@ -650,7 +650,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Tay TV",
         "name": "Tay TV",
         "p": 60,
@@ -661,7 +661,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Eurosport 1",
         "name": "Eurosport 1",
         "p": 61,
@@ -672,7 +672,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Eurosport 2",
         "name": "Eurosport 2",
         "p": 62,
@@ -683,7 +683,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Spor Smart",
         "name": "Spor Smart",
         "p": 63,
@@ -694,7 +694,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Spor Smart 2",
         "name": "Spor Smart 2",
         "p": 64,
@@ -705,7 +705,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "HT Spor",
         "name": "HT Spor",
         "p": 65,
@@ -716,7 +716,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "A Spor",
         "name": "A Spor",
         "p": 66,
@@ -727,7 +727,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yaşam",
         "id": "Sıfır TV",
         "name": "Sıfır TV",
         "p": 67,
@@ -738,7 +738,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "FB TV",
         "name": "FB TV",
         "p": 68,
@@ -749,7 +749,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Sports TV",
         "name": "Sports TV",
         "p": 69,
@@ -760,7 +760,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "TRT Spor",
         "name": "TRT Spor",
         "p": 70,
@@ -771,7 +771,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "Trt Spor Yıldız",
         "name": "Trt Spor Yıldız",
         "p": 71,
@@ -782,7 +782,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Spor",
         "id": "TV 8,5",
         "name": "TV 8,5",
         "p": 72,
@@ -793,7 +793,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Ulusal TV",
         "name": "Ulusal TV",
         "p": 73,
@@ -804,7 +804,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "SZC TV",
         "name": "SZC TV",
         "p": 74,
@@ -815,7 +815,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "ShowMax",
         "name": "ShowMax",
         "p": 75,
@@ -826,7 +826,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Lider Haber",
         "name": "Lider Haber",
         "p": 76,
@@ -837,7 +837,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "Bi Kanal",
         "name": "Bi Kanal",
         "p": 77,
@@ -848,7 +848,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Akit",
         "name": "Akit",
         "p": 78,
@@ -859,7 +859,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yaşam",
         "id": "Diyanet Tv",
         "name": "Diyanet Tv",
         "p": 79,
@@ -870,7 +870,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Kültür Sanat",
         "id": "TRT 2",
         "name": "TRT 2",
         "p": 80,
@@ -881,7 +881,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Müzik",
         "id": "TRT Müzik",
         "name": "TRT Müzik",
         "p": 81,
@@ -892,7 +892,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Müzik",
         "id": "Dream TV",
         "name": "Dream TV",
         "p": 82,
@@ -903,7 +903,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Müzik",
         "id": "Dream Türk",
         "name": "Dream Türk",
         "p": 83,
@@ -914,7 +914,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Müzik",
         "id": "Power Türk",
         "name": "Power Türk",
         "p": 84,
@@ -925,7 +925,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Müzik",
         "id": "Power TV",
         "name": "Power TV",
         "p": 85,
@@ -936,7 +936,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Cartoon Network",
         "name": "Cartoon Network",
         "p": 86,
@@ -947,7 +947,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Çocuk Smart",
         "name": "Çocuk Smart",
         "p": 87,
@@ -958,7 +958,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Cartoonito",
         "name": "Cartoonito",
         "p": 88,
@@ -969,7 +969,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Baby TV",
         "name": "Baby TV",
         "p": 89,
@@ -980,7 +980,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Minika GO",
         "name": "Minika GO",
         "p": 90,
@@ -991,7 +991,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "TRT Çocuk",
         "name": "TRT Çocuk",
         "p": 91,
@@ -1002,7 +1002,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "TRT Diyanet Çocuk",
         "name": "TRT Diyanet Çocuk",
         "p": 92,
@@ -1013,7 +1013,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Da Vinci Learning",
         "name": "Da Vinci Learning",
         "p": 93,
@@ -1024,7 +1024,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Moonbug",
         "name": "Moonbug",
         "p": 94,
@@ -1035,7 +1035,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Disney Junior",
         "name": "Disney Junior",
         "p": 95,
@@ -1046,7 +1046,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Minika Çocuk",
         "name": "Minika Çocuk",
         "p": 96,
@@ -1057,7 +1057,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Çocuk",
         "id": "Azoomee",
         "name": "Azoomee",
         "p": 97,
@@ -1068,7 +1068,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "RT International",
         "name": "RT International",
         "p": 98,
@@ -1079,7 +1079,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Belgesel",
         "id": "CGTN Documentary",
         "name": "CGTN Documentary",
         "p": 99,
@@ -1090,7 +1090,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yerel",
         "id": "Luys TV",
         "name": "Luys TV",
         "p": 100,
@@ -1101,7 +1101,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yerel",
         "id": "ON6 TV",
         "name": "ON6 TV",
         "p": 101,
@@ -1112,7 +1112,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Yerel",
         "id": "TV 264",
         "name": "TV 264",
         "p": 102,
@@ -1123,7 +1123,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Halk TV",
         "name": "Halk TV",
         "p": 103,
@@ -1134,7 +1134,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Tele 1",
         "name": "Tele 1",
         "p": 104,
@@ -1145,7 +1145,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "Flash Haber",
         "name": "Flash Haber",
         "p": 105,
@@ -1156,7 +1156,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Sinema & Dizi",
         "id": "a2",
         "name": "a2",
         "p": 106,
@@ -1167,7 +1167,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TRT World",
         "name": "TRT World",
         "p": 107,
@@ -1189,7 +1189,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Kültür Sanat",
         "id": "TRT Avaz",
         "name": "TRT Avaz",
         "p": 109,
@@ -1200,7 +1200,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "TRT El Arabiya",
         "name": "TRT El Arabiya",
         "p": 110,
@@ -1211,7 +1211,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "A News HD",
         "name": "A News HD",
         "p": 111,
@@ -1222,7 +1222,7 @@
     },
     {
         "country": "Turkey",
-        "category": "Ulusal",
+        "category": "Haber",
         "id": "NHK (İngilizce)",
         "name": "NHK (İngilizce)",
         "p": 112,

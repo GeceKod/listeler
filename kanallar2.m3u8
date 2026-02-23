@@ -2,10 +2,10 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer7f2f96e7c2.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer7f2f96e7c2.click
-#EXTINF:-1 tvg-name="Sivasspor - Sakaryaspor" group-title="Maç Yayınları",Sivasspor - Sakaryaspor
-https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Sarıyer - Adana Demirspor" group-title="Maç Yayınları",Sarıyer - Adana Demirspor
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sivasspor - Sakaryaspor" group-title="Maç Yayınları",Sivasspor - Sakaryaspor
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Pendikspor - Keçiörengücü" group-title="Maç Yayınları",Pendikspor - Keçiörengücü
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Kasımpaşa" group-title="Maç Yayınları",Fenerbahçe - Kasımpaşa
@@ -14,14 +14,14 @@ https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsports1/playlist.m3u
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bologna - Udinese" group-title="Maç Yayınları",Bologna - Udinese
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Alaves - Girona" group-title="Maç Yayınları",Alaves - Girona
-https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Everton - Manchester Utd" group-title="Maç Yayınları",Everton - Manchester Utd
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-name="Sivasspor - Sakaryaspor" group-title="Maç Yayınları",Sivasspor - Sakaryaspor
-https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Alaves - Girona" group-title="Maç Yayınları",Alaves - Girona
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Sarıyer - Adana Demirspor" group-title="Maç Yayınları",Sarıyer - Adana Demirspor
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sivasspor - Sakaryaspor" group-title="Maç Yayınları",Sivasspor - Sakaryaspor
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Pendikspor - Keçiörengücü" group-title="Maç Yayınları",Pendikspor - Keçiörengücü
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Kasımpaşa" group-title="Maç Yayınları",Fenerbahçe - Kasımpaşa
@@ -30,10 +30,10 @@ https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsports1/playlist.m3u
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bologna - Udinese" group-title="Maç Yayınları",Bologna - Udinese
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Alaves - Girona" group-title="Maç Yayınları",Alaves - Girona
-https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Everton - Manchester Utd" group-title="Maç Yayınları",Everton - Manchester Utd
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Alaves - Girona" group-title="Maç Yayınları",Alaves - Girona
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

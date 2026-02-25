@@ -3,12 +3,24 @@
 #EXT-X-REFERER:https://main.uxsyplayer496f5b9a47.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer496f5b9a47.click
 
-#EXTINF:-1 tvg-name="Juventus - Galatasaray - 23:00" group-title="Maç Yayınları",Juventus - Galatasaray - 23:00
+#EXTINF:-1 tvg-name="Samsunspor - Shkendija - 20:45" group-title="Maç Yayınları",Samsunspor - Shkendija - 20:45
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/trt-spor/playlist.m3u8
-#EXTINF:-1 tvg-name="Kizilyildiz - Anadolu Efes - 22:30" group-title="Maç Yayınları",Kizilyildiz - Anadolu Efes - 22:30
+#EXTINF:-1 tvg-name="Nottingham Forest - Fenerbahçe - 23:00" group-title="Maç Yayınları",Nottingham Forest - Fenerbahçe - 23:00
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/trt-spor/playlist.m3u8
+#EXTINF:-1 tvg-name="OKC Thunder - Detroit Pistons - 03:30" group-title="Maç Yayınları",OKC Thunder - Detroit Pistons - 03:30
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Denver Nuggets - Boston Celtics - 06:00" group-title="Maç Yayınları",Denver Nuggets - Boston Celtics - 06:00
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Basket - Asvel Villeurbanne - 20:00" group-title="Maç Yayınları",Dubai Basket - Asvel Villeurbanne - 20:00
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Panathinaikos - Paris - 22:15" group-title="Maç Yayınları",Panathinaikos - Paris - 22:15
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid - Bayern Münih - 22:45" group-title="Maç Yayınları",Real Madrid - Bayern Münih - 22:45
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/s-sport-2/playlist.m3u8
-#EXTINF:-1 tvg-name="M.Linette - V.J.Kasintseva - 23:00" group-title="Maç Yayınları",M.Linette - V.J.Kasintseva - 23:00
+#EXTINF:-1 tvg-name="E.Arango - M.Bouzkova - 01:00" group-title="Maç Yayınları",E.Arango - M.Bouzkova - 01:00
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/bein-sports-max-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tang/Xu - Arango/Sönmez - 01:30" group-title="Maç Yayınları",Tang/Xu - Arango/Sönmez - 01:30
+https://dga1op10s1u3leo.56af57aaf8609e.click/live/bein-sports-max-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.56af57aaf8609e.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

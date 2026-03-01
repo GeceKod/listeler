@@ -3,16 +3,6 @@
 #EXT-X-REFERER:https://main.uxsyplayer496f5b9a47.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer496f5b9a47.click
 
-#EXTINF:-1 tvg-name="Brighton - Nottingham Forest - 17:00" group-title="Maç Yayınları",Brighton - Nottingham Forest - 17:00
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-5/playlist.m3u8
-#EXTINF:-1 tvg-name="Fulham - Tottenham - 17:00" group-title="Maç Yayınları",Fulham - Tottenham - 17:00
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Manchester Utd - Crystal Palace - 17:00" group-title="Maç Yayınları",Manchester Utd - Crystal Palace - 17:00
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Sassuolo - Atalanta - 17:00" group-title="Maç Yayınları",Sassuolo - Atalanta - 17:00
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/tivibu-spor-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Paris FC - Nice - 17:00" group-title="Maç Yayınları",Paris FC - Nice - 17:00
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-max-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Stuttgart - Wolfsburg - 17:30" group-title="Maç Yayınları",Stuttgart - Wolfsburg - 17:30
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/tivibu-spor-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia - Osasuna - 18:15" group-title="Maç Yayınları",Valencia - Osasuna - 18:15
@@ -45,6 +35,8 @@ https://dga1op10s1u3leo.7af32068d38fdf.click/live/tivibu-spor-1/playlist.m3u8
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Denver Nuggets - Minnesota TW - 23:30" group-title="Maç Yayınları",Denver Nuggets - Minnesota TW - 23:30
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="T.Townsend - P.Stearns - 21:00" group-title="Maç Yayınları",T.Townsend - P.Stearns - 21:00
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-max-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.7af32068d38fdf.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

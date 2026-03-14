@@ -3,8 +3,6 @@
 #EXT-X-REFERER:https://main.uxsyplayer496f5b9a47.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer496f5b9a47.click
 
-#EXTINF:-1 tvg-name="Atletico Madrid - Getafe - 18:15" group-title="Maç Yayınları",Atletico Madrid - Getafe - 18:15
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="Napoli - Lecce - 20:00" group-title="Maç Yayınları",Napoli - Lecce - 20:00
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Trabzonspor - Ç.Rizespor - 20:00" group-title="Maç Yayınları",Trabzonspor - Ç.Rizespor - 20:00
@@ -15,6 +13,12 @@ https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-3/playlist.m3u8
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hamburg - Köln - 20:30" group-title="Maç Yayınları",Hamburg - Köln - 20:30
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Chelsea - Newcastle - 20:30" group-title="Maç Yayınları",Chelsea - Newcastle - 20:30
+https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-max-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arsenal - Everton - 20:30" group-title="Maç Yayınları",Arsenal - Everton - 20:30
+https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-4/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Oviedo - Valencia - 20:30" group-title="Maç Yayınları",Real Oviedo - Valencia - 20:30
+https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - NEC Nijmegen - 20:45" group-title="Maç Yayınları",PSV - NEC Nijmegen - 20:45
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Grenoble - St. Etienne - 22:00" group-title="Maç Yayınları",Grenoble - St. Etienne - 22:00
@@ -25,6 +29,8 @@ https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-4/playlist.m3u8
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-1/playlist.m3u8
 #EXTINF:-1 tvg-name="West Ham - Manchester City - 23:00" group-title="Maç Yayınları",West Ham - Manchester City - 23:00
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid - Elche - 23:00" group-title="Maç Yayınları",Real Madrid - Elche - 23:00
+https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajax - Sparta Rotterdam - 23:00" group-title="Maç Yayınları",Ajax - Sparta Rotterdam - 23:00
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Monaco - Brest - 23:05" group-title="Maç Yayınları",Monaco - Brest - 23:05

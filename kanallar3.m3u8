@@ -3,14 +3,6 @@
 #EXT-X-REFERER:https://main.uxsyplayer496f5b9a47.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer496f5b9a47.click
 
-#EXTINF:-1 tvg-name="Schalke 04 - Hannover 96 - 15:30" group-title="Maç Yayınları",Schalke 04 - Hannover 96 - 15:30
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Sarıyer - Keçiörengücü - 16:00" group-title="Maç Yayınları",Sarıyer - Keçiörengücü - 16:00
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Kasımpaşa - Eyüpspor - 16:00" group-title="Maç Yayınları",Kasımpaşa - Eyüpspor - 16:00
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mallorca - Espanyol - 16:00" group-title="Maç Yayınları",Mallorca - Espanyol - 16:00
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport/playlist.m3u8
 #EXTINF:-1 tvg-name="AZ Alkmaar - Heracles - 16:30" group-title="Maç Yayınları",AZ Alkmaar - Heracles - 16:30
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Crystal Palace - Leeds United - 17:00" group-title="Maç Yayınları",Crystal Palace - Leeds United - 17:00
@@ -51,8 +43,6 @@ https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-4/playlist.m3u8
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-4/playlist.m3u8
 #EXTINF:-1 tvg-name="Porto - Moreirense - 23:30" group-title="Maç Yayınları",Porto - Moreirense - 23:30
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Mersin Spor - Galatasaray MCT Technic - 15:30" group-title="Maç Yayınları",Mersin Spor - Galatasaray MCT Technic - 15:30
-https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-5/playlist.m3u8
 #EXTINF:-1 tvg-name="Anadolu Efes - Beşiktaş GAİN - 18:00" group-title="Maç Yayınları",Anadolu Efes - Beşiktaş GAİN - 18:00
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bursaspor - Tofaş - 20:30" group-title="Maç Yayınları",Bursaspor - Tofaş - 20:30
@@ -61,6 +51,8 @@ https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-5/playlist.m3u8
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Raptors - Detroit Pistons - 22:30" group-title="Maç Yayınları",Toronto Raptors - Detroit Pistons - 22:30
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/s-sport/playlist.m3u8
+#EXTINF:-1 tvg-name="A.Sabalenka - E.Rybakina - 21:00" group-title="Maç Yayınları",A.Sabalenka - E.Rybakina - 21:00
+https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-max-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.c68040a3af8c31.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

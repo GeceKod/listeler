@@ -2,8 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer0e0c6aba22.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer0e0c6aba22.click
-#EXTINF:-1 tvg-name="Braga - Ferencvaros" group-title="Maç Yayınları",Braga - Ferencvaros
-https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Eyüpspor - Trabzonspor" group-title="Maç Yayınları",Eyüpspor - Trabzonspor
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Antalyaspor" group-title="Maç Yayınları",Rams Başakşehir - Antalyaspor
@@ -12,15 +10,13 @@ https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Tottenham - Atletico Madrid" group-title="Maç Yayınları",Tottenham - Atletico Madrid
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Bayern Münih - Atalanta" group-title="Maç Yayınları",Bayern Münih - Atalanta
-https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Liverpool - Galatasaray" group-title="Maç Yayınları",Liverpool - Galatasaray
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Beşiktaş GAİN - Energia Trento" group-title="Maç Yayınları",Beşiktaş GAİN - Energia Trento
+#EXTINF:-1 tvg-name="Bayern Münih - Atalanta" group-title="Maç Yayınları",Bayern Münih - Atalanta
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Tofaş - Karditsas" group-title="Maç Yayınları",Tofaş - Karditsas
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Braga - Ferencvaros" group-title="Maç Yayınları",Braga - Ferencvaros
+#EXTINF:-1 tvg-name="Beşiktaş GAİN - Energia Trento" group-title="Maç Yayınları",Beşiktaş GAİN - Energia Trento
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Eyüpspor - Trabzonspor" group-title="Maç Yayınları",Eyüpspor - Trabzonspor
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
@@ -30,9 +26,9 @@ https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Tottenham - Atletico Madrid" group-title="Maç Yayınları",Tottenham - Atletico Madrid
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Bayern Münih - Atalanta" group-title="Maç Yayınları",Bayern Münih - Atalanta
-https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Liverpool - Galatasaray" group-title="Maç Yayınları",Liverpool - Galatasaray
+https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayern Münih - Atalanta" group-title="Maç Yayınları",Bayern Münih - Atalanta
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.2af954b6ecab54.click/live/player-container/playlist.m3u8

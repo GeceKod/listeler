@@ -6,9 +6,9 @@
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Amedspor" group-title="Maç Yayınları",Hatayspor - Amedspor
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Vanspor - Sarıyer" group-title="Maç Yayınları",Vanspor - Sarıyer
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Amedspor" group-title="Maç Yayınları",Hatayspor - Amedspor
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Vanspor - Sarıyer" group-title="Maç Yayınları",Vanspor - Sarıyer
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="NEC Nijmegen - Heerenveen" group-title="Maç Yayınları",NEC Nijmegen - Heerenveen
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
@@ -16,25 +16,25 @@ https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Sunderland" group-title="Maç Yayınları",Newcastle - Sunderland
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Fortuna Düsseldorf - Hertha Berlin" group-title="Maç Yayınları",Fortuna Düsseldorf - Hertha Berlin
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Holstein Kiel" group-title="Maç Yayınları",Bochum - Holstein Kiel
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortuna Düsseldorf - Hertha Berlin" group-title="Maç Yayınları",Fortuna Düsseldorf - Hertha Berlin
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="İstanbulspor - Bodrumspor" group-title="Maç Yayınları",İstanbulspor - Bodrumspor
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Barcelona - Rayo Vallecano" group-title="Maç Yayınları",Barcelona - Rayo Vallecano
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Iğdırspor - Çorum FK" group-title="Maç Yayınları",Iğdırspor - Çorum FK
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon - Monaco" group-title="Maç Yayınları",Lyon - Monaco
+#EXTINF:-1 tvg-name="Barcelona - Rayo Vallecano" group-title="Maç Yayınları",Barcelona - Rayo Vallecano
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bologna - Lazio" group-title="Maç Yayınları",Bologna - Lazio
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon - Monaco" group-title="Maç Yayınları",Lyon - Monaco
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Verona" group-title="Maç Yayınları",Atalanta - Verona
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Aston Villa - West Ham" group-title="Maç Yayınları",Aston Villa - West Ham
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Tottenham - Nottingham Forest" group-title="Maç Yayınları",Tottenham - Nottingham Forest
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa - West Ham" group-title="Maç Yayınları",Aston Villa - West Ham
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Mainz - Eintracht Frankfurt" group-title="Maç Yayınları",Mainz - Eintracht Frankfurt
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
@@ -43,6 +43,8 @@ https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Groningen - AZ Alkmaar" group-title="Maç Yayınları",Groningen - AZ Alkmaar
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Esenler Erokspor - Erzurumspor" group-title="Maç Yayınları",Esenler Erokspor - Erzurumspor
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Marsilya - Lille" group-title="Maç Yayınları",Marsilya - Lille
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Metz" group-title="Maç Yayınları",Rennes - Metz
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
@@ -84,9 +86,9 @@ https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Amedspor" group-title="Maç Yayınları",Hatayspor - Amedspor
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Vanspor - Sarıyer" group-title="Maç Yayınları",Vanspor - Sarıyer
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Amedspor" group-title="Maç Yayınları",Hatayspor - Amedspor
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Vanspor - Sarıyer" group-title="Maç Yayınları",Vanspor - Sarıyer
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="NEC Nijmegen - Heerenveen" group-title="Maç Yayınları",NEC Nijmegen - Heerenveen
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
@@ -94,25 +96,25 @@ https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Newcastle - Sunderland" group-title="Maç Yayınları",Newcastle - Sunderland
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Fortuna Düsseldorf - Hertha Berlin" group-title="Maç Yayınları",Fortuna Düsseldorf - Hertha Berlin
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Holstein Kiel" group-title="Maç Yayınları",Bochum - Holstein Kiel
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortuna Düsseldorf - Hertha Berlin" group-title="Maç Yayınları",Fortuna Düsseldorf - Hertha Berlin
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="İstanbulspor - Bodrumspor" group-title="Maç Yayınları",İstanbulspor - Bodrumspor
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Barcelona - Rayo Vallecano" group-title="Maç Yayınları",Barcelona - Rayo Vallecano
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Iğdırspor - Çorum FK" group-title="Maç Yayınları",Iğdırspor - Çorum FK
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon - Monaco" group-title="Maç Yayınları",Lyon - Monaco
+#EXTINF:-1 tvg-name="Barcelona - Rayo Vallecano" group-title="Maç Yayınları",Barcelona - Rayo Vallecano
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bologna - Lazio" group-title="Maç Yayınları",Bologna - Lazio
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon - Monaco" group-title="Maç Yayınları",Lyon - Monaco
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Verona" group-title="Maç Yayınları",Atalanta - Verona
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Aston Villa - West Ham" group-title="Maç Yayınları",Aston Villa - West Ham
-https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Tottenham - Nottingham Forest" group-title="Maç Yayınları",Tottenham - Nottingham Forest
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa - West Ham" group-title="Maç Yayınları",Aston Villa - West Ham
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Mainz - Eintracht Frankfurt" group-title="Maç Yayınları",Mainz - Eintracht Frankfurt
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
@@ -121,6 +123,8 @@ https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Groningen - AZ Alkmaar" group-title="Maç Yayınları",Groningen - AZ Alkmaar
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Esenler Erokspor - Erzurumspor" group-title="Maç Yayınları",Esenler Erokspor - Erzurumspor
+https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Marsilya - Lille" group-title="Maç Yayınları",Marsilya - Lille
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Metz" group-title="Maç Yayınları",Rennes - Metz
 https://dga1op10s1u3leo.ec876fd9240622.click/live/player-container/playlist.m3u8

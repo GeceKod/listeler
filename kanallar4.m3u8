@@ -106,12 +106,20 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Ulusal ve Diğer Kanallar",iDMAN Tv
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 tvg-name="1. Kaiserslautern (Amatörler) - FT Braunschweig (Amatörler)" group-title="Canlı Maçlar - BudnesLiga LFL 5x5",[18:12] 1. Kaiserslautern (Amatörler) - FT Braunschweig (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech18779684.m3u8
 #EXTINF:-1 tvg-name="A.Cortes - E.Garcia" group-title="Canlı Maçlar - Zuffa Boxing",[01:30] A.Cortes - E.Garcia
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="AD Atenas Cordoba - CA Platense" group-title="Canlı Maçlar - Argentina: LNB",[17:42] AD Atenas Cordoba - CA Platense
 https://andro.2385437.xyz/checklist/androstreamlivech37559041.m3u8
 #EXTINF:-1 tvg-name="AEK Athens (Bayanlar) - Zirinios (Bayanlar)" group-title="Canlı Maçlar - Yunanistan Şampiyonası. A1. Bayanlar",[18:00] AEK Athens (Bayanlar) - Zirinios (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779478.m3u8
+#EXTINF:-1 tvg-name="AEK Athens (w) - ZAON Kifissia (w)" group-title="Canlı Maçlar - Greece: Women. A1",[18:00] AEK Athens (w) - ZAON Kifissia (w)
+https://andro.2385437.xyz/checklist/androstreamlivech37559289.m3u8
+#EXTINF:-1 tvg-name="ANU - Umoja" group-title="Canlı Maçlar - Kenya Şampiyonası. Premier Ligi",[18:00] ANU - Umoja
+https://andro.2385437.xyz/checklist/androstreamlivech18779601.m3u8
+#EXTINF:-1 tvg-name="ANU - Umoja" group-title="Canlı Maçlar - Kenya: Premier League",[18:00] ANU - Umoja
+https://andro.2385437.xyz/checklist/androstreamlivech37559535.m3u8
 #EXTINF:-1 tvg-name="AO Markopoulo (w) - Aons Milonas (w)" group-title="Canlı Maçlar - Greece: Women. A1",[17:30] AO Markopoulo (w) - Aons Milonas (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558909.m3u8
 #EXTINF:-1 tvg-name="APOEL - Aris Limassol" group-title="Canlı Maçlar - Cyprus: Division 1",[17:00] APOEL - Aris Limassol
@@ -120,12 +128,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558709.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18779188.m3u8
 #EXTINF:-1 tvg-name="ASD Pallavolo Concorezzo (w) - Leonessa Volley Altamura (w)" group-title="Canlı Maçlar - Italy: Women. Serie A2",[18:00] ASD Pallavolo Concorezzo (w) - Leonessa Volley Altamura (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37559357.m3u8
-#EXTINF:-1 tvg-name="Abakan - Petrozavodsk" group-title="Canlı Maçlar - IPBL. Pro Division",[18:20] Abakan - Petrozavodsk
+#EXTINF:-1 tvg-name="ASK Kara - Binah" group-title="Canlı Maçlar - Togo: Premiere Division",[18:30] ASK Kara - Binah
+https://andro.2385437.xyz/checklist/androstreamlivech37559281.m3u8
+#EXTINF:-1 tvg-name="Abakan - Petrozavodsk" group-title="Canlı Maçlar - IPBL. Pro Division",[18:10] Abakan - Petrozavodsk
 https://andro.2385437.xyz/checklist/androstreamlivech18779537.m3u8
-#EXTINF:-1 tvg-name="Afyon Bld (w) - Sakarya (w)" group-title="Canlı Maçlar - Turkey: Women. League 1",[16:30] Afyon Bld (w) - Sakarya (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37557685.m3u8
-#EXTINF:-1 tvg-name="Afyon Bld. - Sakarya Voleybol" group-title="Canlı Maçlar - TVF Kadinlar 1. Lig Final",[16:00] Afyon Bld. - Sakarya Voleybol
-https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Al Ettifaq - AlQadsiah" group-title="Canlı Maçlar - Suudi Arabistan Pro Lig",[21:00] Al Ettifaq - AlQadsiah
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Al Hamriyah - Al Dhaid" group-title="Canlı Maçlar - United Arab Emirates: Division 1",[16:50] Al Hamriyah - Al Dhaid
@@ -138,36 +144,38 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558591.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37558835.m3u8
 #EXTINF:-1 tvg-name="Al-Arabi Umm Al Quwain - Al Jazira Al Hamra" group-title="Canlı Maçlar - United Arab Emirates: Division 1",[16:50] Al-Arabi Umm Al Quwain - Al Jazira Al Hamra
 https://andro.2385437.xyz/checklist/androstreamlivech37558523.m3u8
+#EXTINF:-1 tvg-name="Al-Jubaiha - Amman United" group-title="Canlı Maçlar - Ürdün Şampiyonası. Premier Lig",[18:00] Al-Jubaiha - Amman United
+https://andro.2385437.xyz/checklist/androstreamlivech18779591.m3u8
 #EXTINF:-1 tvg-name="Al-Kahrabaa - Al-Qasim" group-title="Canlı Maçlar - Irak Şampiyonası. Stars Ligi",[17:00] Al-Kahrabaa - Al-Qasim
 https://andro.2385437.xyz/checklist/androstreamlivech18779129.m3u8
+#EXTINF:-1 tvg-name="Al-Markhiya Sports Club - Muaither SC" group-title="Canlı Maçlar - Katar Şampiyonası. 2.Lig",[18:18] Al-Markhiya Sports Club - Muaither SC
+https://andro.2385437.xyz/checklist/androstreamlivech18779758.m3u8
+#EXTINF:-1 tvg-name="Alana Smith - Franziska Sziedat" group-title="Canlı Maçlar - ITF: Women. Calvi. Hard. Qualifying",[18:28] Alana Smith - Franziska Sziedat
+https://andro.2385437.xyz/checklist/androstreamlivech37559769.m3u8
 #EXTINF:-1 tvg-name="Alaves - Osasuna" group-title="Canlı Maçlar - İspanya La Liga",[22:00] Alaves - Osasuna
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Aleksandr Simonovich - Stanislav Gest" group-title="Canlı Maçlar - ATT. Minsk",[17:04] Aleksandr Simonovich - Stanislav Gest
-https://andro.2385437.xyz/checklist/androstreamlivech18779157.m3u8
-#EXTINF:-1 tvg-name="Aliaksandra Sasnovich - Linda Fruhvirtova" group-title="Canlı Maçlar - WTA: Linz. Hard. Qualifying",[17:23] Aliaksandra Sasnovich - Linda Fruhvirtova
-https://andro.2385437.xyz/checklist/androstreamlivech37558879.m3u8
+#EXTINF:-1 tvg-name="Alexander Shitik - Dmitriy Burakov" group-title="Canlı Maçlar - ATT. Minsk",[18:24] Alexander Shitik - Dmitriy Burakov
+https://andro.2385437.xyz/checklist/androstreamlivech18779773.m3u8
 #EXTINF:-1 tvg-name="Allianz MTV Stuttgart (w) - Dresdner SC (w)" group-title="Canlı Maçlar - Germany: Women. Bundesliga 1",[17:45] Allianz MTV Stuttgart (w) - Dresdner SC (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37559071.m3u8
 #EXTINF:-1 tvg-name="Amedspor - Boluspor" group-title="Canlı Maçlar - Trendyol 1. Lig",[19:00] Amedspor - Boluspor
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Andrej Nedic - Milos Karol" group-title="Canlı Maçlar - ATP Challenger: Madrid. Clay. Qualifying",[17:53] Andrej Nedic - Milos Karol
+#EXTINF:-1 tvg-name="Amman United - Al Jubeiha" group-title="Canlı Maçlar - Jordan: Premier League",[18:00] Amman United - Al Jubeiha
+https://andro.2385437.xyz/checklist/androstreamlivech37559515.m3u8
+#EXTINF:-1 tvg-name="Andrej Nedic - Milos Karol" group-title="Canlı Maçlar - ATP Challenger: Madrid. Clay. Qualifying",[17:51] Andrej Nedic - Milos Karol
 https://andro.2385437.xyz/checklist/androstreamlivech37559187.m3u8
-#EXTINF:-1 tvg-name="Andrew Paulson - Carlos Sanchez Jover" group-title="Canlı Maçlar - ATP Challenger: Madrid. Clay. Qualifying",[16:43] Andrew Paulson - Carlos Sanchez Jover
-https://andro.2385437.xyz/checklist/androstreamlivech37558245.m3u8
-#EXTINF:-1 tvg-name="Aneta Laboutkova - Marie Villet" group-title="Canlı Maçlar - ITF: Women. Calvi. Hard. Qualifying",[16:02] Aneta Laboutkova - Marie Villet
-https://andro.2385437.xyz/checklist/androstreamlivech37557779.m3u8
-#EXTINF:-1 tvg-name="Angers - Lyon" group-title="Canlı Maçlar - Fransa Ligue 1",[16:00] Angers - Lyon
-https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Anna-Lena Friedsam - Anhelina Kalinina" group-title="Canlı Maçlar - WTA: Linz. Hard. Qualifying",[16:42] Anna-Lena Friedsam - Anhelina Kalinina
-https://andro.2385437.xyz/checklist/androstreamlivech37558179.m3u8
 #EXTINF:-1 tvg-name="Antalyaspor - Eyupspor" group-title="Canlı Maçlar - Turkey: Super League",[17:00] Antalyaspor - Eyupspor
 https://andro.2385437.xyz/checklist/androstreamlivech37558465.m3u8
 #EXTINF:-1 tvg-name="Antalyaspor - Eyüpspor" group-title="Canlı Maçlar - Trendyol Süper Lig",[17:00] Antalyaspor - Eyüpspor
 https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="Arjantin - ABD" group-title="Canlı Maçlar - VCA. Master Volleyball League",[16:30] Arjantin - ABD
 https://andro.2385437.xyz/checklist/androstreamlivech18778879.m3u8
+#EXTINF:-1 tvg-name="Arthur Rinderknech/Valentin Vacherot - Mate Pavic/Marcelo Arevalo" group-title="Canlı Maçlar - ATP: Doubles. Monte Carlo. Clay",[18:38] Arthur Rinderknech/Valentin Vacherot - Mate Pavic/Marcelo Arevalo
+https://andro.2385437.xyz/checklist/androstreamlivech37559719.m3u8
 #EXTINF:-1 tvg-name="Artis Brno II - FC Velké Meziříčí" group-title="Canlı Maçlar - Çek Cumhuriyeti Şampiyonası. 4.Lig",[18:00] Artis Brno II - FC Velké Meziříčí
 https://andro.2385437.xyz/checklist/androstreamlivech18779533.m3u8
+#EXTINF:-1 tvg-name="Asko Kara - Tambo" group-title="Canlı Maçlar - Togo: Premiere Division",[18:30] Asko Kara - Tambo
+https://andro.2385437.xyz/checklist/androstreamlivech37559639.m3u8
 #EXTINF:-1 tvg-name="Assyriska FF - FC Stockholm Internazionale" group-title="Canlı Maçlar - Sweden: Division 1",[17:00] Assyriska FF - FC Stockholm Internazionale
 https://andro.2385437.xyz/checklist/androstreamlivech37558559.m3u8
 #EXTINF:-1 tvg-name="Atletico Mineiro - Atletico PR" group-title="Canlı Maçlar - Brezilya Serie A",[23:30] Atletico Mineiro - Atletico PR
@@ -180,34 +188,40 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558493.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Bahçeşehir Klj - Manisa BB" group-title="Canlı Maçlar - Basketbol Süper Ligi",[20:30] Bahçeşehir Klj - Manisa BB
 https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="Banik Ostrava - Slavia Prague" group-title="Canlı Maçlar - Czech Republic: 1. Liga",[16:30] Banik Ostrava - Slavia Prague
-https://andro.2385437.xyz/checklist/androstreamlivech37557979.m3u8
 #EXTINF:-1 tvg-name="Bevo Roeselare (Bayanlar) - Oudegem (Bayanlar)" group-title="Canlı Maçlar - Belçika Şampiyonası. Bayanlar",[17:30] Bevo Roeselare (Bayanlar) - Oudegem (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779316.m3u8
 #EXTINF:-1 tvg-name="Bevo Roeselare (w) - VC Oudegem (w)" group-title="Canlı Maçlar - Belgium: Women. League A",[17:30] Bevo Roeselare (w) - VC Oudegem (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558965.m3u8
 #EXTINF:-1 tvg-name="Beşiktaş GAİN - Karşiyaka" group-title="Canlı Maçlar - Basketbol Süper Ligi",[20:30] Beşiktaş GAİN - Karşiyaka
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="Bornova 1877 - Karşiyaka" group-title="Canlı Maçlar - TFF 3. Lig",[16:00] Bornova 1877 - Karşiyaka
-https://andro.2385437.xyz/checklist/androstreamlivesifir.m3u8
-#EXTINF:-1 tvg-name="Bruno Fernandez - Pietro Gava" group-title="Canlı Maçlar - ATP Challenger: Campinas. Clay. Qualifying",[17:58] Bruno Fernandez - Pietro Gava
+#EXTINF:-1 tvg-name="Bruno Fernandez - Pietro Gava" group-title="Canlı Maçlar - ATP Challenger: Campinas. Clay. Qualifying",[17:57] Bruno Fernandez - Pietro Gava
 https://andro.2385437.xyz/checklist/androstreamlivech37559439.m3u8
+#EXTINF:-1 tvg-name="C.D. Guadalajara U21 - Pumas UNAM U21" group-title="Canlı Maçlar - Meksika Şampiyonası U21",[18:00] C.D. Guadalajara U21 - Pumas UNAM U21
+https://andro.2385437.xyz/checklist/androstreamlivech18779657.m3u8
 #EXTINF:-1 tvg-name="C.Dubois - T.Harper" group-title="Canlı Maçlar - Hafif Siklet",[21:00] C.Dubois - T.Harper
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="CD Burgos Promesas - Deportivo Fabril" group-title="Canlı Maçlar - Spain: Segunda Federacion",[18:00] CD Burgos Promesas - Deportivo Fabril
+https://andro.2385437.xyz/checklist/androstreamlivech37559557.m3u8
+#EXTINF:-1 tvg-name="CD Guadalajara U-21 - Pumas UNAM U-21" group-title="Canlı Maçlar - Mexico: U-21 League",[18:00] CD Guadalajara U-21 - Pumas UNAM U-21
+https://andro.2385437.xyz/checklist/androstreamlivech37559647.m3u8
+#EXTINF:-1 tvg-name="CS Agronomia Bucharest - Leii Bucharest" group-title="Canlı Maçlar - Romania: League 1",[18:00] CS Agronomia Bucharest - Leii Bucharest
+https://andro.2385437.xyz/checklist/androstreamlivech37559275.m3u8
 #EXTINF:-1 tvg-name="CS Sfaxien - JS Kairouan" group-title="Canlı Maçlar - Tunus Şampiyonası. 1.Lig",[16:30] CS Sfaxien - JS Kairouan
 https://andro.2385437.xyz/checklist/androstreamlivech18778946.m3u8
-#EXTINF:-1 tvg-name="CS Sfaxien - JS Kairouanaise" group-title="Canlı Maçlar - Tunisia: Ligue 1",[16:30] CS Sfaxien - JS Kairouanaise
-https://andro.2385437.xyz/checklist/androstreamlivech37558225.m3u8
 #EXTINF:-1 tvg-name="CSO Voluntari II - CS Rapid Bucharest II" group-title="Canlı Maçlar - Romania: League 1",[18:00] CSO Voluntari II - CS Rapid Bucharest II
 https://andro.2385437.xyz/checklist/androstreamlivech37559277.m3u8
 #EXTINF:-1 tvg-name="CSU ASE Bucharest - CSU Stiinta Bucharest" group-title="Canlı Maçlar - Romania: League 1",[18:00] CSU ASE Bucharest - CSU Stiinta Bucharest
 https://andro.2385437.xyz/checklist/androstreamlivech37559273.m3u8
 #EXTINF:-1 tvg-name="Cadiz II - Atletico Onubense" group-title="Canlı Maçlar - Spain: Tercera Federacion",[17:00] Cadiz II - Atletico Onubense
 https://andro.2385437.xyz/checklist/androstreamlivech37558797.m3u8
+#EXTINF:-1 tvg-name="Caledonia Gladiators - Newcastle Eagles" group-title="Canlı Maçlar - Great Britain: SLB",[18:00] Caledonia Gladiators - Newcastle Eagles
+https://andro.2385437.xyz/checklist/androstreamlivech37559265.m3u8
 #EXTINF:-1 tvg-name="Carl Zeiss Jena (w) - Wolfsburg (w)" group-title="Canlı Maçlar - Germany: Women. DFB Cup",[17:15] Carl Zeiss Jena (w) - Wolfsburg (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558809.m3u8
 #EXTINF:-1 tvg-name="Casa Pia - Benfica" group-title="Canlı Maçlar - Portekiz Liga NOS",[22:45] Casa Pia - Benfica
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-name="Centro Atlético Fénix - Tacuarembó F.C." group-title="Canlı Maçlar - Uruguay Şampiyonası. 2.Bölüm",[18:27] Centro Atlético Fénix - Tacuarembó F.C.
+https://andro.2385437.xyz/checklist/androstreamlivech18779759.m3u8
 #EXTINF:-1 tvg-name="Cerrado (Bayanlar) - Santo Andre (Bayanlar)" group-title="Canlı Maçlar - Brezilya Şampiyonası. Bayanlar",[17:00] Cerrado (Bayanlar) - Santo Andre (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779190.m3u8
 #EXTINF:-1 tvg-name="Cerrado (w) - Santo Andre (w)" group-title="Canlı Maçlar - Brazil: Women. LBF",[17:00] Cerrado (w) - Santo Andre (w)
@@ -216,98 +230,92 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558713.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18779165.m3u8
 #EXTINF:-1 tvg-name="Charlton (w) - Liverpool WFC (w)" group-title="Canlı Maçlar - England: Women. FA Cup",[16:30] Charlton (w) - Liverpool WFC (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558003.m3u8
-#EXTINF:-1 tvg-name="Club Africain - AS Gabes" group-title="Canlı Maçlar - Tunisia: Ligue 1",[16:30] Club Africain - AS Gabes
-https://andro.2385437.xyz/checklist/androstreamlivech37558223.m3u8
+#EXTINF:-1 tvg-name="Charnay (Bayanlar) - Tango Bourges Basket (Bayanlar)" group-title="Canlı Maçlar - Fransa Şampiyonası. LFB. Bayanlar",[18:11] Charnay (Bayanlar) - Tango Bourges Basket (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779747.m3u8
+#EXTINF:-1 tvg-name="Charnay Basket (w) - Bourges Basket (w)" group-title="Canlı Maçlar - France: Women. LFB",[18:30] Charnay Basket (w) - Bourges Basket (w)
+https://andro.2385437.xyz/checklist/androstreamlivech37559827.m3u8
 #EXTINF:-1 tvg-name="Club Africain - Avenir Sportif de Gabes" group-title="Canlı Maçlar - Tunus Şampiyonası. 1.Lig",[16:30] Club Africain - Avenir Sportif de Gabes
 https://andro.2385437.xyz/checklist/androstreamlivech18778945.m3u8
-#EXTINF:-1 tvg-name="Cremonese - Bologna" group-title="Canlı Maçlar - İtalya Serie A",[16:00] Cremonese - Bologna
-https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Croat (2x2) - Gold (2x2)" group-title="Canlı Maçlar - Short Football 2x2",[18:57] Croat (2x2) - Gold (2x2)
-https://andro.2385437.xyz/checklist/androstreamlivech18779404.m3u8
+#EXTINF:-1 tvg-name="Daniil Moroz - Artem Svetlov" group-title="Canlı Maçlar - ATT. Minsk",[18:50] Daniil Moroz - Artem Svetlov
+https://andro.2385437.xyz/checklist/androstreamlivech18779725.m3u8
 #EXTINF:-1 tvg-name="Daria Nesytykh - Evgeniya Evstafyeva" group-title="Canlı Maçlar - ATT. Minsk. Bayanlar",[17:01] Daria Nesytykh - Evgeniya Evstafyeva
 https://andro.2385437.xyz/checklist/androstreamlivech18779152.m3u8
 #EXTINF:-1 tvg-name="Debreceni VSC - Ferencvaros" group-title="Canlı Maçlar - Hungary: NB I",[18:00] Debreceni VSC - Ferencvaros
 https://andro.2385437.xyz/checklist/androstreamlivech37559323.m3u8
 #EXTINF:-1 tvg-name="Denis Savinov - Oleg Fedotov" group-title="Canlı Maçlar - ATT. Saransk",[16:30] Denis Savinov - Oleg Fedotov
 https://andro.2385437.xyz/checklist/androstreamlivech18778893.m3u8
-#EXTINF:-1 tvg-name="Dessie Ketema - Soloda Adwa" group-title="Canlı Maçlar - Ethiopia: Major League",[15:50] Dessie Ketema - Soloda Adwa
-https://andro.2385437.xyz/checklist/androstreamlivech37557511.m3u8
+#EXTINF:-1 tvg-name="Desirae Krawczyk/Caty McNally - Magdalena Frech/Anna Bondar" group-title="Canlı Maçlar - WTA: Doubles. Charleston. Clay",[18:07] Desirae Krawczyk/Caty McNally - Magdalena Frech/Anna Bondar
+https://andro.2385437.xyz/checklist/androstreamlivech37559209.m3u8
+#EXTINF:-1 tvg-name="Diana Martynov - Michaela Bayerlova" group-title="Canlı Maçlar - ITF: Women. Calvi. Hard. Qualifying",[18:37] Diana Martynov - Michaela Bayerlova
+https://andro.2385437.xyz/checklist/androstreamlivech37559903.m3u8
 #EXTINF:-1 tvg-name="Dnepr-Mogilev - FC Slavia-Mozyr" group-title="Canlı Maçlar - Belarus Şampiyonası. Premier Lig",[17:30] Dnepr-Mogilev - FC Slavia-Mozyr
 https://andro.2385437.xyz/checklist/androstreamlivech18779290.m3u8
 #EXTINF:-1 tvg-name="Dobrudzha Dobrich - Levski" group-title="Canlı Maçlar - Bulgaria: First League",[17:00] Dobrudzha Dobrich - Levski
 https://andro.2385437.xyz/checklist/androstreamlivech37558401.m3u8
 #EXTINF:-1 tvg-name="Dundee FC - Celtic" group-title="Canlı Maçlar - İskoçya Premier Lig",[18:30] Dundee FC - Celtic
 https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="Dynamo Makhachkala - FC Baltika Kaliningrad" group-title="Canlı Maçlar - Rusya Şampiyonası. Premier Lig",[16:30] Dynamo Makhachkala - FC Baltika Kaliningrad
-https://andro.2385437.xyz/checklist/androstreamlivech18778830.m3u8
+#EXTINF:-1 tvg-name="Dundee FC - Celtic" group-title="Canlı Maçlar - Scotland: Premiership",[18:30] Dundee FC - Celtic
+https://andro.2385437.xyz/checklist/androstreamlivech37559643.m3u8
+#EXTINF:-1 tvg-name="Eintracht (Amatörler) - Dynamo Dresden (Amatörler)" group-title="Canlı Maçlar - BudnesLiga LFL 5x5",[18:50] Eintracht (Amatörler) - Dynamo Dresden (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech18779683.m3u8
+#EXTINF:-1 tvg-name="Eintracht Frankfurt - Koln" group-title="Canlı Maçlar - Germany: Bundesliga",[18:30] Eintracht Frankfurt - Koln
+https://andro.2385437.xyz/checklist/androstreamlivech37559637.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - Köln" group-title="Canlı Maçlar - Almanya Bundesliga",[18:30] Eintracht Frankfurt - Köln
 https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-name="Elitzur Ramla B.C. (Bayanlar) - Elitzur Maclaren Holon (Bayanlar)" group-title="Canlı Maçlar - İsrail Şampiyonası. Bayanlar",[16:30] Elitzur Ramla B.C. (Bayanlar) - Elitzur Maclaren Holon (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18779042.m3u8
 #EXTINF:-1 tvg-name="Engelholm (Bayanlar) - Hylte/Halmstad (Bayanlar)" group-title="Canlı Maçlar - İsveç Şampiyonası. Elitseri. Bayanlar",[18:00] Engelholm (Bayanlar) - Hylte/Halmstad (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779521.m3u8
 #EXTINF:-1 tvg-name="Engelholm (w) - Hylte Halmstad (w)" group-title="Canlı Maçlar - Sweden: Women. Elitserien",[18:00] Engelholm (w) - Hylte Halmstad (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37559375.m3u8
 #EXTINF:-1 tvg-name="Epicentr-Podolyani U-20 - Epicentr-Podolyani" group-title="Canlı Maçlar - Ukraine: Superleague",[18:00] Epicentr-Podolyani U-20 - Epicentr-Podolyani
 https://andro.2385437.xyz/checklist/androstreamlivech37559417.m3u8
-#EXTINF:-1 tvg-name="Eskişehirspor - Kütahyaspor" group-title="Canlı Maçlar - TFF 3. Lig",[16:00] Eskişehirspor - Kütahyaspor
-https://andro.2385437.xyz/checklist/androstreamlivebikanal.m3u8
-#EXTINF:-1 tvg-name="Eskişehirspor - Kütahyaspor" group-title="Canlı Maçlar - Türkiye. TFF 3.Lig",[16:00] Eskişehirspor - Kütahyaspor
-https://andro.2385437.xyz/checklist/androstreamlivech18778779.m3u8
-#EXTINF:-1 tvg-name="Ethnikos Achna - Anorthosis Famagusta FC" group-title="Canlı Maçlar - Kıbrıs Şampiyonası. 1.Division",[16:00] Ethnikos Achna - Anorthosis Famagusta FC
-https://andro.2385437.xyz/checklist/androstreamlivech18778726.m3u8
+#EXTINF:-1 tvg-name="Eric Vanshelboim - Nicolas Zanellato" group-title="Canlı Maçlar - ATP Challenger: Campinas. Clay. Qualifying",[17:30] Eric Vanshelboim - Nicolas Zanellato
+https://andro.2385437.xyz/checklist/androstreamlivech37559869.m3u8
 #EXTINF:-1 tvg-name="FC Andorra - Racing Santander" group-title="Canlı Maçlar - Spain: Segunda Division",[17:15] FC Andorra - Racing Santander
 https://andro.2385437.xyz/checklist/androstreamlivech37558679.m3u8
-#EXTINF:-1 tvg-name="FC Dynamo Makhachkala - Baltika Kaliningrad" group-title="Canlı Maçlar - Russia: Premier League",[16:30] FC Dynamo Makhachkala - Baltika Kaliningrad
-https://andro.2385437.xyz/checklist/androstreamlivech37557993.m3u8
-#EXTINF:-1 tvg-name="FC Kozlovice - SK Batov 1930" group-title="Canlı Maçlar - Çek Cumhuriyeti Şampiyonası. 4.Lig",[16:30] FC Kozlovice - SK Batov 1930
-https://andro.2385437.xyz/checklist/androstreamlivech18778927.m3u8
+#EXTINF:-1 tvg-name="FC Khimik Dzerzhinsk - KDV" group-title="Canlı Maçlar - Rusya Şampiyonası. 2.Liga. Division B. Grup 4",[18:00] FC Khimik Dzerzhinsk - KDV
+https://andro.2385437.xyz/checklist/androstreamlivech18779574.m3u8
 #EXTINF:-1 tvg-name="FC Rosengard (w) - AIK (w)" group-title="Canlı Maçlar - Sweden: Women. Damallsvenskan",[17:00] FC Rosengard (w) - AIK (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558415.m3u8
-#EXTINF:-1 tvg-name="FC Struga Trim-Lum - FK Rabotnicki" group-title="Canlı Maçlar - North Macedonia: First League",[16:30] FC Struga Trim-Lum - FK Rabotnicki
-https://andro.2385437.xyz/checklist/androstreamlivech37558221.m3u8
+#EXTINF:-1 tvg-name="FC Rotor Volgograd - FC Neftekhimik Nizhnekamsk" group-title="Canlı Maçlar - Rusya Şampiyonası. 1.Liga",[17:00] FC Rotor Volgograd - FC Neftekhimik Nizhnekamsk
+https://andro.2385437.xyz/checklist/androstreamlivech18779579.m3u8
+#EXTINF:-1 tvg-name="FC Urartu - Gandzasar" group-title="Canlı Maçlar - Armenia: Premier League",[18:00] FC Urartu - Gandzasar
+https://andro.2385437.xyz/checklist/androstreamlivech37559451.m3u8
 #EXTINF:-1 tvg-name="FC Zhenis - Okzhetpes" group-title="Canlı Maçlar - Kazakhstan: Premier League",[17:00] FC Zhenis - Okzhetpes
 https://andro.2385437.xyz/checklist/androstreamlivech37558613.m3u8
-#EXTINF:-1 tvg-name="FK Panevezys - FK Dziugas" group-title="Canlı Maçlar - Lithuania: A Lyga",[16:30] FK Panevezys - FK Dziugas
-https://andro.2385437.xyz/checklist/androstreamlivech37558035.m3u8
 #EXTINF:-1 tvg-name="FK Podkonice - Filakovo" group-title="Canlı Maçlar - Slovakia: Liga 3",[17:00] FK Podkonice - Filakovo
 https://andro.2385437.xyz/checklist/androstreamlivech37558727.m3u8
 #EXTINF:-1 tvg-name="FK Sumgayit - Neftchi Baku" group-title="Canlı Maçlar - Azerbaijan: Premier League",[17:00] FK Sumgayit - Neftchi Baku
 https://andro.2385437.xyz/checklist/androstreamlivech37558641.m3u8
-#EXTINF:-1 tvg-name="FK Takovo - FK Sumadija Kragujevac" group-title="Canlı Maçlar - Serbia: Srpska Liga",[16:30] FK Takovo - FK Sumadija Kragujevac
-https://andro.2385437.xyz/checklist/androstreamlivech37558321.m3u8
 #EXTINF:-1 tvg-name="Facundo Diaz Acosta - Hugo Dellien" group-title="Canlı Maçlar - ATP Challenger: Sao Leopoldo. Clay",[17:09] Facundo Diaz Acosta - Hugo Dellien
 https://andro.2385437.xyz/checklist/androstreamlivech37558361.m3u8
 #EXTINF:-1 tvg-name="Farul Constanta - Unirea Slobozia" group-title="Canlı Maçlar - Romania: SuperLiga",[17:30] Farul Constanta - Unirea Slobozia
 https://andro.2385437.xyz/checklist/androstreamlivech37558827.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Beşiktaş" group-title="Canlı Maçlar - Trendyol Süper Lig",[20:00] Fenerbahçe - Beşiktaş
 https://andro.2385437.xyz/checklist/receptestt.m3u8
+#EXTINF:-1 tvg-name="Fenix Montevideo - Tacuarembo" group-title="Canlı Maçlar - Uruguay: Segunda Division",[18:30] Fenix Montevideo - Tacuarembo
+https://andro.2385437.xyz/checklist/androstreamlivech37559851.m3u8
 #EXTINF:-1 tvg-name="Feyenoord (w) - AZ Alkmaar (w)" group-title="Canlı Maçlar - Netherlands: Women. Eredivisie",[17:45] Feyenoord (w) - AZ Alkmaar (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37559133.m3u8
-#EXTINF:-1 tvg-name="Franco Ribero - Thiago Cigarran" group-title="Canlı Maçlar - ATP Challenger: Campinas. Clay. Qualifying",[16:00] Franco Ribero - Thiago Cigarran
-https://andro.2385437.xyz/checklist/androstreamlivech37557761.m3u8
-#EXTINF:-1 tvg-name="G.Monfils - T.Griekspoor" group-title="Canlı Maçlar - ATP Monte Carlo",[16:30] G.Monfils - T.Griekspoor
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Fortuna (Amatörler) - Willem (Amatörler)" group-title="Canlı Maçlar - Division 4х4",[18:46] Fortuna (Amatörler) - Willem (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech18779804.m3u8
+#EXTINF:-1 tvg-name="Frosinone - Padova" group-title="Canlı Maçlar - Italy: Serie B",[18:15] Frosinone - Padova
+https://andro.2385437.xyz/checklist/androstreamlivech37559429.m3u8
 #EXTINF:-1 tvg-name="GS Warriors - Houston Rockets" group-title="Canlı Maçlar - NBA",[05:00] GS Warriors - Houston Rockets
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Gael Monfils - Tallon Griekspoor" group-title="Canlı Maçlar - ATP: Monte Carlo. Clay",[17:45] Gael Monfils - Tallon Griekspoor
 https://andro.2385437.xyz/checklist/androstreamlivech37559053.m3u8
-#EXTINF:-1 tvg-name="Galata - Inegol Kafkasspor" group-title="Canlı Maçlar - Türkiye. TFF 3.Lig",[16:00] Galata - Inegol Kafkasspor
-https://andro.2385437.xyz/checklist/androstreamlivech18778781.m3u8
 #EXTINF:-1 tvg-name="Galatasaray HDIS - Fenerbahçe Medicana" group-title="Canlı Maçlar - TVF Erkekler Kupa Volley Yari Final",[19:00] Galatasaray HDIS - Fenerbahçe Medicana
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-name="Garrett Johns - Ronald Hohmann" group-title="Canlı Maçlar - ATP Challenger: Sarasota. Clay. Qualifying",[17:00] Garrett Johns - Ronald Hohmann
 https://andro.2385437.xyz/checklist/androstreamlivech37558549.m3u8
 #EXTINF:-1 tvg-name="Gazprom-Ugra Surgut - Yaroslavich" group-title="Canlı Maçlar - Rusya Kupası",[16:55] Gazprom-Ugra Surgut - Yaroslavich
 https://andro.2385437.xyz/checklist/androstreamlivech18779104.m3u8
-#EXTINF:-1 tvg-name="Gent+ - Valladolid+" group-title="Canlı Maçlar - Short Football 4x4",[18:11] Gent+ - Valladolid+
-https://andro.2385437.xyz/checklist/androstreamlivech18779499.m3u8
+#EXTINF:-1 tvg-name="Gbohloesu - Etoile Filante Lome" group-title="Canlı Maçlar - Togo: Premiere Division",[18:30] Gbohloesu - Etoile Filante Lome
+https://andro.2385437.xyz/checklist/androstreamlivech37559735.m3u8
 #EXTINF:-1 tvg-name="Girona - Villarreal" group-title="Canlı Maçlar - İspanya La Liga",[22:00] Girona - Villarreal
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Gorkiy - Kuzbass Kemerovo" group-title="Canlı Maçlar - Rusya Kupası",[17:55] Gorkiy - Kuzbass Kemerovo
 https://andro.2385437.xyz/checklist/androstreamlivech18779508.m3u8
-#EXTINF:-1 tvg-name="Gulf United - Hatta" group-title="Canlı Maçlar - United Arab Emirates: Division 1",[16:45] Gulf United - Hatta
-https://andro.2385437.xyz/checklist/androstreamlivech37558519.m3u8
 #EXTINF:-1 tvg-name="HB Koge (Bayanlar) - Aarhus (Bayanlar)" group-title="Canlı Maçlar - Danimarka Şampiyonası. A-Ligi. Bayanlar",[17:00] HB Koge (Bayanlar) - Aarhus (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779125.m3u8
 #EXTINF:-1 tvg-name="HB Koge (w) - AGF Aarhus (w)" group-title="Canlı Maçlar - Denmark: Women. Elitedivisionen",[17:00] HB Koge (w) - AGF Aarhus (w)
@@ -316,14 +324,8 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558583.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37559135.m3u8
 #EXTINF:-1 tvg-name="Hamburg Towers - Skyliners Frankfurt" group-title="Canlı Maçlar - Germany: BBL",[17:30] Hamburg Towers - Skyliners Frankfurt
 https://andro.2385437.xyz/checklist/androstreamlivech37558895.m3u8
-#EXTINF:-1 tvg-name="Hapoel Rishon Le-Zion (Bayanlar) - Hapoel Petah Tikva (Bayanlar)" group-title="Canlı Maçlar - İsrail Şampiyonası. Bayanlar",[16:30] Hapoel Rishon Le-Zion (Bayanlar) - Hapoel Petah Tikva (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18778977.m3u8
-#EXTINF:-1 tvg-name="Hapoel Rishon LeZion (w) - Hapoel Petah Tikva (w)" group-title="Canlı Maçlar - Israel: Women. Premier League",[16:30] Hapoel Rishon LeZion (w) - Hapoel Petah Tikva (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37558287.m3u8
 #EXTINF:-1 tvg-name="Hull City - Coventry" group-title="Canlı Maçlar - İngiltere Championship",[22:00] Hull City - Coventry
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="Humahuaca - Areco" group-title="Canlı Maçlar - Short Football 4x4",[18:59] Humahuaca - Areco
-https://andro.2385437.xyz/checklist/androstreamlivech18779463.m3u8
 #EXTINF:-1 tvg-name="India (TBL) - Croatia (TBL)" group-title="Canlı Maçlar - Table Basketball League",[17:55] India (TBL) - Croatia (TBL)
 https://andro.2385437.xyz/checklist/androstreamlivech18779437.m3u8
 #EXTINF:-1 tvg-name="Inter - Roma" group-title="Canlı Maçlar - İtalya Serie A",[21:45] Inter - Roma
@@ -334,66 +336,66 @@ https://andro.2385437.xyz/checklist/androstreamlivech37558531.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18779185.m3u8
 #EXTINF:-1 tvg-name="Japonya - Polonya" group-title="Canlı Maçlar - VCA. Master Volleyball League",[17:35] Japonya - Polonya
 https://andro.2385437.xyz/checklist/androstreamlivech18779341.m3u8
-#EXTINF:-1 tvg-name="Jiri Lehecka/Jakub Mensik - Andrey Rublev/Karen Khachanov" group-title="Canlı Maçlar - ATP: Doubles. Monte Carlo. Clay",[17:06] Jiri Lehecka/Jakub Mensik - Andrey Rublev/Karen Khachanov
-https://andro.2385437.xyz/checklist/androstreamlivech37558451.m3u8
 #EXTINF:-1 tvg-name="Juventus - Genoa" group-title="Canlı Maçlar - İtalya Serie A",[19:00] Juventus - Genoa
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="KFC Komarno - Trencin" group-title="Canlı Maçlar - Slovakia: Super Liga",[16:30] KFC Komarno - Trencin
-https://andro.2385437.xyz/checklist/androstreamlivech37558041.m3u8
 #EXTINF:-1 tvg-name="KTP Basket - Helsinki Seagulls" group-title="Canlı Maçlar - Finland: Korisliiga",[17:00] KTP Basket - Helsinki Seagulls
 https://andro.2385437.xyz/checklist/androstreamlivech37558501.m3u8
-#EXTINF:-1 tvg-name="Kanada - ABD" group-title="Canlı Maçlar - CBV 23. Duo Masters",[13:20] Kanada - ABD
-https://andro.2385437.xyz/checklist/androstreamlivech18778789.m3u8
+#EXTINF:-1 tvg-name="Kanada - Fransa" group-title="Canlı Maçlar - SpikeVolleyball. International Cup",[18:15] Kanada - Fransa
+https://andro.2385437.xyz/checklist/androstreamlivech18779480.m3u8
 #EXTINF:-1 tvg-name="Karabağ - Karvan" group-title="Canlı Maçlar - Azerbaycan Premier Ligi",[18:00] Karabağ - Karvan
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-name="Karim Saad - Cyrus Pahlavi" group-title="Canlı Maçlar - ATT. Marbella",[17:40] Karim Saad - Cyrus Pahlavi
 https://andro.2385437.xyz/checklist/androstreamlivech18779334.m3u8
+#EXTINF:-1 tvg-name="Kecskemeti TE - Szentlorinci SE" group-title="Canlı Maçlar - Hungary: NB II",[18:00] Kecskemeti TE - Szentlorinci SE
+https://andro.2385437.xyz/checklist/androstreamlivech37559625.m3u8
+#EXTINF:-1 tvg-name="Kecskeméti TE - Szentlorinc SE" group-title="Canlı Maçlar - Macaristan Şampiyonası. 2.Lig",[18:00] Kecskeméti TE - Szentlorinc SE
+https://andro.2385437.xyz/checklist/androstreamlivech18779646.m3u8
 #EXTINF:-1 tvg-name="Kirov - Perm" group-title="Canlı Maçlar - IPBL. Pro Division",[18:00] Kirov - Perm
 https://andro.2385437.xyz/checklist/androstreamlivech18779439.m3u8
 #EXTINF:-1 tvg-name="Kocaelispor - Rams Başakşehir" group-title="Canlı Maçlar - Trendyol Süper Lig",[20:00] Kocaelispor - Rams Başakşehir
 https://andro.2385437.xyz/checklist/receptestt.m3u8
 #EXTINF:-1 tvg-name="Kolin - Jablonec II" group-title="Canlı Maçlar - Çek Cumhuriyeti Şampiyonası. 3.Lig",[17:30] Kolin - Jablonec II
 https://andro.2385437.xyz/checklist/androstreamlivech18779342.m3u8
-#EXTINF:-1 tvg-name="Kozlovice 1924 - Batov" group-title="Canlı Maçlar - Czech Republic: 4. Liga",[16:30] Kozlovice 1924 - Batov
-https://andro.2385437.xyz/checklist/androstreamlivech37558187.m3u8
 #EXTINF:-1 tvg-name="Languiru Martin Luther U-19 (w) - Pato Volei U-19 (w)" group-title="Canlı Maçlar - Brazil: Women. U-19 Paranaense",[17:00] Languiru Martin Luther U-19 (w) - Pato Volei U-19 (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558573.m3u8
 #EXTINF:-1 tvg-name="Le Havre - Auxerre" group-title="Canlı Maçlar - Fransa Ligue 1",[18:15] Le Havre - Auxerre
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="Le Havre - Auxerre" group-title="Canlı Maçlar - France: Ligue 1",[18:15] Le Havre - Auxerre
+https://andro.2385437.xyz/checklist/androstreamlivech37559533.m3u8
 #EXTINF:-1 tvg-name="Lecce - Atalanta" group-title="Canlı Maçlar - İtalya Serie A",[16:00] Lecce - Atalanta
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Leicester Riders - Bristol Flyers" group-title="Canlı Maçlar - Great Britain: SLB",[17:00] Leicester Riders - Bristol Flyers
-https://andro.2385437.xyz/checklist/androstreamlivech37558485.m3u8
+#EXTINF:-1 tvg-name="Letonya - Ukrayna" group-title="Canlı Maçlar - CBV 23. Duo Masters",[15:10] Letonya - Ukrayna
+https://andro.2385437.xyz/checklist/androstreamlivech18779571.m3u8
 #EXTINF:-1 tvg-name="Levadiakos - Aris Thessaloniki" group-title="Canlı Maçlar - Greece: Super League 1",[17:00] Levadiakos - Aris Thessaloniki
 https://andro.2385437.xyz/checklist/androstreamlivech37558461.m3u8
-#EXTINF:-1 tvg-name="Livingston - Hearts" group-title="Canlı Maçlar - İskoçya Premier Lig",[16:00] Livingston - Hearts
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Levharti Chomutov (Bayanlar) - SBS Ostrava (Bayanlar)" group-title="Canlı Maçlar - Çek Cumhuriyeti Şampiyonası. Bayanlar",[18:00] Levharti Chomutov (Bayanlar) - SBS Ostrava (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779626.m3u8
+#EXTINF:-1 tvg-name="Levharti Chomutov (w) - SBS Ostrava (w)" group-title="Canlı Maçlar - Czech Republic: Women. ZBL",[18:00] Levharti Chomutov (w) - SBS Ostrava (w)
+https://andro.2385437.xyz/checklist/androstreamlivech37559585.m3u8
+#EXTINF:-1 tvg-name="Levski Sofia (Bayanlar) - CPVK (Bayanlar)" group-title="Canlı Maçlar - Bulgaristan Şampiyonası. Süper Lig. Bayanlar",[18:00] Levski Sofia (Bayanlar) - CPVK (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779520.m3u8
 #EXTINF:-1 tvg-name="Lorient - Paris FC" group-title="Canlı Maçlar - Fransa Ligue 1",[18:15] Lorient - Paris FC
 https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="Luisina Giovannini - Martina Capurro Taborda" group-title="Canlı Maçlar - ITF: Women. Junin. Clay",[16:06] Luisina Giovannini - Martina Capurro Taborda
-https://andro.2385437.xyz/checklist/androstreamlivech37557825.m3u8
+#EXTINF:-1 tvg-name="Lorient - Paris FC" group-title="Canlı Maçlar - France: Ligue 1",[18:15] Lorient - Paris FC
+https://andro.2385437.xyz/checklist/androstreamlivech37559529.m3u8
+#EXTINF:-1 tvg-name="Lusail - Al Kharaitiyat SC" group-title="Canlı Maçlar - Katar Şampiyonası. 2.Lig",[18:18] Lusail - Al Kharaitiyat SC
+https://andro.2385437.xyz/checklist/androstreamlivech18779760.m3u8
+#EXTINF:-1 tvg-name="Lusail - Al Kharitiyath" group-title="Canlı Maçlar - Qatar: Second Division",[18:30] Lusail - Al Kharitiyath
+https://andro.2385437.xyz/checklist/androstreamlivech37559853.m3u8
 #EXTINF:-1 tvg-name="M.Kouame - U.Humbert" group-title="Canlı Maçlar - ATP Monte Carlo",[18:30] M.Kouame - U.Humbert
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="M.Trungelliti - R.Jodar" group-title="Canlı Maçlar - ATP Marakeş Final",[17:00] M.Trungelliti - R.Jodar
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Maccabi Ramat Gan (w) - Maccabi Haifa (w)" group-title="Canlı Maçlar - Israel: Women. Premier League",[16:30] Maccabi Ramat Gan (w) - Maccabi Haifa (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37558219.m3u8
-#EXTINF:-1 tvg-name="Marco Trungelliti - Rafael Jodar" group-title="Canlı Maçlar - ATP: Marrakech. Clay",[17:12] Marco Trungelliti - Rafael Jodar
-https://andro.2385437.xyz/checklist/androstreamlivech37558431.m3u8
 #EXTINF:-1 tvg-name="Marechal U19 (Bayanlar) - Pato Volei U19 (Bayanlar)" group-title="Canlı Maçlar - Brezilya Şampiyonası. Paranaense U19. Bayanlar",[17:00] Marechal U19 (Bayanlar) - Pato Volei U19 (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779120.m3u8
-#EXTINF:-1 tvg-name="Margveti - Energy Invest Rustavi" group-title="Canlı Maçlar - Georgia: Superleague",[16:30] Margveti - Energy Invest Rustavi
-https://andro.2385437.xyz/checklist/androstreamlivech37558171.m3u8
-#EXTINF:-1 tvg-name="Margveti - Rustavi 1991" group-title="Canlı Maçlar - Gürcistan Şampiyonası. Süper Liga",[16:30] Margveti - Rustavi 1991
-https://andro.2385437.xyz/checklist/androstreamlivech18778919.m3u8
 #EXTINF:-1 tvg-name="Markopoulo (Bayanlar) - AONS Milon (Bayanlar)" group-title="Canlı Maçlar - Yunanistan Şampiyonası. A1. Bayanlar",[17:30] Markopoulo (Bayanlar) - AONS Milon (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779288.m3u8
-#EXTINF:-1 tvg-name="Masl - United FC" group-title="Canlı Maçlar - Short Football 2x2",[18:34] Masl - United FC
-https://andro.2385437.xyz/checklist/androstreamlivech18779443.m3u8
+#EXTINF:-1 tvg-name="Marton Fucsovics - Alejandro Tabilo" group-title="Canlı Maçlar - ATP: Monte Carlo. Clay",[18:02] Marton Fucsovics - Alejandro Tabilo
+https://andro.2385437.xyz/checklist/androstreamlivech37559255.m3u8
 #EXTINF:-1 tvg-name="Metz - Nantes" group-title="Canlı Maçlar - Fransa Ligue 1",[18:15] Metz - Nantes
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="Michele Ribecai - Lukas Neumayer" group-title="Canlı Maçlar - ATP Challenger: Barletta. Clay",[16:06] Michele Ribecai - Lukas Neumayer
-https://andro.2385437.xyz/checklist/androstreamlivech37557611.m3u8
+#EXTINF:-1 tvg-name="Metz - Nantes" group-title="Canlı Maçlar - France: Ligue 1",[18:15] Metz - Nantes
+https://andro.2385437.xyz/checklist/androstreamlivech37559541.m3u8
 #EXTINF:-1 tvg-name="Monaco - Marsilya" group-title="Canlı Maçlar - Fransa Ligue 1",[21:45] Monaco - Marsilya
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="Motherwell LFC (w) - Hamilton Academical FC (w)" group-title="Canlı Maçlar - Scotland: Women. Premier League",[18:00] Motherwell LFC (w) - Hamilton Academical FC (w)
@@ -410,26 +412,26 @@ https://andro.2385437.xyz/checklist/androstreamlivech37559347.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18779507.m3u8
 #EXTINF:-1 tvg-name="Neftekhimik Tobolsk - CSP Khimki" group-title="Canlı Maçlar - Rusya Şampiyonası. Süper Liga",[17:00] Neftekhimik Tobolsk - CSP Khimki
 https://andro.2385437.xyz/checklist/androstreamlivech18779143.m3u8
-#EXTINF:-1 tvg-name="Nurnberg (Amatörler) - VfL Osnabruck (Amatörler)" group-title="Canlı Maçlar - BudnesLiga LFL 5x5",[18:21] Nurnberg (Amatörler) - VfL Osnabruck (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech18779488.m3u8
 #EXTINF:-1 tvg-name="Olimpia Milano - Pall. Reggiana" group-title="Canlı Maçlar - Italy: Serie A",[18:00] Olimpia Milano - Pall. Reggiana
 https://andro.2385437.xyz/checklist/androstreamlivech37559267.m3u8
+#EXTINF:-1 tvg-name="Orgryte - Malmo FF" group-title="Canlı Maçlar - Sweden: Allsvenskan",[17:30] Orgryte - Malmo FF
+https://andro.2385437.xyz/checklist/androstreamlivech37558855.m3u8
 #EXTINF:-1 tvg-name="Pantterit (w) - Torpan Pojat-2 (w)" group-title="Canlı Maçlar - Finland: Women. Division 1",[17:00] Pantterit (w) - Torpan Pojat-2 (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37558491.m3u8
-#EXTINF:-1 tvg-name="Pioz+ - Calabar+" group-title="Canlı Maçlar - Short Football 3x3",[18:47] Pioz+ - Calabar+
-https://andro.2385437.xyz/checklist/androstreamlivech18779429.m3u8
 #EXTINF:-1 tvg-name="Pisa - Torino" group-title="Canlı Maçlar - İtalya Serie A",[19:00] Pisa - Torino
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-name="Pisek Srsni - BK Děčín" group-title="Canlı Maçlar - Çekya Şampiyonası",[18:00] Pisek Srsni - BK Děčín
+https://andro.2385437.xyz/checklist/androstreamlivech18779576.m3u8
 #EXTINF:-1 tvg-name="Podkonice - Filakovo" group-title="Canlı Maçlar - Slovakya Şampiyonası. 3.Lig",[17:00] Podkonice - Filakovo
 https://andro.2385437.xyz/checklist/androstreamlivech18779197.m3u8
-#EXTINF:-1 tvg-name="Portuguesa Santista - Paulista FC" group-title="Canlı Maçlar - Brazil: Campeonato Paulista A3",[16:00] Portuguesa Santista - Paulista FC
-https://andro.2385437.xyz/checklist/androstreamlivech37557941.m3u8
 #EXTINF:-1 tvg-name="R.Burruchaga - T.Paul" group-title="Canlı Maçlar - ATP Houston Final",[22:30] R.Burruchaga - T.Paul
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="RADIO - REGION" group-title="Canlı Maçlar - Student League",[18:38] RADIO - REGION
-https://andro.2385437.xyz/checklist/androstreamlivech18779363.m3u8
+#EXTINF:-1 tvg-name="ROBOT - ROCKET" group-title="Canlı Maçlar - Student League",[18:15] ROBOT - ROCKET
+https://andro.2385437.xyz/checklist/androstreamlivech18779645.m3u8
 #EXTINF:-1 tvg-name="Radnik Surdulica - Crvena Zvezda" group-title="Canlı Maçlar - Serbia: Super Liga",[18:00] Radnik Surdulica - Crvena Zvezda
 https://andro.2385437.xyz/checklist/androstreamlivech37559345.m3u8
+#EXTINF:-1 tvg-name="Raith Rovers - Inverness CT" group-title="Canlı Maçlar - Scotland: Challenge Cup",[18:10] Raith Rovers - Inverness CT
+https://andro.2385437.xyz/checklist/androstreamlivech37559413.m3u8
 #EXTINF:-1 tvg-name="Rapid Wien - Sturm Graz" group-title="Canlı Maçlar - Austria: Bundesliga",[18:00] Rapid Wien - Sturm Graz
 https://andro.2385437.xyz/checklist/androstreamlivech37559311.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - MoraBanc Andorra" group-title="Canlı Maçlar - Spain: ACB League",[18:00] Real Madrid - MoraBanc Andorra
@@ -440,10 +442,10 @@ https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Reda Bennani - Alex Kobelt" group-title="Canlı Maçlar - ATP Challenger: Sarasota. Clay. Qualifying",[17:17] Reda Bennani - Alex Kobelt
 https://andro.2385437.xyz/checklist/androstreamlivech37558481.m3u8
+#EXTINF:-1 tvg-name="Rigas Zelli - CSO Voluntari" group-title="Canlı Maçlar - Europe: ENBL League",[18:00] Rigas Zelli - CSO Voluntari
+https://andro.2385437.xyz/checklist/androstreamlivech37559499.m3u8
 #EXTINF:-1 tvg-name="River Plate - Belgrano" group-title="Canlı Maçlar - Arjantin Primera Division",[00:00] River Plate - Belgrano
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Rusya (Bayanlar) - Türkiye (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[15:50] Rusya (Bayanlar) - Türkiye (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18778582.m3u8
 #EXTINF:-1 tvg-name="SCM Zalau - Corona Brasov" group-title="Canlı Maçlar - Romanya Kupası",[15:45] SCM Zalau - Corona Brasov
 https://andro.2385437.xyz/checklist/androstreamlivech18778672.m3u8
 #EXTINF:-1 tvg-name="SK Artis Brno II - FK Velke Mezirici" group-title="Canlı Maçlar - Czech Republic: 4. Liga",[18:00] SK Artis Brno II - FK Velke Mezirici
@@ -458,18 +460,12 @@ https://andro.2385437.xyz/checklist/androstreamlivech18779340.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37559139.m3u8
 #EXTINF:-1 tvg-name="Saint-Quentin Volley - Grand Nancy VB" group-title="Canlı Maçlar - France: Ligue B",[18:00] Saint-Quentin Volley - Grand Nancy VB
 https://andro.2385437.xyz/checklist/androstreamlivech37559359.m3u8
-#EXTINF:-1 tvg-name="Sivasspor - Esenler Erokspor" group-title="Canlı Maçlar - Trendyol 1. Lig",[16:00] Sivasspor - Esenler Erokspor
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Skastice - Sternberk" group-title="Canlı Maçlar - Çek Cumhuriyeti Şampiyonası. 4.Lig",[16:30] Skastice - Sternberk
-https://andro.2385437.xyz/checklist/androstreamlivech18778941.m3u8
-#EXTINF:-1 tvg-name="Skastice - Sternberk" group-title="Canlı Maçlar - Czech Republic: 4. Liga",[16:30] Skastice - Sternberk
-https://andro.2385437.xyz/checklist/androstreamlivech37558215.m3u8
-#EXTINF:-1 tvg-name="Skoda Xanthi - Panthrakikos" group-title="Canlı Maçlar - Yunanistan Şampiyonası. 3.Liga",[16:00] Skoda Xanthi - Panthrakikos
-https://andro.2385437.xyz/checklist/androstreamlivech18778976.m3u8
+#EXTINF:-1 tvg-name="Salamanca CF UDS - SD Rayo Cantabria" group-title="Canlı Maçlar - Spain: Segunda Federacion",[18:00] Salamanca CF UDS - SD Rayo Cantabria
+https://andro.2385437.xyz/checklist/androstreamlivech37559583.m3u8
 #EXTINF:-1 tvg-name="Sokol Brozany - FK Varnsdorf" group-title="Canlı Maçlar - Czech Republic: 3. Liga",[17:30] Sokol Brozany - FK Varnsdorf
 https://andro.2385437.xyz/checklist/androstreamlivech37559011.m3u8
-#EXTINF:-1 tvg-name="Sparta (Amatörler) - Willem (Amatörler)" group-title="Canlı Maçlar - Division 4х4",[18:44] Sparta (Amatörler) - Willem (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech18779408.m3u8
+#EXTINF:-1 tvg-name="Sokol Pisek - BK Decin" group-title="Canlı Maçlar - Czech Republic: NBL",[18:00] Sokol Pisek - BK Decin
+https://andro.2385437.xyz/checklist/androstreamlivech37559485.m3u8
 #EXTINF:-1 tvg-name="Sparta Kolin - Jablonec II" group-title="Canlı Maçlar - Czech Republic: 3. Liga",[17:30] Sparta Kolin - Jablonec II
 https://andro.2385437.xyz/checklist/androstreamlivech37559017.m3u8
 #EXTINF:-1 tvg-name="Sporting Gijon - Real Sociedad B" group-title="Canlı Maçlar - İspanya La Liga 2",[21:30] Sporting Gijon - Real Sociedad B
@@ -480,34 +476,34 @@ https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37558397.m3u8
 #EXTINF:-1 tvg-name="Sumit Nagal - Enrico Dalla Valle" group-title="Canlı Maçlar - ATP Challenger: Monza. Clay. Qualifying",[17:37] Sumit Nagal - Enrico Dalla Valle
 https://andro.2385437.xyz/checklist/androstreamlivech37558985.m3u8
+#EXTINF:-1 tvg-name="Szeged 2011 - Vasas SC" group-title="Canlı Maçlar - Macaristan Şampiyonası. 2.Lig",[18:00] Szeged 2011 - Vasas SC
+https://andro.2385437.xyz/checklist/androstreamlivech18779647.m3u8
+#EXTINF:-1 tvg-name="Szeged-Csanad Grosics Akademia - Vasas FC" group-title="Canlı Maçlar - Hungary: NB II",[18:00] Szeged-Csanad Grosics Akademia - Vasas FC
+https://andro.2385437.xyz/checklist/androstreamlivech37559627.m3u8
+#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - Japonya (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[18:10] Sırbistan (Bayanlar) - Japonya (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779587.m3u8
 #EXTINF:-1 tvg-name="TJ Druzstevnik Velke Ludince - MSK Senec" group-title="Canlı Maçlar - Slovakia: Liga 3",[17:00] TJ Druzstevnik Velke Ludince - MSK Senec
 https://andro.2385437.xyz/checklist/androstreamlivech37558725.m3u8
 #EXTINF:-1 tvg-name="TJ Družstevník Veľké Ludince - MSK Senec" group-title="Canlı Maçlar - Slovakya Şampiyonası. 3.Lig",[17:00] TJ Družstevník Veľké Ludince - MSK Senec
 https://andro.2385437.xyz/checklist/androstreamlivech18779196.m3u8
+#EXTINF:-1 tvg-name="TJ Sokol Dobrichovice - TJ Sokol Bucovice" group-title="Canlı Maçlar - Czech Republic: Liga 1",[17:00] TJ Sokol Dobrichovice - TJ Sokol Bucovice
+https://andro.2385437.xyz/checklist/androstreamlivech37559607.m3u8
 #EXTINF:-1 tvg-name="Takovo - FK Šumadija 1903" group-title="Canlı Maçlar - Sırbistan. Sırp Liga-Batı",[16:30] Takovo - FK Šumadija 1903
 https://andro.2385437.xyz/checklist/androstreamlivech18778994.m3u8
-#EXTINF:-1 tvg-name="Theodore Winegar - Ryan Colby" group-title="Canlı Maçlar - ATP Challenger: Sarasota. Clay. Qualifying",[17:00] Theodore Winegar - Ryan Colby
-https://andro.2385437.xyz/checklist/androstreamlivech37558409.m3u8
 #EXTINF:-1 tvg-name="Tomasz Berkieta - Fabrizio Andaloro" group-title="Canlı Maçlar - ATP Challenger: Monza. Clay. Qualifying",[16:51] Tomasz Berkieta - Fabrizio Andaloro
 https://andro.2385437.xyz/checklist/androstreamlivech37558203.m3u8
-#EXTINF:-1 tvg-name="Torpan Pojat (w) - Kotka Peli-Karhut (w)" group-title="Canlı Maçlar - Finland: Women. Korisliiga",[17:00] Torpan Pojat (w) - Kotka Peli-Karhut (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37558625.m3u8
-#EXTINF:-1 tvg-name="Turgutlu Belediyesi (Bayanlar) - Edirne DSI (Bayanlar)" group-title="Canlı Maçlar - Türkiye Şampiyonası. TKBL. Bayanlar",[17:00] Turgutlu Belediyesi (Bayanlar) - Edirne DSI (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18779112.m3u8
-#EXTINF:-1 tvg-name="Turgutlu Bld (w) - Edirne DSI (w)" group-title="Canlı Maçlar - Turkey: Women. TKBL",[17:00] Turgutlu Bld (w) - Edirne DSI (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37558557.m3u8
 #EXTINF:-1 tvg-name="Twente (w) - ADO Den Haag (w)" group-title="Canlı Maçlar - Netherlands: Women. Eredivisie",[17:45] Twente (w) - ADO Den Haag (w)
 https://andro.2385437.xyz/checklist/androstreamlivech37559129.m3u8
+#EXTINF:-1 tvg-name="UE Olot - UD Barbastro" group-title="Canlı Maçlar - Spain: Segunda Federacion",[18:00] UE Olot - UD Barbastro
+https://andro.2385437.xyz/checklist/androstreamlivech37559545.m3u8
 #EXTINF:-1 tvg-name="UGMK (Bayanlar) - BC Nadezhda Orenburg (Bayanlar)" group-title="Canlı Maçlar - Rusya Şampiyonası. Premier Lig. Bayanlar",[17:00] UGMK (Bayanlar) - BC Nadezhda Orenburg (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779141.m3u8
 #EXTINF:-1 tvg-name="Udinese - Como" group-title="Canlı Maçlar - İtalya Serie A",[13:30] Udinese - Como
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Union Berlin - St Pauli" group-title="Canlı Maçlar - Germany: Bundesliga",[16:30] Union Berlin - St Pauli
-https://andro.2385437.xyz/checklist/androstreamlivech37557959.m3u8
-#EXTINF:-1 tvg-name="Union Berlin - St.Pauli" group-title="Canlı Maçlar - Almanya Bundesliga",[16:30] Union Berlin - St.Pauli
-https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Urszula Radwanska - Celia Cervino Ruiz" group-title="Canlı Maçlar - ITF: Women. Calvi. Hard. Qualifying",[16:08] Urszula Radwanska - Celia Cervino Ruiz
-https://andro.2385437.xyz/checklist/androstreamlivech37557843.m3u8
+#EXTINF:-1 tvg-name="Unisport De Sokode - Espoir Tsevie" group-title="Canlı Maçlar - Togo: Premiere Division",[18:30] Unisport De Sokode - Espoir Tsevie
+https://andro.2385437.xyz/checklist/androstreamlivech37559743.m3u8
+#EXTINF:-1 tvg-name="Urartu - Gandzasar FC" group-title="Canlı Maçlar - Ermenistan Şampiyonası. Premier Lig",[18:00] Urartu - Gandzasar FC
+https://andro.2385437.xyz/checklist/androstreamlivech18779559.m3u8
 #EXTINF:-1 tvg-name="Uruguay (TBL) - Sırbistan (TBL)" group-title="Canlı Maçlar - Table Basketball League",[17:55] Uruguay (TBL) - Sırbistan (TBL)
 https://andro.2385437.xyz/checklist/androstreamlivech18779441.m3u8
 #EXTINF:-1 tvg-name="Utrecht (w) - PEC Zwolle (w)" group-title="Canlı Maçlar - Netherlands: Women. Eredivisie",[17:45] Utrecht (w) - PEC Zwolle (w)
@@ -516,12 +512,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech37559127.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37558665.m3u8
 #EXTINF:-1 tvg-name="Valencia - Celta Vigo" group-title="Canlı Maçlar - İspanya La Liga",[17:15] Valencia - Celta Vigo
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Villeneuve D'Asco ESB Lille Metropole (Bayanlar) - Flammes Carolo Ardennes (Bayanlar)" group-title="Canlı Maçlar - Fransa Şampiyonası. LFB. Bayanlar",[16:15] Villeneuve D'Asco ESB Lille Metropole (Bayanlar) - Flammes Carolo Ardennes (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech18779092.m3u8
-#EXTINF:-1 tvg-name="Villeneuve Lille Metropole (w) - Flammes Carolo Ardennes Charleville-Mezieres (w)" group-title="Canlı Maçlar - France: Women. LFB",[16:15] Villeneuve Lille Metropole (w) - Flammes Carolo Ardennes Charleville-Mezieres (w)
-https://andro.2385437.xyz/checklist/androstreamlivech37558517.m3u8
-#EXTINF:-1 tvg-name="Vivero+ - Bologna+" group-title="Canlı Maçlar - Short Football 3x3",[18:52] Vivero+ - Bologna+
-https://andro.2385437.xyz/checklist/androstreamlivech18779514.m3u8
 #EXTINF:-1 tvg-name="Vladivostok (Bayanlar) - Kaluga (Bayanlar)" group-title="Canlı Maçlar - IPBL. Pro Division. Bayanlar",[18:00] Vladivostok (Bayanlar) - Kaluga (Bayanlar)
 https://andro.2385437.xyz/checklist/androstreamlivech18779459.m3u8
 #EXTINF:-1 tvg-name="Volei Municipal Zalau - Corona Brasov" group-title="Canlı Maçlar - Romania: Cup",[16:00] Volei Municipal Zalau - Corona Brasov
@@ -532,14 +522,18 @@ https://andro.2385437.xyz/checklist/androstreamlivech18779535.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech37559403.m3u8
 #EXTINF:-1 tvg-name="Volos NFC - OFI" group-title="Canlı Maçlar - Greece: Super League 1",[17:00] Volos NFC - OFI
 https://andro.2385437.xyz/checklist/androstreamlivech37558653.m3u8
+#EXTINF:-1 tvg-name="West Ham - Leeds" group-title="Canlı Maçlar - England: FA Cup",[18:30] West Ham - Leeds
+https://andro.2385437.xyz/checklist/androstreamlivech37559653.m3u8
 #EXTINF:-1 tvg-name="West Ham - Leeds United" group-title="Canlı Maçlar - İngiltere FA Cup Çeyrek Final",[18:30] West Ham - Leeds United
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Wings U-22 - TSU Tbilisi U-22" group-title="Canlı Maçlar - Georgia: U-22 Championship",[17:00] Wings U-22 - TSU Tbilisi U-22
 https://andro.2385437.xyz/checklist/androstreamlivech37558757.m3u8
 #EXTINF:-1 tvg-name="Wings U22 - TSU U22" group-title="Canlı Maçlar - Gürcistan Şampiyonası U22",[17:00] Wings U22 - TSU U22
 https://andro.2385437.xyz/checklist/androstreamlivech18779212.m3u8
-#EXTINF:-1 tvg-name="Wolfsburg (Amatörler) - RB Leipzig (Amatörler)" group-title="Canlı Maçlar - BudnesLiga LFL 5x5",[18:15] Wolfsburg (Amatörler) - RB Leipzig (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech18779487.m3u8
+#EXTINF:-1 tvg-name="Wrexham (Bayanlar) - Swansea City (Bayanlar)" group-title="Canlı Maçlar - Galler Şampiyonası. Premier Lig. Bayanlar",[18:15] Wrexham (Bayanlar) - Swansea City (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779801.m3u8
+#EXTINF:-1 tvg-name="Wrexham (w) - Swansea AFC (w)" group-title="Canlı Maçlar - Wales: Women. Premier League",[18:30] Wrexham (w) - Swansea AFC (w)
+https://andro.2385437.xyz/checklist/androstreamlivech37559935.m3u8
 #EXTINF:-1 tvg-name="Zamora CF - Unionistas de Salamanca" group-title="Canlı Maçlar - Spain: Primera Federacion",[17:00] Zamora CF - Unionistas de Salamanca
 https://andro.2385437.xyz/checklist/androstreamlivech37558947.m3u8
 #EXTINF:-1 tvg-name="Zaragoza - Barcelona" group-title="Canlı Maçlar - İspanya Basketbol Ligi",[19:30] Zaragoza - Barcelona
@@ -550,3 +544,5 @@ https://andro.2385437.xyz/checklist/androstreamlivech18779105.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="İspanya - Arjantin" group-title="Canlı Maçlar - CBV 23. Duo Masters",[14:20] İspanya - Arjantin
 https://andro.2385437.xyz/checklist/androstreamlivech18779215.m3u8
+#EXTINF:-1 tvg-name="İtalya (Bayanlar) - ABD (Bayanlar)" group-title="Canlı Maçlar - VCA. Master Volleyball League. Bayanlar",[18:20] İtalya (Bayanlar) - ABD (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech18779793.m3u8

@@ -4,6 +4,8 @@
 #EXT-X-ORIGIN:https://main.uxsyplayer0e0c6aba22.click
 #EXTINF:-1 tvg-name="Beşiktaş - Antalyaspor HD1" group-title="Maç Yayınları",Beşiktaş - Antalyaspor HD1
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Japonya - Vietnam" group-title="Maç Yayınları",Japonya - Vietnam
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Sarıyer - Hatayspor" group-title="Maç Yayınları",Sarıyer - Hatayspor
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Preussen Münster - Greuther Fürth" group-title="Maç Yayınları",Preussen Münster - Greuther Fürth
@@ -18,9 +20,9 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad - Alaves" group-title="Maç Yayınları",Real Sociedad - Alaves
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Pendikspor - Çorum FK" group-title="Maç Yayınları",Pendikspor - Çorum FK
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Cagliari - Cremonese" group-title="Maç Yayınları",Cagliari - Cremonese
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Pendikspor - Çorum FK" group-title="Maç Yayınları",Pendikspor - Çorum FK
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Torino - Verona" group-title="Maç Yayınları",Torino - Verona
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -38,15 +40,13 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Elche - Valencia" group-title="Maç Yayınları",Elche - Valencia
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Bodrumspor - Bandırmaspor" group-title="Maç Yayınları",Bodrumspor - Bandırmaspor
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Milan - Udinese" group-title="Maç Yayınları",Milan - Udinese
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="St.Pauli - Bayern Münih" group-title="Maç Yayınları",St.Pauli - Bayern Münih
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Liverpool - Fulham" group-title="Maç Yayınları",Liverpool - Fulham
+#EXTINF:-1 tvg-name="Bodrumspor - Bandırmaspor" group-title="Maç Yayınları",Bodrumspor - Bandırmaspor
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Espanyol" group-title="Maç Yayınları",Barcelona - Espanyol
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="St.Pauli - Bayern Münih" group-title="Maç Yayınları",St.Pauli - Bayern Münih
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta Rotterdam - PSV" group-title="Maç Yayınları",Sparta Rotterdam - PSV
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -67,6 +67,8 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Angers" group-title="Maç Yayınları",Rennes - Angers
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Estrela - Sporting Lisbon" group-title="Maç Yayınları",Estrela - Sporting Lisbon
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Vitoria - Sao Paulo" group-title="Maç Yayınları",Vitoria - Sao Paulo
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Esenler Erokspor - Mersin Spor" group-title="Maç Yayınları",Esenler Erokspor - Mersin Spor
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -76,7 +78,11 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Karşıyaka - Büyükçekmece" group-title="Maç Yayınları",Karşıyaka - Büyükçekmece
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="M.Andreeva - E.G.Ruse" group-title="Maç Yayınları",M.Andreeva - E.G.Ruse
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Beşiktaş - Antalyaspor HD1" group-title="Maç Yayınları",Beşiktaş - Antalyaspor HD1
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Japonya - Vietnam" group-title="Maç Yayınları",Japonya - Vietnam
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Sarıyer - Hatayspor" group-title="Maç Yayınları",Sarıyer - Hatayspor
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -92,9 +98,9 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad - Alaves" group-title="Maç Yayınları",Real Sociedad - Alaves
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Pendikspor - Çorum FK" group-title="Maç Yayınları",Pendikspor - Çorum FK
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Cagliari - Cremonese" group-title="Maç Yayınları",Cagliari - Cremonese
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Pendikspor - Çorum FK" group-title="Maç Yayınları",Pendikspor - Çorum FK
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Torino - Verona" group-title="Maç Yayınları",Torino - Verona
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -112,15 +118,13 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Elche - Valencia" group-title="Maç Yayınları",Elche - Valencia
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Bodrumspor - Bandırmaspor" group-title="Maç Yayınları",Bodrumspor - Bandırmaspor
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Milan - Udinese" group-title="Maç Yayınları",Milan - Udinese
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="St.Pauli - Bayern Münih" group-title="Maç Yayınları",St.Pauli - Bayern Münih
-https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
-#EXTINF:-1 tvg-name="Liverpool - Fulham" group-title="Maç Yayınları",Liverpool - Fulham
+#EXTINF:-1 tvg-name="Bodrumspor - Bandırmaspor" group-title="Maç Yayınları",Bodrumspor - Bandırmaspor
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Espanyol" group-title="Maç Yayınları",Barcelona - Espanyol
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="St.Pauli - Bayern Münih" group-title="Maç Yayınları",St.Pauli - Bayern Münih
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta Rotterdam - PSV" group-title="Maç Yayınları",Sparta Rotterdam - PSV
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
@@ -141,6 +145,8 @@ https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Angers" group-title="Maç Yayınları",Rennes - Angers
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Estrela - Sporting Lisbon" group-title="Maç Yayınları",Estrela - Sporting Lisbon
+https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
+#EXTINF:-1 tvg-name="Vitoria - Sao Paulo" group-title="Maç Yayınları",Vitoria - Sao Paulo
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.9aba268e801a36.click/live/player-container/playlist.m3u8

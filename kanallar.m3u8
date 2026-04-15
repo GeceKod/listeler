@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1542.xyz/
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://trgoals1542.xyz/
-#EXT-X-ORIGIN:https://trgoals1542.xyz
-#EXT-X-HEADER:Sec-Fetch-Dest=empty
-#EXT-X-HEADER:Sec-Fetch-Mode=cors
-#EXT-X-HEADER:Sec-Fetch-Site=cross-site
-#EXTINF:-1 tvg-name="beIN Sports 1" group-title="BeinSports",beIN Sports 1
-https://dje.d72577a9dd0ec29.sbs/trgoals/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2" group-title="BeinSports",beIN Sports 2
-https://dje.d72577a9dd0ec29.sbs/b2/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 3" group-title="BeinSports",beIN Sports 3
-https://dje.d72577a9dd0ec29.sbs/b3/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 4" group-title="BeinSports",beIN Sports 4
-https://dje.d72577a9dd0ec29.sbs/b4/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5" group-title="BeinSports",beIN Sports 5
-https://dje.d72577a9dd0ec29.sbs/b5/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 1 Max" group-title="BeinSports",beIN Sports 1 Max
-https://dje.d72577a9dd0ec29.sbs/bm1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2 Max" group-title="BeinSports",beIN Sports 2 Max
-https://dje.d72577a9dd0ec29.sbs/bm2/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1041.xyz
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXT-X-REFERER:https://taraftarium1041.xyz
+#EXT-X-ORIGIN:https://taraftarium1041.xyz
+
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
+https://dd0.d72577a9dd0ec54.cfd/taraftarium/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
+https://dd0.d72577a9dd0ec54.cfd/b2/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
+https://dd0.d72577a9dd0ec54.cfd/b3/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
+https://dd0.d72577a9dd0ec54.cfd/b4/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
+https://dd0.d72577a9dd0ec54.cfd/b5/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1 Max" group-title="BeinSports",BeIN Sports 1 Max
+https://dd0.d72577a9dd0ec54.cfd/bm1/mono.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2 Max" group-title="BeinSports",BeIN Sports 2 Max
+https://dd0.d72577a9dd0ec54.cfd/bm2/mono.m3u8
 #EXTINF:-1 tvg-name="S Sport 1" group-title="S Sports",S Sport 1
-https://dje.d72577a9dd0ec29.sbs/ss/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/ss/mono.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://dje.d72577a9dd0ec29.sbs/ss2/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/ss2/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 1" group-title="Tivibu",Tivibu Sports 1
-https://dje.d72577a9dd0ec29.sbs/t1/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/t1/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 2" group-title="Tivibu",Tivibu Sports 2
-https://dje.d72577a9dd0ec29.sbs/t2/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/t2/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 3" group-title="Tivibu",Tivibu Sports 3
-https://dje.d72577a9dd0ec29.sbs/t3/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/t3/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 4" group-title="Tivibu",Tivibu Sports 4
-https://dje.d72577a9dd0ec29.sbs/t4/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/t4/mono.m3u8
 #EXTINF:-1 tvg-name="Smart Spor" group-title="Smart Sports",Smart Spor
-https://dje.d72577a9dd0ec29.sbs/smarts/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/smarts/mono.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Sports",Smart Spor 2
-https://dje.d72577a9dd0ec29.sbs/sms2/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/sms2/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" group-title="TRT",TRT Spor
-https://dje.d72577a9dd0ec29.sbs/trtspor/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/trtspor/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Spor 2" group-title="TRT",TRT Spor 2
+https://dd0.d72577a9dd0ec54.cfd/trtspor2/mono.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal",A Spor
-https://dje.d72577a9dd0ec29.sbs/as/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/as/mono.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
-https://dje.d72577a9dd0ec29.sbs/atv/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/atv/mono.m3u8
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal",TV8
-https://dje.d72577a9dd0ec29.sbs/tv8/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/tv8/mono.m3u8
 #EXTINF:-1 tvg-name="TV8.5" group-title="Ulusal",TV8.5
-https://dje.d72577a9dd0ec29.sbs/tv85/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/tv85/mono.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="NBA",NBA TV
-https://dje.d72577a9dd0ec29.sbs/nbatv/mono.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1" group-title="Euro Sport",Eurosport 1
-https://dje.d72577a9dd0ec29.sbs/eu1/mono.m3u8
+https://dd0.d72577a9dd0ec54.cfd/nbatv/mono.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="Eurosport",Eurosport 1
+https://dd0.d72577a9dd0ec54.cfd/eu1/mono.m3u8

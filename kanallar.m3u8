@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://taraftarium1058.xyz
+#EXTVLCOPT:http-referrer=https://taraftarium1059.xyz
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://taraftarium1058.xyz
-#EXT-X-ORIGIN:https://taraftarium1058.xyz
+#EXT-X-REFERER:https://taraftarium1059.xyz
+#EXT-X-ORIGIN:https://taraftarium1059.xyz
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
-https://y8t.d72577a9dd0ec65.cfd/taraftarium/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/taraftarium/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
-https://y8t.d72577a9dd0ec65.cfd/b2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/b2/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
-https://y8t.d72577a9dd0ec65.cfd/b3/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/b3/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
-https://y8t.d72577a9dd0ec65.cfd/b4/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/b4/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
-https://y8t.d72577a9dd0ec65.cfd/b5/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/b5/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1 Max" group-title="BeinSports",BeIN Sports 1 Max
-https://y8t.d72577a9dd0ec65.cfd/bm1/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/bm1/mono.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2 Max" group-title="BeinSports",BeIN Sports 2 Max
-https://y8t.d72577a9dd0ec65.cfd/bm2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/bm2/mono.m3u8
 #EXTINF:-1 tvg-name="S Sport 1" group-title="S Sports",S Sport 1
-https://y8t.d72577a9dd0ec65.cfd/ss/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/ss/mono.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://y8t.d72577a9dd0ec65.cfd/ss2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/ss2/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 1" group-title="Tivibu",Tivibu Sports 1
-https://y8t.d72577a9dd0ec65.cfd/t1/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/t1/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 2" group-title="Tivibu",Tivibu Sports 2
-https://y8t.d72577a9dd0ec65.cfd/t2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/t2/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 3" group-title="Tivibu",Tivibu Sports 3
-https://y8t.d72577a9dd0ec65.cfd/t3/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/t3/mono.m3u8
 #EXTINF:-1 tvg-name="Tivibu Sports 4" group-title="Tivibu",Tivibu Sports 4
-https://y8t.d72577a9dd0ec65.cfd/t4/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/t4/mono.m3u8
 #EXTINF:-1 tvg-name="Smart Spor" group-title="Smart Sports",Smart Spor
-https://y8t.d72577a9dd0ec65.cfd/smarts/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/smarts/mono.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Sports",Smart Spor 2
-https://y8t.d72577a9dd0ec65.cfd/sms2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/sms2/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" group-title="TRT",TRT Spor
-https://y8t.d72577a9dd0ec65.cfd/trtspor/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/trtspor/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor 2" group-title="TRT",TRT Spor 2
-https://y8t.d72577a9dd0ec65.cfd/trtspor2/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/trtspor2/mono.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal",A Spor
-https://y8t.d72577a9dd0ec65.cfd/as/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/as/mono.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
-https://y8t.d72577a9dd0ec65.cfd/atv/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/atv/mono.m3u8
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal",TV8
-https://y8t.d72577a9dd0ec65.cfd/tv8/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/tv8/mono.m3u8
 #EXTINF:-1 tvg-name="TV8.5" group-title="Ulusal",TV8.5
-https://y8t.d72577a9dd0ec65.cfd/tv85/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/tv85/mono.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="NBA",NBA TV
-https://y8t.d72577a9dd0ec65.cfd/nbatv/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/nbatv/mono.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1" group-title="Eurosport",Eurosport 1
-https://y8t.d72577a9dd0ec65.cfd/eu1/mono.m3u8
+https://cyn.d72577a9dd0ec66.cfd/eu1/mono.m3u8

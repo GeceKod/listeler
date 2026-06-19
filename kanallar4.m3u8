@@ -106,8 +106,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Ulusal ve Diğer Kanallar",iDMAN Tv
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-name="A.Binder - Sado Uçar" group-title="Canlı Maçlar - Cage Warriors",[23:59] A.Binder - Sado Uçar
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="A.Lima - K.Borjas" group-title="Canlı Maçlar - UFC Dövüş Serisi",[03:30] A.Lima - K.Borjas
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="A.Zverev - T.Fritz" group-title="Canlı Maçlar - ATP Halle Yari Final",[16:00] A.Zverev - T.Fritz
@@ -117,9 +115,9 @@ https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="Almanya - Fildişi Sahili" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[23:00] Almanya - Fildişi Sahili
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Almeria - Malaga" group-title="Canlı Maçlar - İspanya La Liga 2 Play-Off Final",[22:00] Almeria - Malaga
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Barueri U-21 (w) - Paineiras U-21 (w)" group-title="Canlı Maçlar - Brazil: Women. U-21 Paulista",[00:00] Barueri U-21 (w) - Paineiras U-21 (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38906755.m3u8
+https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-name="Argentino de Castelar (w) - River Plate (w)" group-title="Canlı Maçlar - Argentina: Women. Copa Alcidez Marquez",[01:30] Argentino de Castelar (w) - River Plate (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38907483.m3u8
 #EXTINF:-1 tvg-name="Belçika - İran" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[22:00] Belçika - İran
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Brasilien - Haiti (Deustch)" group-title="Canlı Maçlar - FIFA-Fußball-Weltmeisterschaft 2026",[03:30] Brasilien - Haiti (Deustch)
@@ -128,14 +126,16 @@ https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-name="Brezilya - Haiti" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[03:30] Brezilya - Haiti
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Connecticut Sun (w) - Toronto Tempo (w)" group-title="Canlı Maçlar - WNBA: Regular season",[02:30] Connecticut Sun (w) - Toronto Tempo (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38907825.m3u8
+#EXTINF:-1 tvg-name="Deportivo San Jose (w) - Olimpia de Asuncion (w)" group-title="Canlı Maçlar - Paraguay: Women. LNBF",[02:00] Deportivo San Jose (w) - Olimpia de Asuncion (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38907789.m3u8
 #EXTINF:-1 tvg-name="Ekvador - Curaçao" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[03:00] Ekvador - Curaçao
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Final" group-title="Canlı Maçlar - Final",[16:30] Final
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="G.Chikadze - V.Oliveira" group-title="Canlı Maçlar - UFC Dövüş Serisi",[04:30] G.Chikadze - V.Oliveira
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="Guido Ivan Justo - Nick Hardt" group-title="Canlı Maçlar - ATP Challenger: Asuncion. Clay",[00:34] Guido Ivan Justo - Nick Hardt
-https://andro.2385437.xyz/checklist/androstreamlivech38906917.m3u8
 #EXTINF:-1 tvg-name="H.Amil - C.Rodriguez" group-title="Canlı Maçlar - UFC Dövüş Serisi",[04:00] H.Amil - C.Rodriguez
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="Hollanda - İsveç" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[20:00] Hollanda - İsveç
@@ -150,20 +150,28 @@ https://andro.2385437.xyz/checklist/androstreamlivech38907129.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Japonya - İtalya" group-title="Canlı Maçlar - Voleybol Kadinlar Milletler Ligi",[15:00] Japonya - İtalya
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="Kabeer Kapasi/Petro Kuzmenok - Gavin Young/Justin Boulais" group-title="Canlı Maçlar - ITF: Men. Doubles. Tulsa. Hard",[00:06] Kabeer Kapasi/Petro Kuzmenok - Gavin Young/Justin Boulais
-https://andro.2385437.xyz/checklist/androstreamlivech38906659.m3u8
 #EXTINF:-1 tvg-name="Kanada - Polonya" group-title="Canlı Maçlar - Voleybol Kadinlar Milletler Ligi",[13:00] Kanada - Polonya
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="Limeira Basquete U-20 - Basquete Santos U-20" group-title="Canlı Maçlar - Brazil: U-20 Championship",[01:00] Limeira Basquete U-20 - Basquete Santos U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38906969.m3u8
+#EXTINF:-1 tvg-name="Loudoun United FC II - Bethesda SC" group-title="Canlı Maçlar - USA: USL League Two",[02:00] Loudoun United FC II - Bethesda SC
+https://andro.2385437.xyz/checklist/androstreamlivech38907667.m3u8
 #EXTINF:-1 tvg-name="M.Baghdasaryan - M.Magomedov" group-title="Canlı Maçlar - UFC Dövüş Serisi",[03:00] M.Baghdasaryan - M.Magomedov
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="M.Kape - K.Horiguchi" group-title="Canlı Maçlar - UFC Dövüş Serisi",[05:30] M.Kape - K.Horiguchi
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="Miramar Misiones - Huracan Del Paso de La Arena" group-title="Canlı Maçlar - Uruguay: Segunda Division",[00:00] Miramar Misiones - Huracan Del Paso de La Arena
-https://andro.2385437.xyz/checklist/androstreamlivech38906685.m3u8
+#EXTINF:-1 tvg-name="Metros de Santiago - Indios de San Francisco" group-title="Canlı Maçlar - Dominican Republic: LNB",[02:30] Metros de Santiago - Indios de San Francisco
+https://andro.2385437.xyz/checklist/androstreamlivech38907913.m3u8
+#EXTINF:-1 tvg-name="Netherlands - Sweden (English)" group-title="Canlı Maçlar - FIFA World Cup 2026",[20:00] Netherlands - Sweden (English)
+https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-name="New York Liberty (w) - Washington Mystics (w)" group-title="Canlı Maçlar - WNBA: Regular season",[02:30] New York Liberty (w) - Washington Mystics (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38907829.m3u8
+#EXTINF:-1 tvg-name="Niederlande – Schweden(Deustch)" group-title="Canlı Maçlar - FIFA-Fußball-Weltmeisterschaft 2026",[20:00] Niederlande – Schweden(Deustch)
+https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 tvg-name="O.Brown - I.Davies" group-title="Canlı Maçlar - Cage Warriors",[22:30] O.Brown - I.Davies
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Sagicor South East - Pointe Michel FC" group-title="Canlı Maçlar - Dominica: Premier League",[02:00] Sagicor South East - Pointe Michel FC
+https://andro.2385437.xyz/checklist/androstreamlivech38907647.m3u8
+#EXTINF:-1 tvg-name="Scarborough Shooting Stars - Ottawa Blackjacks" group-title="Canlı Maçlar - Canada: CEBL (after 36 minutes: game to score +9 points to the leading team)",[02:30] Scarborough Shooting Stars - Ottawa Blackjacks
+https://andro.2385437.xyz/checklist/androstreamlivech38907931.m3u8
 #EXTINF:-1 tvg-name="Schottland - Marokko (Deustch)" group-title="Canlı Maçlar - FIFA-Fußball-Weltmeisterschaft 2026",[01:00] Schottland - Marokko (Deustch)
 https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-name="Scotland - Morocco" group-title="Canlı Maçlar - FIFA World Cup: Group Stage",[01:00] Scotland - Morocco
@@ -176,8 +184,12 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Sirbistan - ABD" group-title="Canlı Maçlar - Voleybol Kadinlar Milletler Ligi",[07:00] Sirbistan - ABD
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="Sol de America Asuncion (w) - Felix Perez Cardozo (w)" group-title="Canlı Maçlar - Paraguay: Women. LNBF",[02:30] Sol de America Asuncion (w) - Felix Perez Cardozo (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38907991.m3u8
 #EXTINF:-1 tvg-name="Sprint Yarişlari" group-title="Canlı Maçlar - Çekya GP",[16:00] Sprint Yarişlari
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="Tobacco Road FC - Asheville City SC" group-title="Canlı Maçlar - USA: USL League Two",[02:00] Tobacco Road FC - Asheville City SC
+https://andro.2385437.xyz/checklist/androstreamlivech38907673.m3u8
 #EXTINF:-1 tvg-name="Tunus - Japonya" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[07:00] Tunus - Japonya
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Turkey - Paraguay (English)" group-title="Canlı Maçlar - FIFA World Cup 2026",[06:00] Turkey - Paraguay (English)
@@ -196,13 +208,17 @@ https://andro.2385437.xyz/checklist/androstreamlivech38907235.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="W.Fleury - Kasim Aras" group-title="Canlı Maçlar - MMA Kafes Dövüşü",[20:00] W.Fleury - Kasim Aras
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Westchester SC - Portland Hearts Of Pine" group-title="Canlı Maçlar - USA: USL League One",[02:07] Westchester SC - Portland Hearts Of Pine
+https://andro.2385437.xyz/checklist/androstreamlivech38907645.m3u8
+#EXTINF:-1 tvg-name="Western Mass Pioneers - Boston Bolts" group-title="Canlı Maçlar - USA: USL League Two",[02:30] Western Mass Pioneers - Boston Bolts
+https://andro.2385437.xyz/checklist/androstreamlivech38907959.m3u8
 #EXTINF:-1 tvg-name="Xpel GP" group-title="Canlı Maçlar - Bilinmiyor",[21:00] Xpel GP
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Yari Final Maç 2" group-title="Canlı Maçlar - Yari Final",[18:00] Yari Final Maç 2
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Yariş 1" group-title="Canlı Maçlar - Bilinmiyor",[11:30] Yariş 1
+#EXTINF:-1 tvg-name="Yariş 1" group-title="Canlı Maçlar - Formula 1",[11:30] Yariş 1
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Yariş 2" group-title="Canlı Maçlar - Bilinmiyor",[17:25] Yariş 2
+#EXTINF:-1 tvg-name="Yariş 2" group-title="Canlı Maçlar - Formula 1",[17:25] Yariş 2
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="Yariş 2" group-title="Canlı Maçlar - Avustralya",[08:10] Yariş 2
 https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8

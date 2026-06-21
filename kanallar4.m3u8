@@ -106,8 +106,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Ulusal ve Diğer Kanallar",iDMAN Tv
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-name="ASA Arapiraquense - Sergipe" group-title="Canlı Maçlar - Brazil: Serie D",[23:00] ASA Arapiraquense - Sergipe
-https://andro.2385437.xyz/checklist/androstreamlivech38940347.m3u8
 #EXTINF:-1 tvg-name="Annapolis Blues FC (w) - Virginia Beach United FC (w)" group-title="Canlı Maçlar - USA: Women. USL W-League",[00:00] Annapolis Blues FC (w) - Virginia Beach United FC (w)
 https://andro.2385437.xyz/checklist/androstreamlivech38941265.m3u8
 #EXTINF:-1 tvg-name="Araguaina FR - Nacional FC AM" group-title="Canlı Maçlar - Brazil: Serie D",[00:00] Araguaina FR - Nacional FC AM
@@ -118,52 +116,40 @@ https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Barra FC - Amazonas FC" group-title="Canlı Maçlar - Brazil: Serie C",[00:30] Barra FC - Amazonas FC
 https://andro.2385437.xyz/checklist/androstreamlivech38941231.m3u8
-#EXTINF:-1 tvg-name="CSD Colo-Colo (w) - Universidad de Chile (w)" group-title="Canlı Maçlar - Chile: Women. Primera Division",[23:00] CSD Colo-Colo (w) - Universidad de Chile (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38940401.m3u8
-#EXTINF:-1 tvg-name="Chicago Dutch Lions - RKC Soccer Club" group-title="Canlı Maçlar - USA: USL League Two",[23:00] Chicago Dutch Lions - RKC Soccer Club
-https://andro.2385437.xyz/checklist/androstreamlivech38940273.m3u8
-#EXTINF:-1 tvg-name="Chloe Noel - Valentina Carreras Medina" group-title="Canlı Maçlar - ITF: Women. Palma del Rio. Hard. Qualifying",[22:52] Chloe Noel - Valentina Carreras Medina
-https://andro.2385437.xyz/checklist/androstreamlivech38940183.m3u8
-#EXTINF:-1 tvg-name="Estudiantil CNI - Sporting Cristal" group-title="Canlı Maçlar - Peru: League Cup",[23:30] Estudiantil CNI - Sporting Cristal
-https://andro.2385437.xyz/checklist/androstreamlivech38940657.m3u8
+#EXTINF:-1 tvg-name="Botafogo RJ U-20 - Serrano RJ U-20" group-title="Canlı Maçlar - Brazil: U-20 Cup",[01:00] Botafogo RJ U-20 - Serrano RJ U-20
+https://andro.2385437.xyz/checklist/androstreamlivech38941571.m3u8
+#EXTINF:-1 tvg-name="CEB Puerto Montt - San Francisco de Asis" group-title="Canlı Maçlar - Chile: Liga Saesa",[01:00] CEB Puerto Montt - San Francisco de Asis
+https://andro.2385437.xyz/checklist/androstreamlivech38941587.m3u8
+#EXTINF:-1 tvg-name="Columbus Crew II - Atlanta United FC II" group-title="Canlı Maçlar - USA: MLS. Next Pro",[01:00] Columbus Crew II - Atlanta United FC II
+https://andro.2385437.xyz/checklist/androstreamlivech38941505.m3u8
 #EXTINF:-1 tvg-name="Ferroviaria - Internacional Limeira" group-title="Canlı Maçlar - Brazil: Serie C",[00:30] Ferroviaria - Internacional Limeira
 https://andro.2385437.xyz/checklist/androstreamlivech38941233.m3u8
-#EXTINF:-1 tvg-name="Fram - Vikingur Reykjavik" group-title="Canlı Maçlar - Iceland: Besta-deild",[23:15] Fram - Vikingur Reykjavik
-https://andro.2385437.xyz/checklist/androstreamlivech38940431.m3u8
 #EXTINF:-1 tvg-name="Goias EC - Operario Ferroviario" group-title="Canlı Maçlar - Brazil: Serie B",[00:30] Goias EC - Operario Ferroviario
 https://andro.2385437.xyz/checklist/androstreamlivech38941171.m3u8
-#EXTINF:-1 tvg-name="Imperial Unido - CD Naval de Talcahuano" group-title="Canlı Maçlar - Chile: Tercera Division",[23:00] Imperial Unido - CD Naval de Talcahuano
-https://andro.2385437.xyz/checklist/androstreamlivech38940471.m3u8
 #EXTINF:-1 tvg-name="Independencia FC - Manauara" group-title="Canlı Maçlar - Brazil: Serie D",[00:00] Independencia FC - Manauara
 https://andro.2385437.xyz/checklist/androstreamlivech38940973.m3u8
-#EXTINF:-1 tvg-name="Ji-Parana FC U-20 - Uniao Cacoalense U-20" group-title="Canlı Maçlar - Brazil: U-20 Championship",[23:00] Ji-Parana FC U-20 - Uniao Cacoalense U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38940451.m3u8
+#EXTINF:-1 tvg-name="Indios de San Francisco - Metros de Santiago" group-title="Canlı Maçlar - Dominican Republic: LNB",[01:00] Indios de San Francisco - Metros de Santiago
+https://andro.2385437.xyz/checklist/androstreamlivech38941507.m3u8
 #EXTINF:-1 tvg-name="Long Island Rough Riders - Westchester Flames" group-title="Canlı Maçlar - USA: USL League Two",[00:30] Long Island Rough Riders - Westchester Flames
 https://andro.2385437.xyz/checklist/androstreamlivech38941225.m3u8
 #EXTINF:-1 tvg-name="Merrimack Valley Hawks (w) - Connecticut Rush (w)" group-title="Canlı Maçlar - USA: Women. WPSL",[00:00] Merrimack Valley Hawks (w) - Connecticut Rush (w)
 https://andro.2385437.xyz/checklist/androstreamlivech38941105.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Bavarian SC (w) - Chicago KICS (w)" group-title="Canlı Maçlar - USA: Women. WPSL",[00:00] Milwaukee Bavarian SC (w) - Chicago KICS (w)
 https://andro.2385437.xyz/checklist/androstreamlivech38940941.m3u8
-#EXTINF:-1 tvg-name="Rio Branco ES - Uberlandia EC" group-title="Canlı Maçlar - Brazil: Serie D",[23:00] Rio Branco ES - Uberlandia EC
-https://andro.2385437.xyz/checklist/androstreamlivech38940375.m3u8
-#EXTINF:-1 tvg-name="Rio Claro Basquete SP U-22 - Fortaleza Basquete Cearense U-22" group-title="Canlı Maçlar - Brazil: U-22 Championship",[00:00] Rio Claro Basquete SP U-22 - Fortaleza Basquete Cearense U-22
-https://andro.2385437.xyz/checklist/androstreamlivech38941009.m3u8
-#EXTINF:-1 tvg-name="Sampaio Correa FC - Trem Desportivo Clube" group-title="Canlı Maçlar - Brazil: Serie D",[23:00] Sampaio Correa FC - Trem Desportivo Clube
-https://andro.2385437.xyz/checklist/androstreamlivech38940361.m3u8
-#EXTINF:-1 tvg-name="Santos FC de Ica - Ayacucho FC" group-title="Canlı Maçlar - Peru: League Cup",[23:00] Santos FC de Ica - Ayacucho FC
-https://andro.2385437.xyz/checklist/androstreamlivech38940317.m3u8
-#EXTINF:-1 tvg-name="Sao Bernardo FC - EC Juventude" group-title="Canlı Maçlar - Brazil: Serie B",[23:00] Sao Bernardo FC - EC Juventude
-https://andro.2385437.xyz/checklist/androstreamlivech38940217.m3u8
+#EXTINF:-1 tvg-name="Minnesota Lynx (w) - Washington Mystics (w)" group-title="Canlı Maçlar - WNBA: Regular season",[01:00] Minnesota Lynx (w) - Washington Mystics (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38941407.m3u8
+#EXTINF:-1 tvg-name="Mint Hill FC - Statesville FC" group-title="Canlı Maçlar - USA: NPSL",[01:00] Mint Hill FC - Statesville FC
+https://andro.2385437.xyz/checklist/androstreamlivech38941525.m3u8
 #EXTINF:-1 tvg-name="Sao Jose dos Campos U-22 - Botafogo U-22" group-title="Canlı Maçlar - Brazil: U-22 Championship",[00:13] Sao Jose dos Campos U-22 - Botafogo U-22
 https://andro.2385437.xyz/checklist/androstreamlivech38941111.m3u8
 #EXTINF:-1 tvg-name="Sao Raimundo RR - Porto Velho EC" group-title="Canlı Maçlar - Brazil: Serie D",[00:00] Sao Raimundo RR - Porto Velho EC
 https://andro.2385437.xyz/checklist/androstreamlivech38940979.m3u8
-#EXTINF:-1 tvg-name="Scarborough Shooting Stars - Niagara River Lions" group-title="Canlı Maçlar - Canada: CEBL (after 36 minutes: game to score +9 points to the leading team)",[23:00] Scarborough Shooting Stars - Niagara River Lions
-https://andro.2385437.xyz/checklist/androstreamlivech38940257.m3u8
 #EXTINF:-1 tvg-name="Side FC 92 (w) - Kansas City Current II (w)" group-title="Canlı Maçlar - USA: Women. WPSL",[00:00] Side FC 92 (w) - Kansas City Current II (w)
 https://andro.2385437.xyz/checklist/androstreamlivech38940955.m3u8
 #EXTINF:-1 tvg-name="Universidad de Chile - Santiago Wanderers" group-title="Canlı Maçlar - Chile: Cup",[00:30] Universidad de Chile - Santiago Wanderers
 https://andro.2385437.xyz/checklist/androstreamlivech38941161.m3u8
+#EXTINF:-1 tvg-name="Uruguay - Cape Verde" group-title="Canlı Maçlar - FIFA World Cup: Group Stage",[01:00] Uruguay - Cape Verde
+https://andro.2385437.xyz/checklist/androstreamlivech38941023.m3u8
 #EXTINF:-1 tvg-name="Uruguay - Cape Verde (English)" group-title="Canlı Maçlar - FIFA World Cup 2026",[01:00] Uruguay - Cape Verde (English)
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 tvg-name="Uruguay - Yeşil Burun Adalari (Türkçe)" group-title="Canlı Maçlar - FIFA 2026 Dünya Kupasi",[01:00] Uruguay - Yeşil Burun Adalari (Türkçe)

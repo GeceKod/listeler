@@ -2,10 +2,10 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer6859599e6c.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer6859599e6c.click
-#EXTINF:-1 tvg-name="Erzurumspor - Galatasaray" group-title="Maç Yayınları",Erzurumspor - Galatasaray
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Karagümrük - Bursaspor" group-title="Maç Yayınları",Karagümrük - Bursaspor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Erzurumspor - Galatasaray" group-title="Maç Yayınları",Erzurumspor - Galatasaray
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Strasbourg" group-title="Maç Yayınları",Marsilya - Strasbourg
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Coventry" group-title="Maç Yayınları",Arsenal - Coventry
@@ -14,10 +14,10 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Almanya - Çekya" group-title="Maç Yayınları",Almanya - Çekya
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Erzurumspor - Galatasaray" group-title="Maç Yayınları",Erzurumspor - Galatasaray
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Karagümrük - Bursaspor" group-title="Maç Yayınları",Karagümrük - Bursaspor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Erzurumspor - Galatasaray" group-title="Maç Yayınları",Erzurumspor - Galatasaray
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Strasbourg" group-title="Maç Yayınları",Marsilya - Strasbourg
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Coventry" group-title="Maç Yayınları",Arsenal - Coventry
@@ -65,7 +65,7 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 2" group-title="Maç Yayınları",tabii Spor 2
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 3" group-title="Maç Yayınları",tabii Spor 3
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor3/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 4" group-title="Maç Yayınları",tabii Spor 4
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 5" group-title="Maç Yayınları",tabii Spor 5

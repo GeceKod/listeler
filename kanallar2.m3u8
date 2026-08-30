@@ -2,16 +2,14 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer6859599e6c.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer6859599e6c.click
-#EXTINF:-1 tvg-name="Vasco Da Gama - Cruzeiro" group-title="Maç Yayınları",Vasco Da Gama - Cruzeiro
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Sunderland - Fulham" group-title="Maç Yayınları",Sunderland - Fulham
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Leeds United - Brentford" group-title="Maç Yayınları",Leeds United - Brentford
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Paris FC - Nice" group-title="Maç Yayınları",Paris FC - Nice
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Chelsea - Brighton" group-title="Maç Yayınları",Chelsea - Brighton
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Paris FC - Nice" group-title="Maç Yayınları",Paris FC - Nice
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-name="Leeds United - Brentford" group-title="Maç Yayınları",Leeds United - Brentford
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunderland - Fulham" group-title="Maç Yayınları",Sunderland - Fulham
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Malaga" group-title="Maç Yayınları",Real Madrid - Malaga
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Le Mans" group-title="Maç Yayınları",Rennes - Le Mans
@@ -28,6 +26,8 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Banfield - River Plate" group-title="Maç Yayınları",Banfield - River Plate
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="İstanbul Başakşehir - Kasımpaşa" group-title="Maç Yayınları",İstanbul Başakşehir - Kasımpaşa
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Samsunspor - Fenerbahçe" group-title="Maç Yayınları",Samsunspor - Fenerbahçe
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manisa FK - Bodrumspor" group-title="Maç Yayınları",Manisa FK - Bodrumspor
@@ -46,16 +46,14 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor/playlist.m3u8
 #EXTINF:-1 tvg-name="Türkiye - Güney Kıbrıs" group-title="Maç Yayınları",Türkiye - Güney Kıbrıs
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor/playlist.m3u8
-#EXTINF:-1 tvg-name="Vasco Da Gama - Cruzeiro" group-title="Maç Yayınları",Vasco Da Gama - Cruzeiro
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Sunderland - Fulham" group-title="Maç Yayınları",Sunderland - Fulham
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Leeds United - Brentford" group-title="Maç Yayınları",Leeds United - Brentford
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Paris FC - Nice" group-title="Maç Yayınları",Paris FC - Nice
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Chelsea - Brighton" group-title="Maç Yayınları",Chelsea - Brighton
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Paris FC - Nice" group-title="Maç Yayınları",Paris FC - Nice
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-name="Leeds United - Brentford" group-title="Maç Yayınları",Leeds United - Brentford
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunderland - Fulham" group-title="Maç Yayınları",Sunderland - Fulham
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Malaga" group-title="Maç Yayınları",Real Madrid - Malaga
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennes - Le Mans" group-title="Maç Yayınları",Rennes - Le Mans
@@ -72,6 +70,8 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Banfield - River Plate" group-title="Maç Yayınları",Banfield - River Plate
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="İstanbul Başakşehir - Kasımpaşa" group-title="Maç Yayınları",İstanbul Başakşehir - Kasımpaşa
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Samsunspor - Fenerbahçe" group-title="Maç Yayınları",Samsunspor - Fenerbahçe
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manisa FK - Bodrumspor" group-title="Maç Yayınları",Manisa FK - Bodrumspor

@@ -4,9 +4,9 @@
 #EXT-X-ORIGIN:https://main.uxsyplayer6859599e6c.click
 #EXTINF:-1 tvg-name="Iğdırspor - Manisa FK" group-title="Maç Yayınları",Iğdırspor - Manisa FK
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Bodrumspor - Esenler Erokspor" group-title="Maç Yayınları",Bodrumspor - Esenler Erokspor
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bursaspor - İstanbulspor" group-title="Maç Yayınları",Bursaspor - İstanbulspor
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Bodrumspor - Esenler Erokspor" group-title="Maç Yayınları",Bodrumspor - Esenler Erokspor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad - Celta Vigo" group-title="Maç Yayınları",Real Sociedad - Celta Vigo
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
@@ -14,8 +14,6 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Iğdırspor - Manisa FK" group-title="Maç Yayınları",Iğdırspor - Manisa FK
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Bodrumspor - Esenler Erokspor" group-title="Maç Yayınları",Bodrumspor - Esenler Erokspor
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bursaspor - İstanbulspor" group-title="Maç Yayınları",Bursaspor - İstanbulspor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad - Celta Vigo" group-title="Maç Yayınları",Real Sociedad - Celta Vigo
@@ -25,37 +23,27 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports2/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 3" group-title="BeinSports",Bein Sports 3
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 4" group-title="BeinSports",Bein Sports 4
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 5" group-title="BeinSports",Bein Sports 5
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Haber" group-title="BeinSports",Bein Sports Haber
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 1" group-title="BeinSports",Bein Sports Max 1
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="BeinSports",Bein Sports Max 2
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Smart Spor" group-title="Diğer Spor",Smart Spor
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Diğer Spor",Smart Spor 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor1/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor2/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor4/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor" group-title="Maç Yayınları",tabii Spor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 1" group-title="Maç Yayınları",tabii Spor 1
@@ -66,16 +54,12 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor2/playlist.m3u8
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 4" group-title="Maç Yayınları",tabii Spor 4
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor4/playlist.m3u8
-#EXTINF:-1 tvg-name="tabii Spor 5" group-title="Maç Yayınları",tabii Spor 5
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 6" group-title="Maç Yayınları",tabii Spor 6
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor6/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 7" group-title="Maç Yayınları",tabii Spor 7
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor7/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport Plus 1" group-title="S Sports",S Sport Plus 1
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssportplus1/playlist.m3u8
-#EXTINF:-1 tvg-name="S Sport Plus 2" group-title="S Sports",S Sport Plus 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssportplus2/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport Plus 3" group-title="S Sports",S Sport Plus 3
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssportplus3/playlist.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
@@ -83,8 +67,8 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" group-title="Ulusal Kanallar",TRT Spor
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor 2" group-title="Ulusal Kanallar",TRT Spor 2
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor2/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz" group-title="Maç Yayınları",TRT Avaz
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtavaz/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal Kanallar",TRT 1
-https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukobs1/playlist.m3u8
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtavaz/playlist.m3u8
